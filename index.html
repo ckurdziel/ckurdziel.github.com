@@ -1,19 +1,18 @@
-<!DOCTYPE html>
-<html>
-	<head>
-    	<meta charset="utf-8">
-		<title>Chris Kurdziel</title>
-		<link rel="stylesheet" href="css/bootstrap.css"/>
-	</head>
-	<body>
-		<div class="hero-unit" style="font-size:48;">
-			Hi, I'm Chris.
-				<div class="menu">
-	        		<div class="menu-item"><a href="about.html">about me</a></div>
-			        <div class="menu-item"><a href="http://chriskurdziel.tumblr.com">read my thoughts</a></div>
-			        <div class="menu-item"><a href="www.linkedin.com/in/ckurdziel/">learn about my work</a></div>
-			        <div class="menu-item"><a href="mailto:chris@chriskurdziel.com">connect with me</a></div>
-      			</div>
-		</div>
-	</body>
-</html>
+---
+layout: default
+title: ChrisKurdziel.com
+---
+
+<div id="home">
+  <h1>Hi, I'm Chris.</h1>
+  <p>
+    This is my website.</br>
+    Find out more <a href="/about.html">about me</a>, read my <a href="writing.html">writing</a>.
+  </p>
+  <h2>Here are some of my recent blog posts:</h2>
+  <ul class="posts">
+    {% for post in site.posts limit: 5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
