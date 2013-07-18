@@ -25,16 +25,18 @@ Here's a quick list of some startup and product management resources I find usef
  - [3 Rules to Actionable Metrics](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics/)
  - [Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
  - [Lean Analytics](http://www.amazon.com/gp/product/1449335675/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449335675&linkCode=as2&tag=chriskurdziel-20) - This is a great book on using data to inform product decisionmaking.
+ - [The Psychology of Color](https://www.helpscout.net/blog/psychology-of-color/)
 
 <!---
 **Engagement & Retention**
 **Distribution**
 **Team Building**
 **Startup/CEO Psychology**
-
+-->
 **Raising Money**
  - [Paul Graham - Investing Trends](http://www.paulgraham.com/invtrend.html)
--->
+ - [Party Rounds](http://blog.samaltman.com/party-rounds)
+
 **Product Management**
  - [Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
  - [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus)
