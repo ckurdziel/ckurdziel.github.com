@@ -28,12 +28,11 @@ Here's a quick list of some startup and product management resources I find help
 
 **Growth**
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
- - 
-
 <!---
 **Engagement & Retention**
 **Distribution**
 -->
+
 **Company Building**
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
  - [The meanest thing Paul Graham said to a startup](http://brandonb.cc/no-filter-the-meanest-thing-paul-graham-said-to-a-startup) -  A good little anecdote about the importance of being brutally honest at a startup.
@@ -55,3 +54,7 @@ Here's a quick list of some startup and product management resources I find help
  - [How to hire a product manager](https://www.kennethnorton.com/essays/productmanager.html)
  - [What distinguishes the top 1% of product managers from the top 10%](http://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)
 
+**Products/Services I Endorse**
+ - [Intercom.io](http://www.intercom.io)
+ - [KissMetrics](http://kissmetrics.com/)
+ - []()
