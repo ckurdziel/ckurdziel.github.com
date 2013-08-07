@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hello World!
+tags:
+- startups
+- 
+- 
+---
+<p>I&#8217;ve wrestled with the idea of blogging for a while now.  While I&#8217;m not the world&#8217;s most prolific or profound writer, I find that expressing myself via written word is a useful exercise in developing my ideas (many of which never leave the grey matter they are conceived in).  I&#8217;ve also been inspired at the community my friend Steve has created over on his blog, <a title="NerdFitness" href="http://www.nerdfitness.com">NerdFitness</a>.  My goal here is not to attract the level of readership that Steve has (although I certainly wouldn&#8217;t complain if I do).  Rather, I hope to articulate some commentary and ideas on topics that are dear to me.  Perhaps, in this process, I&#8217;ll attract a few others who also share my passion for these topics and we&#8217;ll engage in some discourse and discussion along the way.</p>

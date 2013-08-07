@@ -30,8 +30,9 @@ Here's a quick list of some startup and product management resources I find help
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
 <!---
 **Engagement & Retention**
-**Distribution**
 -->
+**Distribution**
+ - [Mobile App Distribution](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/) - this post by Semil Shah is awesome. Really comprehensive look at mobile app distribution and how to approach a mobile app launch.
 
 **Company Building**
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
@@ -40,7 +41,8 @@ Here's a quick list of some startup and product management resources I find help
 
 **Raising Money**
  - [Paul Graham - Investing Trends](http://www.paulgraham.com/invtrend.html)
- - [Party Rounds](http://blog.samaltman.com/party-rounds)
+ - [Paul Graham - How to convince investors](http://paulgraham.com/convince.html)
+ - [On Party Rounds](http://blog.samaltman.com/party-rounds)
 
 **Product Management**
  - [Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
@@ -57,4 +59,4 @@ Here's a quick list of some startup and product management resources I find help
 **Products/Services I Endorse**
  - [Intercom.io](http://www.intercom.io)
  - [KissMetrics](http://kissmetrics.com/)
- - []()
+ - [ba]()
