@@ -14,10 +14,9 @@ Here's a quick list of some startup and product management resources I find help
 - [Steve Blank](http://steveblank.com/) - Great lean product advice.
 - [Jerry Colona](http://www.themonsterinyourhead.com/) - Jerry is the master of CEO psychology. 
 
-<!---
 **Product Design**
  - [The Psychology of Color](https://www.helpscout.net/blog/psychology-of-color/)
-
+<!---
 **Product Psychology**
 -->
 
@@ -27,13 +26,13 @@ Here's a quick list of some startup and product management resources I find help
  - [Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
  - [Lean Analytics](http://www.amazon.com/gp/product/1449335675/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449335675&linkCode=as2&tag=chriskurdziel-20) - This is a great book on using data to inform product decisionmaking.
 
-**Growth & Distribution**
+**Growth**
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
- - [Startup = Growth](http://www.paulgraham.com/growth.html)
- - [Mobile App Distribution](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/) - this post by Semil Shah is awesome. Really comprehensive look at mobile app distribution and how to approach a mobile app launch.
 <!---
 **Engagement & Retention**
 -->
+**Distribution**
+ - [Mobile App Distribution](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/) - this post by Semil Shah is awesome. Really comprehensive look at mobile app distribution and how to approach a mobile app launch.
 
 **Company Building**
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
@@ -60,3 +59,4 @@ Here's a quick list of some startup and product management resources I find help
 **Products/Services I Endorse**
  - [Intercom.io](http://www.intercom.io)
  - [KissMetrics](http://kissmetrics.com/)
+ - [ba]()
