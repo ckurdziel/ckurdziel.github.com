@@ -14,13 +14,6 @@ Here's a quick list of some startup and product management resources I find help
 - [Steve Blank](http://steveblank.com/) - Great lean product advice.
 - [Jerry Colona](http://www.themonsterinyourhead.com/) - Jerry is the master of CEO psychology. 
 
-<!---
-**Product Design**
- - [The Psychology of Color](https://www.helpscout.net/blog/psychology-of-color/)
-
-**Product Psychology**
--->
-
 **Metrics**
  - [Metrics Driven Design](http://www.slideshare.net/bokardo/metricsdriven-design-4317168)
  - [3 Rules to Actionable Metrics](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics/)
@@ -31,9 +24,6 @@ Here's a quick list of some startup and product management resources I find help
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
  - [Startup = Growth](http://www.paulgraham.com/growth.html)
  - [Mobile App Distribution](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/) - this post by Semil Shah is awesome. Really comprehensive look at mobile app distribution and how to approach a mobile app launch.
-<!---
-**Engagement & Retention**
--->
 
 **Company Building**
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
