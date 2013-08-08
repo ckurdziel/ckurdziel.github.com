@@ -57,6 +57,6 @@ Here's a quick list of some startup and product management resources I find help
  - [How to hire a product manager](https://www.kennethnorton.com/essays/productmanager.html)
  - [What distinguishes the top 1% of product managers from the top 10%](http://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)
 
-**Products/Services I Endorse**
+**Products/Services I Like**
  - [Intercom.io](http://www.intercom.io)
  - [KissMetrics](http://kissmetrics.com/)
