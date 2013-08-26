@@ -19,6 +19,7 @@ Here's a quick list of some startup and product management resources I find help
  - [3 Rules to Actionable Metrics](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics/)
  - [Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
  - [Lean Analytics](http://www.amazon.com/gp/product/1449335675/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449335675&linkCode=as2&tag=chriskurdziel-20) - This is a great book on using data to inform product decisionmaking.
+ - [IA Ventures](http://resources.iaventures.com/index.php) - IA Ventures has a fantastic list of budgets, board decks, investor update emails, etc. on their resource site. No need to reinvent the wheel - it's easy to use this stuff.
 
 **Growth & Distribution**
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
@@ -50,3 +51,7 @@ Here's a quick list of some startup and product management resources I find help
 **Products/Services I Like**
  - [Intercom.io](http://www.intercom.io)
  - [KissMetrics](http://kissmetrics.com/)
+
+ **Design & Wireframing**
+ - [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html) - Incredibly thorough list of responsive web design resources.
+ - [UX Equivalents for iOS 7,6, Android](http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/)
