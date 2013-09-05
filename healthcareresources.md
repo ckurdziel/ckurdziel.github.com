@@ -28,3 +28,17 @@ Here's a quick list of some interesting healthcare resources I keep track of.
 
  - [Health IT Cancer Resource Guide](http://www.ehidc.org/health-it-cancer-resource.html) - 
  - [Cancer Genome Atlas](http://cancergenome.nih.gov/) - Cancer Genome Atlas
+
+ **Most Active VCs in Digital Health**:
+
+ - General Catalyst Partners
+ - Andreessen Horowitz
+ - Khosla Ventures
+ - Norwest Venture Partners
+ - Maverick Capital
+ - Kleiner Perkins Caufield & Byers
+ - West Health Investment Fund
+ - Google Ventures
+ - Founders Fund
+ - New Leaf Venture Partners
+ - Venrock 
