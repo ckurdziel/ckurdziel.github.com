@@ -31,11 +31,16 @@ Here's a quick list of some startup and product management resources I find help
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
  - [The meanest thing Paul Graham said to a startup](http://brandonb.cc/no-filter-the-meanest-thing-paul-graham-said-to-a-startup) -  A good little anecdote about the importance of being brutally honest at a startup.
  - [Romantic lies about passion and entrepreneurship](http://blog.michellelaralin.com/romantic-lies) - pretty personal take on some of the challenges of being a founder.
+ - [The Science Behind How Super Connectors Scale Their Networks](http://www.forbes.com/sites/michaelsimmons/2013/09/04/the-science-behind-how-super-connectors-scale-their-networks/) - a good piece that illustrates the power of networking and how to effectively build/activate a network.
 
 **Raising Money**
  - [Paul Graham - Investing Trends](http://www.paulgraham.com/invtrend.html)
  - [Paul Graham - How to convince investors](http://paulgraham.com/convince.html)
  - [On Party Rounds](http://blog.samaltman.com/party-rounds)
+
+**Mobile Distribution**
+ - [Ratings and Reviews in the App Store](http://appurify.com/blog/study-correlation-between-ratings-reviews-and-rankings-in-the-apple-app-store/)
+ - [A Mobile Distribution Framework](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/)
 
 **Product Management**
  - [Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
