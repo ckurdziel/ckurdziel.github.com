@@ -1,214 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>/archive/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/healthcareresources/</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>/healthcareresources/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/posts/</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>/posts/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/startupresources/</loc>
+        <loc>/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/startupresources/</loc>
+    </url>
+    
+    <url>
+        <loc>/tags/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://localhost:4000/product-thursday-wireframing-for-noobs-mbas-too/</loc>
+        <loc>/product-thursday-wireframing-for-noobs-mbas-too/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/house-of-cards-the-content-wars-are-a-game-of-thrones/</loc>
+        <loc>/house-of-cards-the-content-wars-are-a-game-of-thrones/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/product-thursday-killing-google-reader/</loc>
+        <loc>/product-thursday-killing-google-reader/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/product-thursday-thoughts-on-mailbox/</loc>
+        <loc>/product-thursday-thoughts-on-mailbox/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/product-thursday-minimum-viable-design/</loc>
+        <loc>/product-thursday-minimum-viable-design/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/product-thursday-wtf-is-ux/</loc>
+        <loc>/product-thursday-wtf-is-ux/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/product-thursday-designing-with-emotion/</loc>
+        <loc>/product-thursday-designing-with-emotion/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/introducing-product-thursdays/</loc>
+        <loc>/introducing-product-thursdays/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/first-comes-the-dream/</loc>
+        <loc>/first-comes-the-dream/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/silicon-valley-doesnt-have-to-be-wall-street/</loc>
+        <loc>/silicon-valley-doesnt-have-to-be-wall-street/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-oral-history-of-silicon-valley-vcs/</loc>
+        <loc>/the-oral-history-of-silicon-valley-vcs/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/healthcare-is-a-long-slog-but-i-think-its-worth-it/</loc>
+        <loc>/healthcare-is-a-long-slog-but-i-think-its-worth-it/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/fakegrimlock-is-a-pretty-cool-dude/</loc>
+        <loc>/fakegrimlock-is-a-pretty-cool-dude/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/honoring-the-past/</loc>
+        <loc>/honoring-the-past/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/saying-no-sucks/</loc>
+        <loc>/saying-no-sucks/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/building-community/</loc>
+        <loc>/building-community/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/how-should-startups-approach-ces/</loc>
+        <loc>/how-should-startups-approach-ces/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/cornell--nyc--awesome-sauce/</loc>
+        <loc>/cornell--nyc--awesome-sauce/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/how-do-you-sell-your-corporate-experience-to-a-startup/</loc>
+        <loc>/how-do-you-sell-your-corporate-experience-to-a-startup/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/athlete-not-quite-but-i-did-run-the-marathon/</loc>
+        <loc>/athlete-not-quite-but-i-did-run-the-marathon/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/be-interesting-and-other-ways-to-help-land-a-jobinternship-at-a-startup/</loc>
+        <loc>/be-interesting-and-other-ways-to-help-land-a-jobinternship-at-a-startup/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/some-thoughts-for-intern1/</loc>
+        <loc>/some-thoughts-for-intern1/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/keyboard-cat-is-cool-but-changing-video-is-cooler/</loc>
+        <loc>/keyboard-cat-is-cool-but-changing-video-is-cooler/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/getting-ads-right-in-a-world-where-bandwidth-isnt-unlimited/</loc>
+        <loc>/getting-ads-right-in-a-world-where-bandwidth-isnt-unlimited/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/apples-tv-strategy/</loc>
+        <loc>/apples-tv-strategy/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/on-hackdays/</loc>
+        <loc>/on-hackdays/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/hitchhikers-guide-to-nyc-tech-part-1-the-places/</loc>
+        <loc>/hitchhikers-guide-to-nyc-tech-part-1-the-places/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/techstars-boston-demo-day/</loc>
+        <loc>/techstars-boston-demo-day/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/implicit-graphs-and-social-recommendations/</loc>
+        <loc>/implicit-graphs-and-social-recommendations/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/what-im-doing-this-summer-and-why-the-heck-you-should-care/</loc>
+        <loc>/what-im-doing-this-summer-and-why-the-heck-you-should-care/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/focus-on-the-next-handhold/</loc>
+        <loc>/focus-on-the-next-handhold/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/a-week-of-startup-excitement/</loc>
+        <loc>/a-week-of-startup-excitement/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-future-of-google/</loc>
+        <loc>/the-future-of-google/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/developing-a-creative-voice/</loc>
+        <loc>/developing-a-creative-voice/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/jackson-hole-days-five--six-summiting-the-grand-teton/</loc>
+        <loc>/jackson-hole-days-five--six-summiting-the-grand-teton/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/jackson-hole-day-four-intermediate-alpinism/</loc>
+        <loc>/jackson-hole-day-four-intermediate-alpinism/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/jackson-hole-day-three-practicing-alpinism/</loc>
+        <loc>/jackson-hole-day-three-practicing-alpinism/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/jackson-hole-day-two-a-wildlife-extravaganza-in-yellowstone/</loc>
+        <loc>/jackson-hole-day-two-a-wildlife-extravaganza-in-yellowstone/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/jackson-hole-day-one-the-grand-teton-awaits/</loc>
+        <loc>/jackson-hole-day-one-the-grand-teton-awaits/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-ipad-is-a-blank-slate-for-computing/</loc>
+        <loc>/the-ipad-is-a-blank-slate-for-computing/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/option-paralysis--creative-passion/</loc>
+        <loc>/option-paralysis--creative-passion/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-birds-and-the-bees-thoughts-on-google-buzz/</loc>
+        <loc>/the-birds-and-the-bees-thoughts-on-google-buzz/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/hello-world/</loc>
+        <loc>/hello-world/</loc>
     </url>
     
 </urlset>

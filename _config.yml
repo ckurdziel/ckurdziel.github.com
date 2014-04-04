@@ -1,32 +1,31 @@
 title:            ChrisKurdziel.com
-description:      The personal website of Chris Kurdziel
-# Your site's domain goes here. Leave localhost server or blank when working locally.
+description:      Headbanging to the sound of creative destruction.
+logo:             horns-logo@2x.png
+disqus_shortname: chriskurdzielblog
+search:           false
+# Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://chriskurdziel.com
 
 # Owner/author information
 owner:
   name:           Chris Kurdziel
   avatar:         bio-photo.jpg
-  bio:            "Building Shelby. Previously @ McKesson. Vanderbilt & Cornell grad. New Yorker. Husband. Explorer. Are you coming to Mars or what?"
-  email:          ckurdziel@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        ckurdziel
+  email:          chris@chriskurdziel.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:    ckurdziel
   facebook:       christopher.kurdziel
   github:         ckurdziel
-  stackoverflow:
+  stackexchange:
   linkedin:       ckurdziel
   instagram:      ckurdziel
-  lastfm:         choppinbroccoli
-  tumblr: chriskurdziel
-  pinterest: ckurdziel
-  foursquare: ckurdziel
-  steam: choppinbroccoli
-  dribbble:
+  flickr:
+  tumblr:         chriskurdziel
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: https://plus.google.com/115571690879628469024
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-12256494-2
+Status: Receiving Data
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -34,14 +33,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: about
-    url: /about/
-  - title: posts
-    url: /posts/
-  - title: startup resources
-    url: /startupresources/
-  - title: healthcare resources
-    url: /healthcareresources/
+- title: About
+  url: /about/
+- title: Archive
+  url: /archive/
+- title: Startup Resources
+  url: /startupresources/
+- title: Healthcare Resources
+  url: /healthcareresources/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -67,4 +66,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
