@@ -1,7 +1,7 @@
 title:            ChrisKurdziel.com
 description:      The personal website of Chris Kurdziel
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://chriskurdziel.com
 
 # Owner/author information
 owner:
@@ -13,23 +13,23 @@ owner:
   twitter:        ckurdziel
   facebook:       christopher.kurdziel
   github:         ckurdziel
-  stackoverflow: 
+  stackoverflow:
   linkedin:       ckurdziel
   instagram:      ckurdziel
   lastfm:         choppinbroccoli
   tumblr: chriskurdziel
   pinterest: ckurdziel
   foursquare: ckurdziel
-  steam: choppinbroccoli  
-  dribbble: 
+  steam: choppinbroccoli
+  dribbble:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -60,7 +60,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
