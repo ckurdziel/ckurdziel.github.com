@@ -1,5 +1,5 @@
 title:            ChrisKurdziel.com
-description:      Describe your website.
+description:      The personal website of Chris Kurdziel
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
@@ -7,20 +7,20 @@ url:              http://localhost:4000
 owner:
   name:           Chris Kurdziel
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            "Building Shelby. Previously @ McKesson. Vanderbilt & Cornell grad. New Yorker. Husband. Explorer. Are you coming to Mars or what?"
   email:          ckurdziel@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: ckurdziel       
-  facebook: christopher.kurdziel      
-  github: ckurdziel        
+  twitter:        ckurdziel
+  facebook:       christopher.kurdziel
+  github:         ckurdziel
   stackoverflow: 
-  linkedin: ckurdziel      
-  instagram: ckurdziel     
-  lastfm: choppinbroccoli        
+  linkedin:       ckurdziel
+  instagram:      ckurdziel
+  lastfm:         choppinbroccoli
   tumblr: chriskurdziel
   pinterest: ckurdziel
   foursquare: ckurdziel
-  steam: choppinbroccoli
+  steam: choppinbroccoli  
   dribbble: 
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
@@ -34,15 +34,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: about
     url: /about/
-  - title: Posts
+  - title: posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: startup resources
+    url: /startupresources/
+  - title: healthcare resources
+    url: /healthcareresources/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
