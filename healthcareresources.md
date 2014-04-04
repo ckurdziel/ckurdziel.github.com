@@ -14,10 +14,10 @@ Here's a quick list of some interesting healthcare resources I keep track of.
 
  - [HealthData.gov](http://healthdata.gov/) - A federal government website managed by the U.S. Department of Health & Human Services that releases healthcare data for public consumption. Cool place to start if you're looking to crunch some public data.
  - [The eHealth Initiative](http://www.ehidc.org/) - Though this site is pretty archaic in terms of the content layout and CMS, it has some useful info on Meaningful Use, mHealth, ePrescribing, Chronic Disease and more.
- - [List of Healthcare APIs](http://health2api.com/) - What it sounds like. 
+ - [List of Healthcare APIs](http://health2api.com/) - What it sounds like.
 
  **Data Visualization**:
- 
+
  - [Hospital Costs across the US for Pneumonia & Heart Failure](http://infovis.kitware.com/hospital-costs/)
 
  **Healthcare Costs**:
@@ -26,7 +26,7 @@ Here's a quick list of some interesting healthcare resources I keep track of.
 
  **Cancer Resources**:
 
- - [Health IT Cancer Resource Guide](http://www.ehidc.org/health-it-cancer-resource.html) - 
+ - [Health IT Cancer Resource Guide](http://www.ehidc.org/health-it-cancer-resource.html) -
  - [Cancer Genome Atlas](http://cancergenome.nih.gov/) - Cancer Genome Atlas
 
  **Most Active VCs in Digital Health**:
@@ -41,4 +41,4 @@ Here's a quick list of some interesting healthcare resources I keep track of.
  - Google Ventures
  - Founders Fund
  - New Leaf Venture Partners
- - Venrock 
+ - Venrock

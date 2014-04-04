@@ -32,6 +32,7 @@ Here's a quick list of some startup and product management resources I find help
  - [The meanest thing Paul Graham said to a startup](http://brandonb.cc/no-filter-the-meanest-thing-paul-graham-said-to-a-startup) -  A good little anecdote about the importance of being brutally honest at a startup.
  - [Romantic lies about passion and entrepreneurship](http://blog.michellelaralin.com/romantic-lies) - pretty personal take on some of the challenges of being a founder.
  - [The Science Behind How Super Connectors Scale Their Networks](http://www.forbes.com/sites/michaelsimmons/2013/09/04/the-science-behind-how-super-connectors-scale-their-networks/) - a good piece that illustrates the power of networking and how to effectively build/activate a network.
+ - [Startupery - Startup Best Practices](http://startupery.com/)
 
 **Raising Money**
  - [Paul Graham - Investing Trends](http://www.paulgraham.com/invtrend.html)
@@ -53,6 +54,7 @@ Here's a quick list of some startup and product management resources I find help
  - [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf)
  - [How to hire a product manager](https://www.kennethnorton.com/essays/productmanager.html)
  - [What distinguishes the top 1% of product managers from the top 10%](http://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)
+ - [48 Articles and Books that will Make you a Great Product Manager](https://medium.com/p/aad5babee2f7)
 
 **Products/Services I Like**
  - [Intercom.io](http://www.intercom.io)
@@ -61,3 +63,9 @@ Here's a quick list of some startup and product management resources I find help
  **Design & Wireframing**
  - [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html) - Incredibly thorough list of responsive web design resources.
  - [UX Equivalents for iOS 7,6, Android](http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/)
+ - [Pttrns](http://pttrns.com/) - Great site for mobile UI examples
+ - [Mobile Patterns](http://www.mobile-patterns.com/)
+ - [PlaceIt](https://placeit.net/) - Awesome way to quickly get images for landing page using mockups
+ - [GoodUI](http://www.goodui.org/)
+ - [Anatomy of a Perfect Landing Page](http://www.formstack.com/the-anatomy-of-a-perfect-landing-page)
+
