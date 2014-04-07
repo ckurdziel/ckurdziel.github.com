@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">ChrisKurdziel.com</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-04-04T18:44:59-04:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://chriskurdziel.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://chriskurdziel.com" />
+<updated>2014-04-07T19:36:40-04:00</updated>
+<id>http://chriskurdziel.com/</id>
 <author>
   <name>Chris Kurdziel</name>
-  <uri>/</uri>
+  <uri>http://chriskurdziel.com/</uri>
   <email>chris@chriskurdziel.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Wireframing for Noobs (MBAs too!)]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-wireframing-for-noobs-mbas-too/"/>
-  <id>/product-thursday-wireframing-for-noobs-mbas-too</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-wireframing-for-noobs-mbas-too/"/>
+  <id>http://chriskurdziel.com/product-thursday-wireframing-for-noobs-mbas-too</id>
   <published>2013-04-04T00:00:00-04:00</published>
   <updated>2013-04-04T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;One of the longstanding jokes in business school is that MBAs think in PowerPoint. In the startup world, people don&amp;#8217;t often think in PowerPoint - they think in code.  So what&amp;#8217;s the easiest way to bridge that gap?&lt;/p&gt;
@@ -31,19 +31,19 @@
 
 &lt;p&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-wireframing-for-noobs-mbas-too/&quot;&gt;Wireframing for Noobs (MBAs too!)&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-wireframing-for-noobs-mbas-too/&quot;&gt;Wireframing for Noobs (MBAs too!)&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[House of Cards: The Content Wars Are A Game of Thrones]]></title>
-  <link rel="alternate" type="text/html" href="/house-of-cards-the-content-wars-are-a-game-of-thrones/"/>
-  <id>/house-of-cards-the-content-wars-are-a-game-of-thrones</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/house-of-cards-the-content-wars-are-a-game-of-thrones/"/>
+  <id>http://chriskurdziel.com/house-of-cards-the-content-wars-are-a-game-of-thrones</id>
   <published>2013-04-02T00:00:00-04:00</published>
   <updated>2013-04-02T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;House of Cards has gotten a ton of attention lately for a few reasons:&lt;/p&gt;
@@ -59,19 +59,19 @@
 &lt;p&gt;&lt;span&gt;&lt;strong&gt;What does this all mean for the people playing this &amp;#8220;game of thrones&quot; in the content landscape?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;The implications of all of this are good for startups - Americans watch over 5 hours a day of content and not all of it is that &amp;#8220;top notch&quot; stuff like House of Cards or Game of Thrones. Startups don&amp;#8217;t need to unseat that &amp;#8220;top value&quot; content quite yet - they can let this game of thrones happen and focus more on the Torso of TV (&lt;a href=&quot;http://techcrunch.com/2012/06/06/the-power-of-torso-tv-why-media-is-racing-to-the-middle/&quot; target=&quot;_blank&quot;&gt;read Suster&amp;#8217;s post if you haven&amp;#8217;t&lt;/a&gt;) and create a ton of value around providing meaningful context and discovery for the rest of the video landscape.&lt;/span&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/house-of-cards-the-content-wars-are-a-game-of-thrones/&quot;&gt;House of Cards: The Content Wars Are A Game of Thrones&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 02, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/house-of-cards-the-content-wars-are-a-game-of-thrones/&quot;&gt;House of Cards: The Content Wars Are A Game of Thrones&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 02, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Killing Google Reader]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-killing-google-reader/"/>
-  <id>/product-thursday-killing-google-reader</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-killing-google-reader/"/>
+  <id>http://chriskurdziel.com/product-thursday-killing-google-reader</id>
   <published>2013-03-14T00:00:00-04:00</published>
   <updated>2013-03-14T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;Yesterday, Google &lt;a href=&quot;http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html&quot; target=&quot;_blank&quot;&gt;announced they&amp;#8217;re killing Reader&lt;/a&gt;, one of their most beloved (if my Twitter stream is to be believed) products in their portfolio.&lt;/p&gt;
@@ -98,19 +98,19 @@
 &lt;p&gt;Anyone else have other ideas out there? Seems that there are a ton of companies tackling this problem but no one has really hit the nail on the head yet (for me).  I&amp;#8217;ve tried Prismatic and while I think the content it surfaces is pretty solid, I find the UX, scrolling and lack of Instapaper support absolutely maddening. Hopefully &lt;a href=&quot;http://blog.digg.com/post/45355701332/were-building-a-reader&quot;&gt;Digg&lt;/a&gt; (or someone else) does it right.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Note: I also realize this problem is completely non-trivial to solve, that my usage pattern is probably pretty niche and that this is not something I can really pretend to solve in a blog post. Flame away. :)&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-killing-google-reader/&quot;&gt;Killing Google Reader&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on March 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-killing-google-reader/&quot;&gt;Killing Google Reader&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on March 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Thoughts on Mailbox]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-thoughts-on-mailbox/"/>
-  <id>/product-thursday-thoughts-on-mailbox</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-thoughts-on-mailbox/"/>
+  <id>http://chriskurdziel.com/product-thursday-thoughts-on-mailbox</id>
   <published>2013-02-14T00:00:00-05:00</published>
   <updated>2013-02-14T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;span&gt;&lt;img src=&quot;http://media.tumblr.com/ea130ea588877bbca37dac8458fa7be2/tumblr_inline_mi844pJWBL1qz4rgp.png&quot;/&gt;&lt;/span&gt;&lt;/p&gt;
@@ -130,19 +130,19 @@
 &lt;li&gt;&lt;span&gt;&lt;em&gt;&lt;strong&gt;No iPad experience.&lt;/strong&gt;&lt;/em&gt; Desktop Gmail works pretty well in conjunction with Mailbox, but I&amp;#8217;ve found managing email on my iPad just isn&amp;#8217;t fun anymore. Gimme that iPad app!&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Well, that&amp;#8217;s about it - not sure how helpful/comprehensive this review is, but hopefully it&amp;#8217;s useful to those that are wondering whether Mailbox is worth the wait (I think it is)!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-thoughts-on-mailbox/&quot;&gt;Thoughts on Mailbox&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-thoughts-on-mailbox/&quot;&gt;Thoughts on Mailbox&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Minimum Viable Design]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-minimum-viable-design/"/>
-  <id>/product-thursday-minimum-viable-design</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-minimum-viable-design/"/>
+  <id>http://chriskurdziel.com/product-thursday-minimum-viable-design</id>
   <published>2013-02-07T00:00:00-05:00</published>
   <updated>2013-02-07T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;Lots of startups (especially those in NYC) spend a ton of time on visual design and making sure that the look and feel of their product is close to perfect. &lt;/p&gt;
@@ -150,19 +150,19 @@
 &lt;p&gt;If you&amp;#8217;re a startup trying to iterate quickly, understand your customer base and think about things as an MVP, there are times when it&amp;#8217;s smart to eschew design for shipping product (provided it doesn&amp;#8217;t cripple functionality). That extra bit of design/attention to detail can be helpful, for sure, but a good product person should understand when that matters and when it doesn&amp;#8217;t.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;image&quot; src=&quot;http://media.tumblr.com/a23b6d525e8c82a422ac8ef96dfc05c7/tumblr_inline_mi0rezkXtc1qz4rgp.jpg&quot;/&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-minimum-viable-design/&quot;&gt;Minimum Viable Design&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 07, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-minimum-viable-design/&quot;&gt;Minimum Viable Design&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 07, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA["WTF is UX?"]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-wtf-is-ux/"/>
-  <id>/product-thursday-wtf-is-ux</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-wtf-is-ux/"/>
+  <id>http://chriskurdziel.com/product-thursday-wtf-is-ux</id>
   <published>2013-01-31T00:00:00-05:00</published>
   <updated>2013-01-31T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img alt=&quot;image&quot; src=&quot;http://media.tumblr.com/a0896f633e9517394d056d493453124d/tumblr_inline_mhiaoj0usO1qz4rgp.jpg&quot;/&gt;&lt;/p&gt;
@@ -176,19 +176,19 @@
 &lt;p&gt;&lt;span&gt;This empathetic approach can be helpful in UX decision-making, but it&amp;#8217;s also a characteristic that increases chances of success in the customer support experience and in service industries. &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;I&amp;#8217;m not saying that one has to be empathetic with the customer/user because they&amp;#8217;re always right. On the contrary, the customer may be wrong (and angry!), but their perspective is valid and should be used to gain insight and understanding around the experience. Ultimately, it&amp;#8217;s up to the &amp;#8220;UX&quot; person to translate that perspective into something that is actionable/productive for all parties involved.&lt;/span&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-wtf-is-ux/&quot;&gt;"WTF is UX?"&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 31, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-wtf-is-ux/&quot;&gt;"WTF is UX?"&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Designing with Emotion]]></title>
-  <link rel="alternate" type="text/html" href="/product-thursday-designing-with-emotion/"/>
-  <id>/product-thursday-designing-with-emotion</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/product-thursday-designing-with-emotion/"/>
+  <id>http://chriskurdziel.com/product-thursday-designing-with-emotion</id>
   <published>2013-01-24T00:00:00-05:00</published>
   <updated>2013-01-24T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img alt=&quot;image&quot; src=&quot;http://media.tumblr.com/2a55e6fa1b9395b1b7bc6965913e72e7/tumblr_inline_mh5amt0xXq1qaedq5.jpg&quot;/&gt; &lt;/p&gt;
@@ -197,19 +197,19 @@
 &lt;p&gt;&lt;span&gt;Take healthcare, for example. There are a ton of technology companies building solutions for the healthcare enterprise (I used to work at &lt;a href=&quot;http://www.mckesson.com&quot;&gt;one&lt;/a&gt;), but most are just focused on performing a specific task and not providing enjoyable UX. As Aaron Walter says in &lt;/span&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/1937557006/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=1937557006&amp;amp;linkCode=as2&amp;amp;tag=chriskurdziel-20&quot;&gt;Designing for Emotion&lt;/a&gt;&lt;span&gt;, &amp;#8220;certainly we all want to eat edible foods with nutritional value, but we also crave &lt;em&gt;flavor&lt;/em&gt;.&quot; Based on my experience, design of healthcare IT systems has been focused on making products that are &amp;#8220;edible&quot; - they get the job done but they&amp;#8217;re pretty crappy in terms of creating an experience that physicians feel they can&amp;#8217;t live without.  It&amp;#8217;s no surprise to see that adoption of healthcare tech &lt;a href=&quot;http://www.informationweek.com/healthcare/electronic-medical-records/ehr-adoption-us-remains-the-slow-poke/240142152&quot;&gt;is slow&lt;/a&gt;. I believe there&amp;#8217;s a huge opportunity for better, more human design to help speed the adoption of healthcare tech among a physician population that is short on time and patience.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Anyone else have other examples of industries waiting to be transformed by designing with emotion?&lt;/span&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/product-thursday-designing-with-emotion/&quot;&gt;Designing with Emotion&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 24, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/product-thursday-designing-with-emotion/&quot;&gt;Designing with Emotion&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 24, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Product Thursdays]]></title>
-  <link rel="alternate" type="text/html" href="/introducing-product-thursdays/"/>
-  <id>/introducing-product-thursdays</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/introducing-product-thursdays/"/>
+  <id>http://chriskurdziel.com/introducing-product-thursdays</id>
   <published>2013-01-17T00:00:00-05:00</published>
   <updated>2013-01-17T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;span&gt;Ever since I was a kid, I spent hours clicking around on computers, obsessed with learning the ins and outs of whatever OS, application, or web product I discovered at the time. I remember when I got my first Windows laptop after years of using a Mac, I explored every little system setting and tweaked ini files so I could get an experience that was exactly what I wanted. Over time, this obsession with technology guided me to study CS in college and subsequently work in tech.&lt;/span&gt;&lt;/p&gt;
@@ -220,19 +220,19 @@
 &lt;li&gt;&lt;span&gt;&lt;strong&gt;Product Examples&lt;/strong&gt; - What are the best examples of products that I&amp;#8217;m currently enjoying and why do I think they&amp;#8217;re awesome? &lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/introducing-product-thursdays/&quot;&gt;Product Thursdays&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/introducing-product-thursdays/&quot;&gt;Product Thursdays&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on January 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[First Comes The Dream]]></title>
-  <link rel="alternate" type="text/html" href="/first-comes-the-dream/"/>
-  <id>/first-comes-the-dream</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/first-comes-the-dream/"/>
+  <id>http://chriskurdziel.com/first-comes-the-dream</id>
   <published>2012-07-23T00:00:00-04:00</published>
   <updated>2012-07-23T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;Last &lt;a href=&quot;http://io9.com/what-was-it/&quot; target=&quot;_blank&quot;&gt;Thursday night&lt;/a&gt; I had the incredible opportunity to see &lt;a href=&quot;http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson&quot; target=&quot;_blank&quot;&gt;Neil DeGrasse Tyson&lt;/a&gt; speak at the &lt;a href=&quot;http://www.haydenplanetarium.org/&quot; target=&quot;_blank&quot;&gt;Hayden planetarium&lt;/a&gt; here in New York about brining STEM (Science, Technology, Engineering &amp;amp; Math) to more people and making it a deeper part of our culture. The theme of the event was &quot;&lt;a href=&quot;http://gizmodo.com/5927637/first-comes-the-dream-at-the-american-museum-of-natural-history-an-evening-of-innovation-and-imagination&quot; target=&quot;_blank&quot;&gt;First Comes the Dream&lt;/a&gt;.&quot; &lt;/p&gt;
@@ -248,19 +248,19 @@
 &lt;p&gt;For a full video of Neil&amp;#8217;s talk, check out the embed at the top of this post. Thanks to the awesome crew at Brew PR and Gizmodo for helping put this event together!&lt;/p&gt;
 &lt;p&gt;&lt;img height=&quot;500&quot; src=&quot;http://25.media.tumblr.com/tumblr_m7fvhxmCOM1qamfj2o1_500.jpg&quot; width=&quot;500&quot;/&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/first-comes-the-dream/&quot;&gt;First Comes The Dream&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on July 23, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/first-comes-the-dream/&quot;&gt;First Comes The Dream&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on July 23, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Silicon Valley Doesn't Have to be Wall Street]]></title>
-  <link rel="alternate" type="text/html" href="/silicon-valley-doesnt-have-to-be-wall-street/"/>
-  <id>/silicon-valley-doesnt-have-to-be-wall-street</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/silicon-valley-doesnt-have-to-be-wall-street/"/>
+  <id>http://chriskurdziel.com/silicon-valley-doesnt-have-to-be-wall-street</id>
   <published>2012-07-17T00:00:00-04:00</published>
   <updated>2012-07-17T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;The tech industry originally made its name by being different than Wall Street - it&amp;#8217;s a place where people can make money but simultaneously eschew the conventions of dress code and corporatism in favor of something more grand &amp;#8212; the chance to change an industry (or dare I say, even the world).&lt;/p&gt;
@@ -272,19 +272,19 @@
 &lt;p&gt;As a VC, I can imagine it is difficult to balance the need to return your investors&amp;#8217; capital in a relatively short timeframe with the fact that may be at odds with what is right for the business in the long term. Similarly, as a founder, it&amp;#8217;s probably easy to go for use number growth at the expense of real community/engagement to generate hype and valuation bumps faster than the competition.&lt;strong&gt; Sure, it may net you a quick exit and create an illusion of value, but it&amp;#8217;s not something that benefits people outside the tech ecosystem in the long term. &lt;/strong&gt;&lt;strong&gt;Isn&amp;#8217;t that why so many of us &amp;#8220;dreamers and doers&quot; are here to begin with?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_m7bic3mG4y1qaedq5.jpg&quot;/&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/silicon-valley-doesnt-have-to-be-wall-street/&quot;&gt;Silicon Valley Doesn't Have to be Wall Street&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on July 17, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/silicon-valley-doesnt-have-to-be-wall-street/&quot;&gt;Silicon Valley Doesn't Have to be Wall Street&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on July 17, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The oral history of Silicon Valley VCs]]></title>
-  <link rel="alternate" type="text/html" href="/the-oral-history-of-silicon-valley-vcs/"/>
-  <id>/the-oral-history-of-silicon-valley-vcs</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/the-oral-history-of-silicon-valley-vcs/"/>
+  <id>http://chriskurdziel.com/the-oral-history-of-silicon-valley-vcs</id>
   <published>2012-04-22T00:00:00-04:00</published>
   <updated>2012-04-22T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://twitter.com/zdanielshi&quot;&gt;friend of mine&lt;/a&gt; recently discovered &lt;a href=&quot;http://bancroft.berkeley.edu/ROHO/projects/vc/transcripts.html&quot;&gt;this archive&lt;/a&gt; of interview transcripts of many of Silicon Valley&amp;#8217;s seminal venture capitalists.&lt;/p&gt;
@@ -298,19 +298,19 @@
 &lt;/blockquote&gt;
 &lt;p&gt;Check out the full archives of interviews &lt;a href=&quot;http://bancroft.berkeley.edu/ROHO/projects/vc/transcripts.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/the-oral-history-of-silicon-valley-vcs/&quot;&gt;The oral history of Silicon Valley VCs&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 22, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/the-oral-history-of-silicon-valley-vcs/&quot;&gt;The oral history of Silicon Valley VCs&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 22, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Healthcare is a long slog but I think it's worth it.]]></title>
-  <link rel="alternate" type="text/html" href="/healthcare-is-a-long-slog-but-i-think-its-worth-it/"/>
-  <id>/healthcare-is-a-long-slog-but-i-think-its-worth-it</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/healthcare-is-a-long-slog-but-i-think-its-worth-it/"/>
+  <id>http://chriskurdziel.com/healthcare-is-a-long-slog-but-i-think-its-worth-it</id>
   <published>2012-04-13T00:00:00-04:00</published>
   <updated>2012-04-13T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;p class=&quot;p1&quot;&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_m2cis49k7f1qaedq5.jpg&quot;/&gt;&lt;/p&gt;
@@ -320,19 +320,19 @@
 &lt;p class=&quot;p1&quot;&gt;Because of the nature of incumbents, regulation and other factors, it&amp;#8217;s unclear whether or not we&amp;#8217;ll see a Google or Facebook sized exit in the heathcare IT world.  However, I am hopeful that we&amp;#8217;ll see a a number of companies have a big impact, help cut a ton of waste and save millions of lives in the process. I hope that there are a bunch of entrepreneurs willing to &amp;#8220;go for it&quot; and endure the pain of the process in the hopes of changing the industry.  And &lt;strong&gt;I hope that there are also investors out there who are willing to weather the storm and back the entrepreneurs who may be a bit idealistic now but who have the fresh perspective necessary to succeed in the face of the challenges we face in the long term. Their first idea may not be a huge hit, but the next few very well might.&lt;/strong&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;em&gt;PS - I realize it might seem hypocritical that I&amp;#8217;m writing this post as someone working for a consumer Internet company. While that is a fair point, I&amp;#8217;m still involved in healthcare on a number of fronts and I strongly believe that experience in a consumer oriented internet company coupled with my healthcare background can actually help me provide perspective in healthcare that is unique (hence this blog post). Right now, though, my skill set is best served with the greatest team in NYC building an awesome &lt;a href=&quot;http://shelby.tv&quot;&gt;product&lt;/a&gt; that I love. :)&lt;/em&gt;&lt;/p&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/healthcare-is-a-long-slog-but-i-think-its-worth-it/&quot;&gt;Healthcare is a long slog but I think it's worth it.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 13, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/healthcare-is-a-long-slog-but-i-think-its-worth-it/&quot;&gt;Healthcare is a long slog but I think it's worth it.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 13, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[FAKEGRIMLOCK is a pretty cool dude.]]></title>
-  <link rel="alternate" type="text/html" href="/fakegrimlock-is-a-pretty-cool-dude/"/>
-  <id>/fakegrimlock-is-a-pretty-cool-dude</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/fakegrimlock-is-a-pretty-cool-dude/"/>
+  <id>http://chriskurdziel.com/fakegrimlock-is-a-pretty-cool-dude</id>
   <published>2012-04-04T00:00:00-04:00</published>
   <updated>2012-04-04T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img height=&quot;450&quot; src=&quot;http://media.tumblr.com/tumblr_m1xqwgaa1Q1qaedq5.jpg&quot; width=&quot;600&quot;/&gt;&lt;/p&gt;
@@ -344,19 +344,19 @@
 &lt;p&gt;A few people have heard that I was lucky enough to have beers with The Grimster down at SXSW and chat about what he&amp;#8217;s up to IRL.  Many have asked me about what the &amp;#8220;real&quot; GRIMLOCK is like. Honestly, I have to say that he didn&amp;#8217;t reveal too much more than he has revealed to his fanbase online.  He could be a super famous VC/entrepreneur, a serial killer, a concert pianist, or just a regular dude (I have no idea).  To moot&amp;#8217;s point in the video above, I don&amp;#8217;t think much of that is really the point (well&amp;#8230;maybe the serial killer bit does&amp;#8230;). We just have to laugh and enjoy how FAKEGRIMLOCK chooses to express himself&amp;#8230; OR ELSE!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For more FAKEGRIMLOCK goodness, check out &lt;a href=&quot;http://projectgoats.com&quot;&gt;projectGOATS.com&lt;/a&gt; for some great interviews. And moot, if you read this, I think it would be awesome for you to interview FAKEGRIMLOCK&amp;#8230;&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/fakegrimlock-is-a-pretty-cool-dude/&quot;&gt;FAKEGRIMLOCK is a pretty cool dude.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 04, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/fakegrimlock-is-a-pretty-cool-dude/&quot;&gt;FAKEGRIMLOCK is a pretty cool dude.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on April 04, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Honoring the Past]]></title>
-  <link rel="alternate" type="text/html" href="/honoring-the-past/"/>
-  <id>/honoring-the-past</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/honoring-the-past/"/>
+  <id>http://chriskurdziel.com/honoring-the-past</id>
   <published>2012-03-29T00:00:00-04:00</published>
   <updated>2012-03-29T00:00:00-04:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;Yesterday I was driving to NYC with my buddy &lt;a href=&quot;http://www.punylittlehuman.com/&quot;&gt;Daniel&lt;/a&gt; for &lt;a href=&quot;http://www.blueprinthealth.org/&quot;&gt;Blueprint Health Demo Day&lt;/a&gt; and as usual, we spent most of the car ride discussing VC and the startup ecosystem.  Every time I travel with Daniel, he knocks me over the head with some amazing story about the rich history of the VC community.&lt;/p&gt;
@@ -364,19 +364,19 @@
 &lt;p&gt;Stories like these may not fundamentally change my outlook on limited partnerships or their use in VC, but they provide color and richness to many aspects of a business that are taken for granted. What&amp;#8217;s particularly interesting about these sorts of stories is that much of the startup ecosystem is so focused on the present and the future, rather than the past.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure why this is, but as a whole I think we need to spend more time making sense of and honoring the history of our community.  Real-time data feeds and the next big thing are great, but there&amp;#8217;s so much that entrepreneurs, VCs, and even users can understand and learn from those that have come before us.  I love seeing startups like &lt;a href=&quot;http://timehop.com/&quot;&gt;Timehop&lt;/a&gt; that are focused on collecting and organizing this historical data. Whether it&amp;#8217;s through design approach, focus on historical data, or just through decision-making, I really hope we&amp;#8217;ll see more startups show reverence to past.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/honoring-the-past/&quot;&gt;Honoring the Past&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on March 29, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/honoring-the-past/&quot;&gt;Honoring the Past&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on March 29, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Saying "No" Sucks]]></title>
-  <link rel="alternate" type="text/html" href="/saying-no-sucks/"/>
-  <id>/saying-no-sucks</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/saying-no-sucks/"/>
+  <id>http://chriskurdziel.com/saying-no-sucks</id>
   <published>2012-02-27T00:00:00-05:00</published>
   <updated>2012-02-27T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;I had coffee with an awesome entrepreneur over the weekend and he said something that really got me thinking: &amp;#8220;I hate hearing no.&quot;&lt;/p&gt;
@@ -385,19 +385,19 @@
 &lt;p&gt;This has been pretty frustrating, but ultimately, I think saying no to some things just means you can say yes to others. I&amp;#8217;m not talking about that &amp;#8220;kinda-sorta&quot; yes that&amp;#8217;s driven by FOMO (fear of missing out), dilutes your focus, leads to flaky scheduling and spreads you thin. Giving someone or something a real &amp;#8220;yes&quot; and committing to that yes means you can devote yourself to that thing and accomplish it well. &lt;/p&gt;
 &lt;p&gt;In its essence, I think this boils down to one thing: &lt;em&gt;&lt;strong&gt;being present&lt;/strong&gt;&lt;/em&gt;. Pick the things in life that really matter: your family, your friends, the people, work and art that truly inspires you. You don&amp;#8217;t have to ignore everything else, but don&amp;#8217;t say yes to anything that compromises the level of enjoyment or excellence that you get and give to those things that really matter.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/saying-no-sucks/&quot;&gt;Saying "No" Sucks&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 27, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/saying-no-sucks/&quot;&gt;Saying "No" Sucks&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 27, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Building Community]]></title>
-  <link rel="alternate" type="text/html" href="/building-community/"/>
-  <id>/building-community</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/building-community/"/>
+  <id>http://chriskurdziel.com/building-community</id>
   <published>2012-02-25T00:00:00-05:00</published>
   <updated>2012-02-25T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;p class=&quot;p1&quot;&gt;YouTube recently released stats that &lt;a href=&quot;http://youtube-global.blogspot.com/2012/01/holy-nyans-60-hours-per-minute-and-4.html&quot;&gt;60+ hours of content are being uploaded to their site per minute&lt;/a&gt;. That sort of data is pretty impressive, but when you take a look at a lot of that content, it becomes a little less impressive. I&amp;#8217;ve noticed an increasing amount of video responses to popular videos on YouTube that feature women with low cut shirts in the thumbnails blathering on about whatever video they&amp;#8217;re responding to. This sort of content is not exactly enhancing the community at YouTube, so I can only assume these types of people are trying to cash in on ad revenue via traffic from the videos they&amp;#8217;re responding to. &lt;/p&gt;
@@ -405,19 +405,19 @@
 &lt;p class=&quot;p1&quot;&gt;Problems like this one indicate that communities and curation have become increasingly important in the online world. At &lt;a href=&quot;http://Shelby.tv/&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Shelby.tv&lt;/span&gt;&lt;/a&gt;, as we think about the future of what video community should look like, we are building the type of community that doesn&amp;#8217;t promote the &amp;#8220;spammy&quot; user-generated-content (UGC) that we see on places like YouTube. Recommendations and organic UGC are great, but recommendations (especially as related to the long tail of UGC) powered without a social filter or strong context around them feel empty, spammy and often result in the lower quality kind of stuff I&amp;#8217;m referring to here.  &lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;We believe the social filter is the key to building a community of content that doesn&amp;#8217;t promote this sort of abusive behavior and we&amp;#8217;re really excited about sharing what we&amp;#8217;re building with the rest of the world.  More on this soon. ;)&lt;/p&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/building-community/&quot;&gt;Building Community&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 25, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/building-community/&quot;&gt;Building Community&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 25, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How should startups approach CES?]]></title>
-  <link rel="alternate" type="text/html" href="/how-should-startups-approach-ces/"/>
-  <id>/how-should-startups-approach-ces</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/how-should-startups-approach-ces/"/>
+  <id>http://chriskurdziel.com/how-should-startups-approach-ces</id>
   <published>2012-02-03T00:00:00-05:00</published>
   <updated>2012-02-03T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;p class=&quot;p1&quot;&gt;I (and the rest of team Shelby) recently attended CES, the largest consumer electronics show in the world.  It was my first time going to such a huge event, so consequently, it was also my first time navigating the waters of a trade show that is largely geared toward large companies rather than small startups. In an effort to make things more accessible to the startups interested in attending CES in the future, I thought &lt;span class=&quot;s1&quot;&gt;I&amp;#8217;d share some of the questions I had as we planned for CES&lt;/span&gt;.&lt;/p&gt;
@@ -428,19 +428,19 @@
 &lt;/ul&gt;&lt;div&gt;&lt;em&gt;&lt;strong&gt;Overall recommendation:&lt;/strong&gt;&lt;/em&gt; be creative! There are a lot of low budget (but interesting) ways to engage people at CES and other trade shows.  This is what being a startup is all about, so be comfortable in your own skin and people will love it!&lt;/div&gt;
 &lt;p class=&quot;p1&quot;&gt;The questions above aren&amp;#8217;t exhaustive, but they&amp;#8217;re pretty representative of the stuff we thought about this year and hopefully will be helpful to startups in the future that attend CES. A lot of people may think CES is a waste of time, and while it might be if you approach it incorrectly, there&amp;#8217;s a lot to be learned and achieved if you approach things with an &lt;span class=&quot;s1&quot;&gt;open, but focused, mind.  More thoughts on how to crush CES?  Leave a comment and I&amp;#8217;ll add to the list!&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/how-should-startups-approach-ces/&quot;&gt;How should startups approach CES?&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 03, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/how-should-startups-approach-ces/&quot;&gt;How should startups approach CES?&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 03, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Cornell + NYC = awesome sauce]]></title>
-  <link rel="alternate" type="text/html" href="/cornell--nyc--awesome-sauce/"/>
-  <id>/cornell--nyc--awesome-sauce</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/cornell--nyc--awesome-sauce/"/>
+  <id>http://chriskurdziel.com/cornell--nyc--awesome-sauce</id>
   <published>2011-11-25T00:00:00-05:00</published>
   <updated>2011-11-25T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;It&amp;#8217;s no secret that Cornell and Stanford are both gunning for NYC&amp;#8217;s applied science and tech campus initiative. I&amp;#8217;m obviously biased here, but &lt;a href=&quot;http://www.observer.com/2011/11/cornells-the-one-when-it-comes-to-new-yorks-tech-campus/&quot;&gt;I&amp;#8217;m not the only one&lt;/a&gt; who thinks there are a few pretty compelling reasons that Cornell would be the best choice for the city.&lt;/p&gt;
@@ -449,19 +449,19 @@
 &lt;li&gt;&lt;strong&gt;We&amp;#8217;re not already in NYC but are still close by.&lt;/strong&gt; As I&amp;#8217;ve been traveling back and forth between NYC and Ithaca, I&amp;#8217;m slowly coming to the realization that each place has served a distinct purpose in my development over the past year.  This may seem a little counter-intuitive, but the fact that Cornell&amp;#8217;s main campus is not in NYC is a &lt;em&gt;good&lt;/em&gt; thing. Ithaca is a quiet (albeit brutally cold) safe haven from the bustle of the city.  I think there&amp;#8217;s a real benefit to being able to learn in an environment that is solely focused on learning. I also think having a campus in NYC and in Ithaca gives students the opportunity to both focus on real world application of their learning (in NYC) and escape for some more introspective learning (in Ithaca).&lt;/li&gt;
 &lt;/ol&gt;&lt;p&gt;If you&amp;#8217;re interested in more of Cornell&amp;#8217;s propsal, check out the Cornell in NYC website &lt;a href=&quot;http://www.cornell.edu/nyc/&quot;&gt;here&lt;/a&gt; and make sure to follow the &lt;a href=&quot;http://twitter.com/#!/nyctechcampus&quot;&gt;twitter account&lt;/a&gt; for updates as well!  This is a really exciting time for the tech community in NYC and I&amp;#8217;m really excited that Cornell has the opportunity to be a bigger part of it than it already is.  Whether we win the proposal or not, I have no doubt that our alumni will continue to make a dent in the NYC tech scene for years to come.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/cornell--nyc--awesome-sauce/&quot;&gt;Cornell + NYC = awesome sauce&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 25, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/cornell--nyc--awesome-sauce/&quot;&gt;Cornell + NYC = awesome sauce&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 25, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How do you sell your corporate experience to a startup?]]></title>
-  <link rel="alternate" type="text/html" href="/how-do-you-sell-your-corporate-experience-to-a-startup/"/>
-  <id>/how-do-you-sell-your-corporate-experience-to-a-startup</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup/"/>
+  <id>http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup</id>
   <published>2011-11-18T00:00:00-05:00</published>
   <updated>2011-11-18T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;I&amp;#8217;ve had a few conversations with classmates, prospective MBAs and others looking to get into the startup world lately about making the transition from a big corporation to a small startup.  One of the common questions that comes up is &amp;#8220;how did you sell your corporate experience to a startup?&quot;&lt;/p&gt;
@@ -474,19 +474,19 @@
 &lt;p&gt;Any experience is better than no experience, so get out there and do stuff! Then figure out what makes you unique and sell that to the founders.  &lt;/p&gt;
 &lt;p&gt;What do you think about making the transition from a big company to a startup?  I&amp;#8217;d love to hear your thoughts in the comments.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/how-do-you-sell-your-corporate-experience-to-a-startup/&quot;&gt;How do you sell your corporate experience to a startup?&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 18, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup/&quot;&gt;How do you sell your corporate experience to a startup?&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 18, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[#ATHLETE? Not quite, but I did run the marathon.]]></title>
-  <link rel="alternate" type="text/html" href="/athlete-not-quite-but-i-did-run-the-marathon/"/>
-  <id>/athlete-not-quite-but-i-did-run-the-marathon</id>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon/"/>
+  <id>http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon</id>
   <published>2011-11-17T00:00:00-05:00</published>
   <updated>2011-11-17T00:00:00-05:00</updated>
   <author>
     <name>Chris Kurdziel</name>
-    <uri></uri>
+    <uri>http://chriskurdziel.com</uri>
     <email>chris@chriskurdziel.com</email>
   </author>
   <content type="html">&lt;p&gt;I used to hate running.&lt;/p&gt;
@@ -498,7 +498,7 @@
 &lt;p&gt;Over the course of my run, I ran into a bunch of people I met in NY tech this summer, family, friends and a few thousand new faces as well. Much like my experience in NY tech, I&amp;#8217;ve found that my level of success and happiness is really tightly coupled with the awesome people I surround myself with.  With that in mind, thanks to everyone in NYC for coming out and supporting all of the runners.  Never thought I&amp;#8217;d say this&amp;#8230;but&amp;#8230;I don&amp;#8217;t think this was my last marathon.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;PS - If you&amp;#8217;re interested in donating to my Team in Training campaign (you still can!), check out my &lt;a href=&quot;http://pages.teamintraining.org/nyc/nyc11/ckurdzivgz&quot;&gt;donation page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/athlete-not-quite-but-i-did-run-the-marathon/&quot;&gt;#ATHLETE? Not quite, but I did run the marathon.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 17, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon/&quot;&gt;#ATHLETE? Not quite, but I did run the marathon.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 17, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>

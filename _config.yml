@@ -1,6 +1,6 @@
 title:            ChrisKurdziel.com
-description:      Headbanging to the sound of creative destruction.
-logo:             horns-logo@2x.png
+description:      If you wish to make an apple pie from scratch, you must first write a blog post.
+logo:             bio-photo.jpg
 disqus_shortname: chriskurdzielblog
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -12,7 +12,7 @@ owner:
   avatar:         bio-photo.jpg
   email:          chris@chriskurdziel.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:    ckurdziel
+  twitter:        ckurdziel
   facebook:       christopher.kurdziel
   github:         ckurdziel
   stackexchange:
@@ -35,10 +35,10 @@ bing_verify:
 links:
 - title: About
   url: /about/
-- title: Archive
+- title: Posts
   url: /archive/
-- title: Startup Resources
-  url: /startupresources/
+- title: Library
+  url: /library/
 - title: Healthcare Resources
   url: /healthcareresources/
 
