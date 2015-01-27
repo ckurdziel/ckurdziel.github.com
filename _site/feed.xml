@@ -4,13 +4,120 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://chriskurdziel.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://chriskurdziel.com" />
-<updated>2014-04-07T19:36:40-04:00</updated>
+<updated>2014-05-05T12:33:30-04:00</updated>
 <id>http://chriskurdziel.com/</id>
 <author>
   <name>Chris Kurdziel</name>
   <uri>http://chriskurdziel.com/</uri>
   <email>chris@chriskurdziel.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Shelby for iPad]]></title>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/shelby-ipad/"/>
+  <id>http://chriskurdziel.com/shelby-ipad</id>
+  <published>2014-03-22T00:00:00-04:00</published>
+  <updated>2014-03-22T00:00:00-04:00</updated>
+  <author>
+    <name>Chris Kurdziel</name>
+    <uri>http://chriskurdziel.com</uri>
+    <email>chris@chriskurdziel.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Today we’re releasing a brand new iPad app to complement our existing iPhone app and web app. We’ve worked really hard on refining Shelby and I’m proud to say this is the best app we’ve ever built. So what sets it apart from the other stuff we’ve built and the rest of the video apps on the App Store? Here’s my take.&lt;/p&gt;
+
+&lt;h3 id=&quot;getting-started-choose-your-own-adventure&quot;&gt;Getting started: choose your own adventure.&lt;/h3&gt;
+&lt;p&gt;After opening the app, I’m greeted with two choices: Get Started or Login. If I’m a first-time Shelby user, I choose “Get started.” The title screen animates away, revealing an introduction, a selection of video to watch, and channels to follow. I’m also able to connect Facebook here or hold off until I’ve had a chance to use the app further.
+This experience feels a bit like a “choose your own adventure” — I need to add video to my stream, but there are a few ways to do it. A lot of times user onboarding in apps feels very heavy handed—Flipboard requires an email address before they let you see any content—like I’m being pushed through a funnel toward something I’m not sure if I want, instead of letting me explore a magical world with a few helpful tips along the way. The approach we took here is much lighter weight and in keeping with more modern mobile approaches.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Shelby.tv, an iPad app to help you discover new videos, no longer requires signups: &lt;a href=&quot;http://t.co/MEwrhElpNe&quot;&gt;http://t.co/MEwrhElpNe&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mashable (@mashable) &lt;a href=&quot;https://twitter.com/mashable/statuses/447098614725509120&quot;&gt;March 21, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I checked out a few of the publishers in the channels section and followed the ones I tend to keep up with on a regular basis, like Vice and the NY Times. There’s a pretty good mixture of stuff in fashion, food, tech, news and more, but I’d love to see more here and also be able to search for other providers.&lt;/p&gt;
+
+&lt;p&gt;Here are a few examples of Channels in the app:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/ipad-Shelby-channels.png&quot; alt=&quot;Shelby Channels on iPad&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fastest-video-player-on-ios-ive-ever-experienced&quot;&gt;The fastest video player on iOS I’ve ever experienced.&lt;/h3&gt;
+&lt;p&gt;At this point, I watched a few videos and tried out the swipe-able video player, which we’ve put a lot of time into. It’s really fast — swipe up or down over the player, and the video changes to the corresponding one in the stream. On my home wifi connection (standard Time Warner Cable) I don’t experience any delays due to buffering, so changing videos here is way faster than even changing the channel on my TV.
+So far I’ve had a pretty cool experience but I haven’t yet formally registered for Shelby. The experience is somewhat personalized (I’ve followed channels I’m interested in) and I’m still seeing recommendations in my stream. I still want a little more personalization, and I think it’s pretty clear I can get that by connecting Facebook or signing up. I’ve seen a few “sign up” banners in different parts of the app and I clicked one and signed up with my Facebook account. After confirming a few quick profile details and my bio, I’m back to watching video. Pretty simple and painless, and all of my prior work (following channels, etc) has been brought over to my account, so I don’t need to start again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I really wish more apps took this approach with signup.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;relevant-content-every-day&quot;&gt;Relevant content every day.&lt;/h3&gt;
+&lt;p&gt;I use the app every day over coffee in the morning and after dinner in the evening. Each time I open it, I find interesting video. These videos are from a different place each time: sometimes I find the community sharing interesting stuff (found in Explore), sometimes I find the recommendations from Shelby particularly impressive (mostly because they were things I would never search for or come across), and other times I just enjoy the vanilla stuff from TED and the other channels I follow.&lt;/p&gt;
+
+&lt;h3 id=&quot;straightforward-beautiful-design&quot;&gt;Straightforward, beautiful design.&lt;/h3&gt;
+&lt;p&gt;I’m really glad we kept the design simple. I can focus more on video and less on how the hell I’m supposed to work the app.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h2&gt;
+&lt;p&gt;Overall, the app feels simple and fun to use whether I’m on the couch connected to AppleTV catching up on the day’s video or showing a friend a video that I’ve discovered lately. So what is the app missing?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I want even more context around videos.&lt;/strong&gt; What haven’t my friends seen yet? What’s trending nearby? If I’m on the couch, I want videos that are longer. If I’m on my phone in the elevator, I want quick 1 minute videos to watch. We’re thinking a lot about what information is relevant and how/when to present it to people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Better controls for improving the quality of my stream and facilitating discovery.&lt;/strong&gt; Provided you have a strong social graph and like the video sources we’ve integrated into the app so far, Shelby is a pretty strong video experience. The problem is that everyone has a unique taste fingerprint and while our recommendations do a good job of surfacing new and interesting videos, they take some time to work. I’d love to see more options to build a stream that’s relevant to my interests even before I sign up.&lt;/p&gt;
+
+&lt;p&gt;While I can’t completely give away our roadmap, I can say that the stuff in the list above is part of how we’re thinking about where to take Shelby next. If you’re interested in learning more, shoot me an email at chris[at]shelby.tv. I’d love to chat.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/shelby-ipad/&quot;&gt;Shelby for iPad&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on March 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[An Open Letter to TV Manufacturers]]></title>
+  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/open-letter-tv-manufacturers/"/>
+  <id>http://chriskurdziel.com/open-letter-tv-manufacturers</id>
+  <published>2014-02-06T00:00:00-05:00</published>
+  <updated>2014-02-06T00:00:00-05:00</updated>
+  <author>
+    <name>Chris Kurdziel</name>
+    <uri>http://chriskurdziel.com</uri>
+    <email>chris@chriskurdziel.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Dear TV Manufacturers,&lt;/p&gt;
+
+&lt;p&gt;Mobile ecosystem &lt;a href=&quot;http://ben-evans.com/benedictevans/2014/1/28/ecosystem-maths&quot;&gt;maths&lt;/a&gt; show that we’re living in an Android and iOS world. The numbers here are huge, and there’s no question these two platforms are going to dominate for the foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;But on TV, we’re in the “pre-iPhone world” — this fragmented ecosystem looks/feels a lot like mobile before iOS/Android. &lt;strong&gt;But that doesn’t mean “create an totally new App Store” is the best way forward&lt;/strong&gt; (&lt;a href=&quot;http://readwrite.com/2014/01/27/smart-tv-smartphones-televisions&quot;&gt;others agree&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;People expect all their services on multiple devices, and they’re choosing mobile before other devices in &lt;a href=&quot;http://ben-evans.com/benedictevans/2014/1/28/ecosystem-maths&quot;&gt;overwhelming numbers&lt;/a&gt;. Expecting that every type of device should have its own separate app platform is kind of crazy. Two of my devices already share the same app store (my tablet and my Phone).&lt;/p&gt;
+
+&lt;p&gt;I get it. You can’t just be a “glass manufacturer” lest your margins become as thin as your displays. So you build Apps for your TV or invest in putting &lt;a href=&quot;http://www.theverge.com/ces-2014/2014/1/6/5282348/lg-at-ces-2014&quot;&gt;Palm OS on TVs&lt;/a&gt;, and claim TVs as “smart!” But, what really makes a device smart? Is it the fact that you can run apps on it, or the fact that it has sensors and all kinds of other stuff in it that let it interact with the world around it?&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-learn-from-what-happened-in-the-mobile-ecosystem-here-the-phone-isnt-just-a-phone-with-an-app-store-its-a-collection-of-sensors-and-different-pieces-of-hardware-that-apple-and-google-give-people-access-to-through-their-developer-ecosytems-your-screens-have-to-appeal-to-the-same-developer-ecosystem&quot;&gt;You can learn from what happened in the mobile ecosystem here: the phone isn’t just a phone with an App Store, it’s a collection of sensors and different pieces of hardware that Apple and Google give people access to through their developer ecosytems. Your screens have to appeal to the same developer ecosystem.&lt;/h4&gt;
+
+&lt;p&gt;AppleTV will keep updating — it will play very nicely with iOS (and probably less nicely with Android). Google already has Chromecast and &lt;a href=&quot;http://chrome.blogspot.com/2014/02/chromecast-is-now-open-to-developers.html&quot;&gt;just released an open SDK&lt;/a&gt; that works nicely with iOS &lt;em&gt;and&lt;/em&gt; Android. These are companies that know how to create and foster developer ecosystems around their products already, and they’re starting to do it with TVs.&lt;/p&gt;
+
+&lt;p&gt;Yes, TV manufacturers, you and Apple are different companies, as &lt;a href=&quot;http://stratechery.com/2014/two-bears-revisited/&quot;&gt;Ben Thompson has pointed out&lt;/a&gt;. You’ve attempted to achieve software differentiation with software based “App Store” approach, but part of what makes an App Store compelling is access to hardware and freedom for developers to build interesting things. Right now, TV App Stores don’t have this, so they’re nothing more than a facade for apps that have all been built for other types of screens and ported to TV.&lt;/p&gt;
+
+&lt;p&gt;Successful app stores are the result of robust developer tools and strong access to hardware components, not the other way around. Instead of focusing on ramming “Apps” for TV down our throats, focus on building tools that let mobile developers take advantage of your screens to do really neat things, and provide a simple and clean user experience on TV. You’re better at making TVs than both Google and Apple. Don’t just build stuff into TVs that make the picture better — think outside the box and make the experience better. Add some sensors, cameras and other hardware that make your products stand out!&lt;/p&gt;
+
+&lt;p&gt;What kind of sensors? Here are some ideas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Microphone&lt;/strong&gt; — Voice input is the remote that most people have. Not an ideal solution for all use cases, but nice to have as an option. Could also be used for automatic volume control, communication apps, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Infrared Camera&lt;/strong&gt; — to be used as a proximity sensor (a-la Kinect). And don’t just give me access to the raw data, how about a well documented SDK that developers can actually use in interesting ways?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Camera&lt;/strong&gt; — obvious applications are video conferencing, but my guess is that this could open up other cool possibilities too.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bluetooth 4.0/LE&lt;/strong&gt; — Don’t want to sound too much like my friend Steve Cheney here, but iBeacon and Bluetooth LE are a big deal, and not just in local commerce. Let developers play with this stuff in the household, too. Imagine a TV that turns on intelligently when mobile devices are nearby and that plays content related to the person/people nearby (based on mobile device(s)). Add another person/device to the mix, and your content lineup changes accordingly. Change rooms and the TV changes in the next room as you move around.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WiFi Router/Repeater&lt;/strong&gt; — Integrating this with a TV eliminates the need to enter your WiFi password or connect a bunch of cords. It’s clean and it all works out of the box!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Digital Antennae&lt;/strong&gt; — there’s no reason over the air content should require you to buy add-on antennas, and there’s tons of free content available over the air you can unlock for people so that TVs become truly “Plug and Play.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And at the software level, access to the following would be cool:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Onscreen notifications&lt;/strong&gt; — push from mobile OR push from TV apps. Any mobile app company would want to experiment with this.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A “queue” of “video objects” or “collections of video objects” to watch.&lt;/strong&gt; Work with Netflix, Hulu, Shelby (shameless plug!) and others to let users send their content to this queue so you have the one true Instapaper for video.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ask developers what they want!&lt;/strong&gt; Get out there and build a relationship with the developer ecosystem and listen to their feedback. There are tons of interesting startups. Work with them to find the components they want access to.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, Samsung, LG, Vizio and Sony, do you have what it takes to invest in this stuff? It’s not too late, but it might be if you wait any longer. Be bold. Start now. By the time Apple and Google figure out how to launch integrated TV hardware themselves, you’ll have a fighting chance. And as consumers, we’ll all be better off.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS — I don’t have all the answers, so if you agree or disagree, leave a comment and let me know what you think! I would love for this to be an open discussion.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/open-letter-tv-manufacturers/&quot;&gt;An Open Letter to TV Manufacturers&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on February 06, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -450,55 +557,6 @@
 &lt;/ol&gt;&lt;p&gt;If you&amp;#8217;re interested in more of Cornell&amp;#8217;s propsal, check out the Cornell in NYC website &lt;a href=&quot;http://www.cornell.edu/nyc/&quot;&gt;here&lt;/a&gt; and make sure to follow the &lt;a href=&quot;http://twitter.com/#!/nyctechcampus&quot;&gt;twitter account&lt;/a&gt; for updates as well!  This is a really exciting time for the tech community in NYC and I&amp;#8217;m really excited that Cornell has the opportunity to be a bigger part of it than it already is.  Whether we win the proposal or not, I have no doubt that our alumni will continue to make a dent in the NYC tech scene for years to come.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/cornell--nyc--awesome-sauce/&quot;&gt;Cornell + NYC = awesome sauce&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 25, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[How do you sell your corporate experience to a startup?]]></title>
-  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup/"/>
-  <id>http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup</id>
-  <published>2011-11-18T00:00:00-05:00</published>
-  <updated>2011-11-18T00:00:00-05:00</updated>
-  <author>
-    <name>Chris Kurdziel</name>
-    <uri>http://chriskurdziel.com</uri>
-    <email>chris@chriskurdziel.com</email>
-  </author>
-  <content type="html">&lt;p&gt;I&amp;#8217;ve had a few conversations with classmates, prospective MBAs and others looking to get into the startup world lately about making the transition from a big corporation to a small startup.  One of the common questions that comes up is &amp;#8220;how did you sell your corporate experience to a startup?&quot;&lt;/p&gt;
-&lt;p&gt;One of the underlying assumptions here is that corporate experience isn&amp;#8217;t particularly valuable in the startup world, but I don&amp;#8217;t think that could be farther from the truth.  Here&amp;#8217;s a few reasons why your experience at a big company might actually make you more valuable to a startup:&lt;/p&gt;
-&lt;ol&gt;&lt;li&gt;&lt;strong&gt;You know how the incumbent works.&lt;/strong&gt; If you&amp;#8217;re looking to join a startup that is disrupting an industry you used to work in, you know what the existing challenges are in that industry.  Long sales cycle? Complicated barriers to entry? Excessive government regulation? User adoption issues? All this stuff is relevant to startups and your experience from the perspective of a big company can be really valuable to a startup.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You know what an idea looks like at scale.&lt;/strong&gt; While it&amp;#8217;s certainly awesome to work for a startup because startups are agile, startups want to be successful. With that success comes scale, and if you&amp;#8217;re someone that knows what works and what doesn&amp;#8217;t at scale, you can add a ton of value. &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You might be the only one with corporate experience.&lt;/strong&gt;  A lot of young tech entrepreneurs have been building businesses for their entire professional careers and thus may not have experience in a big company.  Guess what that means? You can think differently and that&amp;#8217;s a GOOD thing.&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;There are probably a bunch of items I&amp;#8217;m missing here, but I think the real point is ultimately this:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;If you really want to work at a startup and identify with the product and the vision, your experience is only as relevant as you make it&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Any experience is better than no experience, so get out there and do stuff! Then figure out what makes you unique and sell that to the founders.  &lt;/p&gt;
-&lt;p&gt;What do you think about making the transition from a big company to a startup?  I&amp;#8217;d love to hear your thoughts in the comments.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/how-do-you-sell-your-corporate-experience-to-a-startup/&quot;&gt;How do you sell your corporate experience to a startup?&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 18, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[#ATHLETE? Not quite, but I did run the marathon.]]></title>
-  <link rel="alternate" type="text/html" href="http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon/"/>
-  <id>http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon</id>
-  <published>2011-11-17T00:00:00-05:00</published>
-  <updated>2011-11-17T00:00:00-05:00</updated>
-  <author>
-    <name>Chris Kurdziel</name>
-    <uri>http://chriskurdziel.com</uri>
-    <email>chris@chriskurdziel.com</email>
-  </author>
-  <content type="html">&lt;p&gt;I used to hate running.&lt;/p&gt;
-&lt;p&gt;About a week and a half ago (yeah, I know this post is late), I had the pleasure of running the 42nd ING NYC Marathon along with a few of my colleagues at &lt;a href=&quot;http://shelby.tv&quot;&gt;Shelby.tv&lt;/a&gt; and a few classmates at Cornell.  Aside from the obvious &lt;a href=&quot;http://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker.27s_Guide_to_the_Galaxy&quot;&gt;numerical significance&lt;/a&gt; of the event, my 26.2 mile journey gave me a chance to think about what the whole experience of training, fundraising and running has done for me personally.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_ludjy87eB71qaedq5.jpg&quot;/&gt;&lt;/p&gt;
-&lt;p&gt;Unlike a few of my &lt;a href=&quot;http://reecepacheco.com/post/10733513796/ok-heres-episode-2-from-last-week-we-got-a&quot;&gt;compadres&lt;/a&gt; at Shelby, I&amp;#8217;ve never considered myself much of an athlete. I didn&amp;#8217;t have a time goal for the marathon - instead my focus was on running the entire 26.2 miles and making it across the finish line.&lt;/p&gt;
-&lt;p&gt;Looking back on the day, I&amp;#8217;m incredibly grateful that my legs held out and that I was able to finish the race.  Though my time wasn&amp;#8217;t the best, I&amp;#8217;m definitely proud of the fact that my splits actually got faster during each subsequent mile.  Some more experienced marathoners have told me that this is a pretty tough thing to do, so I guess that means I did something right. As many who have run marathons will tell you, the last six miles are brutal (at any pace) and in that final stretch, I discovered I had more mental fortitude than I thought to &lt;a href=&quot;http://chriskurdziel.com/2011/10/25/love-this-pic-as-someone-who-works-for-a-startup-and-is-running-the-marathon-lets-hope-i-finish-i-agreearainertwith-the-nyc-marathon-a-few-weeks-away-november-6th-people-make-sure-you-get-out-there-and.html&quot;&gt;finish&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Aside from the mental (and obvious physical) benefits of running a marathon, I was lucky enough to participate in the &lt;a href=&quot;http://www.teamintraining.org/&quot;&gt;Team in Training program&lt;/a&gt;, which is an extension of the &lt;a href=&quot;http://www.lls.org/&quot;&gt;Leukemia and Lymphoma society&lt;/a&gt;. My grandfather died from lymphoplasmactic lymphoma a few years ago and I wanted to honor his memory and support a cause that is dear to my heart.  There were definitely a few moments during the run on Sunday when I spent a lot of time reflecting on how lucky I am to be in good health and to be able to run such an amazing race.  Thanks to everyone - family, friends and others - who took the time to support me in raising money for this cause.  I can&amp;#8217;t thank you enough - you helped &lt;a href=&quot;http://pages.teamintraining.org/nyc/nyc11/bigred&quot;&gt;our team become the top fundraising family &amp;amp; friends team in the NYC chapter for Team in Training&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;Over the course of my run, I ran into a bunch of people I met in NY tech this summer, family, friends and a few thousand new faces as well. Much like my experience in NY tech, I&amp;#8217;ve found that my level of success and happiness is really tightly coupled with the awesome people I surround myself with.  With that in mind, thanks to everyone in NYC for coming out and supporting all of the runners.  Never thought I&amp;#8217;d say this&amp;#8230;but&amp;#8230;I don&amp;#8217;t think this was my last marathon.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;PS - If you&amp;#8217;re interested in donating to my Team in Training campaign (you still can!), check out my &lt;a href=&quot;http://pages.teamintraining.org/nyc/nyc11/ckurdzivgz&quot;&gt;donation page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://chriskurdziel.com/athlete-not-quite-but-i-did-run-the-marathon/&quot;&gt;#ATHLETE? Not quite, but I did run the marathon.&lt;/a&gt; was originally published by Chris Kurdziel at &lt;a href=&quot;http://chriskurdziel.com&quot;&gt;ChrisKurdziel.com&lt;/a&gt; on November 17, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
