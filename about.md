@@ -22,17 +22,17 @@ I'm a native New Yorker, have lived in 6 states and been to all 50. I'm also a g
 
 I'm passionate about building great products, great teams, and great companies.
 
-I'm comfortable juggling a lot at once and as a result, I love leading cross-functional teams tackling complex problems, and setting/executing on a product vision that empowers the team toward a clear goal.
+**I'm comfortable juggling a lot at once.** As a result, I love leading cross-functional teams tackling complex problems and setting/executing a product vision that empowers the team toward a clear goal.
 
 I love helping teams “level up” to achieve their best level of productivity and positive energy. This means celebrating successes, learning from failures and generally reflecting on not just the work that the team is doing, but how and why they are doing that work.
 
-I’m an introvert (INTJ) and believe in the "headphone rule." Maker's time is sacred - if an engineer is writing code or in a state of flow, don't interrupt them and find asychronous ways to communicate.
+**I’m an introvert (INTJ)** and believe in the "headphone rule." Maker's time is sacred - if an engineer is writing code or in a state of flow, don't interrupt them and find asychronous ways to communicate.
 
-“Be human” is a core value of how I build products and work with teams - human centered design principles are great for building products, but they're also a great way to approach growing a team and thinking about management.
+**“Be human”** is a core value of how I build products and work with teams - human centered design principles are great for building products, but they're also a great way to approach growing a team and thinking about management.
 
-The psychology behind products excites me. Humans are complex animals but boiling things down to their simplest elements in the product design process is really enjoyable for me.
+The **psychology behind products excites me**. Humans are complex animals but boiling things down to their simplest elements in the product design process is really enjoyable for me.
 
-I am extremely organized and enjoy bringing order to the chaos that commonly occurs in quickly growing companies. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple focused vision of the future.
+**I am extremely organized** and enjoy bringing order to the chaos that commonly occurs in quickly growing companies. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple focused vision of the future.
 
 
 ##Themes That Excite Me
