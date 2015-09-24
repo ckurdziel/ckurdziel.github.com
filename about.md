@@ -22,7 +22,7 @@ I'm a native New Yorker, have lived in 6 states and been to all 50. I'm also a g
 
 I'm passionate about building great products, great teams, and great companies.
 
-I'm comfortable juggling a lot at once and as a result, I love leading cross-functional teams complex problems and setting and executing on a product vision that empowers the team toward a clear goal.
+I'm comfortable juggling a lot at once and as a result, I love leading cross-functional teams tackling complex problems, and setting/executing on a product vision that empowers the team toward a clear goal.
 
 I love helping teams “level up” to achieve their best level of productivity and positive energy. This means celebrating successes, learning from failures and generally reflecting on not just the work that the team is doing, but how and why they are doing that work.
 
