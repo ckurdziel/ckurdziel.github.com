@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /library/
+permalink: /reading/
 
 ---
 
