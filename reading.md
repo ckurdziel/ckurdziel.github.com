@@ -6,7 +6,7 @@ permalink: /reading/
 
 Though I've learned a lot through experience, I'm inspired by those that have paved the way. Here's a list of some reading and resources that I find helpful.
 
-###Want to be a Product Manager? Read these.
+### Want to be a Product Manager? Read these.
  - [Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
  - [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus)
  - [What Is A Product Manager? A Primer For Aspiring Or Junior PMs](https://medium.com/career-pathing/a44f74a6ba59)
@@ -19,14 +19,14 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
  - [What distinguishes the top 1% of product managers from the top 10%](http://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)
  - [48 Articles and Books that will Make you a Great Product Manager](https://medium.com/p/aad5babee2f7)
 
-###Books That Have Changed The Way I Think
+### Books That Have Changed The Way I Think
 
  - [The Hard Thing About Hard Things by Ben Horowitz](http://www.amazon.com/gp/product/B00DQ845EA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DQ845EA&linkCode=as2&tag=chriskurdziel-20)
  - [Snow Crash by Neal Stephenson](http://www.amazon.com/gp/product/B000FBJCJE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FBJCJE&linkCode=as2&tag=chriskurdziel-20)
  - [How to Win Friends and Influence People by Dale Carnegie](http://www.amazon.com/gp/product/B003WEAI4E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003WEAI4E&linkCode=as2&tag=chriskurdziel-20)
  - [Hooked: How to Build Habit Forming Products by Nir Eyal](http://www.amazon.com/gp/product/B00HJ4A43S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HJ4A43S&linkCode=as2&tag=chriskurdziel-20)
 
-####Metrics
+#### Metrics
  - [Metrics Driven Design](http://www.slideshare.net/bokardo/metricsdriven-design-4317168)
  - [3 Rules to Actionable Metrics](http://www.ashmaurya.com/2010/07/3-rules-to-actionable-metrics/)
  - [Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
@@ -34,28 +34,28 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
  - [IA Ventures](http://resources.iaventures.com/index.php) - IA Ventures has a fantastic list of budgets, board decks, investor update emails, etc. on their resource site. No need to reinvent the wheel - it's easy to use this stuff.
  - [Guide to Picking Analytics Packages](https://www.dropbox.com/s/zntpeztqu1j4tfd/Picking_Analytics.pdf) - pretty good guide from Forrester Research on how to pick an analytics package.
 
-####On Growth & Distribution
+#### On Growth & Distribution
  - [Growth Hacking - Lean Marketing for Startups](http://www.slideshare.net/mattangriffel/growth-hacking)
  - [Startup = Growth](http://www.paulgraham.com/growth.html)
  - [Mobile App Distribution](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/) - this post by Semil Shah is awesome. Really comprehensive look at mobile app distribution and how to approach a mobile app launch.
 
-####Company Building
+#### Company Building
  - [Blakemasters](http://blakemasters.com/peter-thiels-cs183-startup) - Notes from Stanford's CS183 taught by Peter Thiel
  - [The meanest thing Paul Graham said to a startup](http://brandonb.cc/no-filter-the-meanest-thing-paul-graham-said-to-a-startup) -  A good little anecdote about the importance of being brutally honest at a startup.
  - [Romantic lies about passion and entrepreneurship](http://blog.michellelaralin.com/romantic-lies) - pretty personal take on some of the challenges of being a founder.
  - [The Science Behind How Super Connectors Scale Their Networks](http://www.forbes.com/sites/michaelsimmons/2013/09/04/the-science-behind-how-super-connectors-scale-their-networks/) - a good piece that illustrates the power of networking and how to effectively build/activate a network.
  - [Startupery - Startup Best Practices](http://startupery.com/)
 
-####Raising Money
+#### Raising Money
  - [Paul Graham - Investing Trends](http://www.paulgraham.com/invtrend.html)
  - [Paul Graham - How to convince investors](http://paulgraham.com/convince.html)
  - [On Party Rounds](http://blog.samaltman.com/party-rounds)
 
-####Mobile Distribution
+#### Mobile Distribution
  - [Ratings and Reviews in the App Store](http://appurify.com/blog/study-correlation-between-ratings-reviews-and-rankings-in-the-apple-app-store/)
  - [A Mobile Distribution Framework](http://blog.semilshah.com/2012/12/09/testing-a-mobile-distribution-framework/)
 
-####Design & Wireframing
+#### Design & Wireframing
  - [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html) - Incredibly thorough list of responsive web design resources.
  - [UX Equivalents for iOS 7,6, Android](http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/)
  - [Pttrns](http://pttrns.com/) - Great site for mobile UI examples

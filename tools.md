@@ -4,24 +4,24 @@ permalink: /tools/
 
 ---
 
-##Tools I Use  & Recommend
+## Tools I Use  & Recommend
 
-###Project Management
+### Project Management
 
  - Trello
 
-###Prototyping
+### Prototyping
 
  - [Flinto](https://www.flinto.com/) - Mobile Prototyping
  - Sketch
 
-###Data & Analytics
+### Data & Analytics
 
  - [Looker](http://www.looker.com/)
  - Mixpanel
  - Intercom.io
 
-###Apps & Consumer Services
+### Apps & Consumer Services
 
 - Uber
 - Betterment
