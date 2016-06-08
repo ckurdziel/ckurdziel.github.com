@@ -3,13 +3,13 @@ layout: page
 permalink: /about/
 title: About Me
 tags: [about, me, chris kurdziel]
-modified: 9-24-2015
+modified: 6-08-2016
 ---
 ##About Me
 
-Hi, I'm Chris. I'm currently on a [vision quest](https://www.youtube.com/watch?v=FbccrO8qKog) in search of what's next for me.
+Hi, I'm Chris. I'm a Director of Product @ [VHX](http://vhx.tv)/[Vimeo](http://vimeo.com).
 
-For the past year and a half, I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leaders and external content partners to re-imagine Samsung’s TV platform and SDK.
+Previously, I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leads and the world's best content partners to re-imagine Samsung’s TV platform and SDK.
 
 Previously, I built [Shelby.tv](http://shelby.tv) (TechStars NY '11) with some great people. Our team was acquired by Samsung in 2014 to help build the future of TV.
 
