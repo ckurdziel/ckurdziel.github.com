@@ -6,13 +6,14 @@ permalink: /iceland/
 
 ### Reykjavik
   - [Hotel Kvosin](http://kvosinhotel.is/): super cool apartment style hotels with a mini fridge/kitchen. Very new/clean and in the center of Rekjavik.
-  
+
   - Hallgrímskirkja church. Super cool architecture. If you want pictures, get there early in the day and you'll have it all to yourself.
 
   - Harpa Concert Hall: beautiful architecture. Walk inside - there are also tours and a restaurant inside.
 
 <!--   - MUSEUM: THE CULTURE HOUSE : Hverfisgata 15, Reykjavik -->
   - [Icelandic Penis Museum](http://phallus.is/en/): This exists and is hilarious/bizarre. It's a quick trip but pretty interesting.
+  - Hot dogs (the perfect follow up to penis museum) at [Bæjarins Beztu Pylsur](https://foursquare.com/v/b%C3%A6jarins-beztu-pylsur/4b0c4d00f964a520ce3a23e3) are tasty
 
   - Reykjavik Art Museum - there are three of these scattered across the city. One ticket gets you into all three on the same day. Really nice to walk the city and see the art!
 
@@ -54,14 +55,15 @@ permalink: /iceland/
 
 ### Between Reykjavik & Vik
 
- - Hotel: Frost n Fire, [Thorsmork Volcano Huts (didn't go but would love to)](Thorsmork Volcanco Huts: http://www.volcanohuts.com/check-availability/)
+ - Hotel: [Frost and Fire Guesthouse](https://foursquare.com/v/frost-and-fire-guesthouse/4fe0423ce4b066c019e39608), [Thorsmork Volcano Huts (didn't go but would love to)](Thorsmork Volcanco Huts: http://www.volcanohuts.com/check-availability/)
+- Dyrholaey - lots of birds, can see Reynisdrangar from here.
 - Reynisdrangar - giant rock structures in the ocean, and very cool natural perfect cubic rock formations in the cliff side near Vik
-
 - Reynisfjara: Black sand beach near Vik with some crazy geometric cliffs and big jagged rock formations offshore
 
 - Seljalandsfoss: A beautiful waterfall that you can see from the ring road but is actually a 100 metres off the ring road. It's possible to walk around the waterfall
 
 - Skogafoss Waterfall Right next to Seljalandsfoss
+- Lunch: [Mia's Country Grill - Local Fish And Chips](https://foursquare.com/v/mias-country-grill--local-fish-and-chips/57338a1a498e2a1fb0514b8f) truck on the way into Skogafoss. EXCELLENT.
 
 - Thórsmörk (requires 4WD): Good long hike: Fimmvörðuháls Pass from Thorsmork to Skógafoss
 
@@ -75,17 +77,19 @@ permalink: /iceland/
 
  - Glacier walk – Skaftafell (http://www.glacierguides.is/equipment-list)
 
- - Eldhraun Lava Field in Skftafell park
+ - Eldhraun Lava Field in Skftafell park (didn't make it but would love to go back/have heard it's awesome)
 
- - Svartifoss waterfall (or the black waterfall) - easy to get to off of highway 1 (approx 200 meters away). Can walk behind whole waterfall. (Right near glacier walk/park entrance for Skaftafell)
+ - Svartifoss waterfall (or the black waterfall) - easy to get to off of highway 1 (approx 200 meters away). Hike up to the falls can be extended to see views of surrounding glaciers, etc. Good half-day hike.
 
-  - Food: Gas station right outside Skaftafell has tasty burgers. Just trust me on this one.
+  - Food: [Shell Freysnes](https://foursquare.com/v/shell-freysnes/5033e875e4b0478e59b5245d)Gas station right outside Skaftafell has tasty burgers. Trust me on this one.
 
  - Vatnajökull National Park (Vatnajokulsthjodgardur)
 
- - Jokulsaron Glacier lagoon - THIS IS AN ABSOLUTE MUST. Incredibly goregous. Come back again if you don't see the icebergs floating out to sea.
+ - Jokulsaron Glacier lagoon - THIS IS AN ABSOLUTE MUST. Incredibly gorgeous. Come back again if you don't see the icebergs floating out to sea the first time.
 
- - [Fosshotel Vatnajokull](http://www.fosshotel.is/hotels/fosshotel-in-the-south-east/fosshotel-vatnajokull/): newly renovated. Funky service but great location if you're going to explore Vatnajokull area. Close to Hofn
+ - [Fosshotel Vatnajokull](http://www.fosshotel.is/hotels/fosshotel-in-the-south-east/fosshotel-vatnajokull/): newly renovated. Funky service but great location if you're going to explore Vatnajokull area. Close to Hofn.
+
+  - Dinner: [Humarhofnin](http://www.humarhofnin.is/) - hope you like [lobster](https://irs1.4sqi.net/img/general/width960/40093_q7vDbe0iE0iGkMKiY4bOgSrzghPwu1_eUoU74_tCV9o.jpg). Theirs is excellent. <![https://irs1.4sqi.net/img/general/width960/40093_q7vDbe0iE0iGkMKiY4bOgSrzghPwu1_eUoU74_tCV9o.jpg]()
 
 
 
