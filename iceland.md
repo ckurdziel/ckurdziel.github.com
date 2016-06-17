@@ -13,6 +13,7 @@ permalink: /iceland/
 
 <!--   - MUSEUM: THE CULTURE HOUSE : Hverfisgata 15, Reykjavik -->
   - [Icelandic Penis Museum](http://phallus.is/en/): This exists and is hilarious/bizarre. It's a quick trip but pretty interesting.
+  
   - Hot dogs (the perfect follow up to penis museum) at [Bæjarins Beztu Pylsur](https://foursquare.com/v/b%C3%A6jarins-beztu-pylsur/4b0c4d00f964a520ce3a23e3) are tasty
 
   - Reykjavik Art Museum - there are three of these scattered across the city. One ticket gets you into all three on the same day. Really nice to walk the city and see the art!
