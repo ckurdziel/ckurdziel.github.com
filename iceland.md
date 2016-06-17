@@ -13,35 +13,33 @@ permalink: /iceland/
 
   - Reykjavik Art Museum - there are three of these scattered across the city. One ticket gets you into all three on the same day. Really nice to walk the city and see the art!
 
-  - Mokka for Coffee - good coffee, particular the Mocha, they use legit chocolate, also their breakfast menu is off the chain. try the big slice of toast with marmalade and cheese. it's a strange icelandic breakfast thing, delicious.
-
-  - Tapas Barinn for dinner!
+<!--  - Mokka for Coffee - good coffee, particular the Mocha, they use legit chocolate, also their breakfast menu is off the chain. try the big slice of toast with marmalade and cheese. it's a strange icelandic breakfast thing, delicious.-->
+ - [Bergsson Mathus](http://www.bergsson.net/mathus): awesome breakfast place. We went there every single morning in Reykjavik.
+<!--  - Tapas Barinn for dinner! -->
 
   - Saegreifinn - The Sea Baron -- super legit, super delicious, make sure you try the bisque, you can't really go wrong with anything. *We didn't go - but friends have been*
 
-  - Noodle Station - Ramen - they load it up with toppings, and it's like the cheapest bowl of food you can get. it's quite good and open late
-
-  - "Icelandic Fish and Chips" - freshest fish and chips you'll ever eat. lots of dipping sauces to pick from. good hearty fries! def goes down well with beer.
+  - Noodle Station & Ramen Momo if you're looking for ramen/noodles.
+  - Don's Donuts: late night donut cart. Perfect for the 1am hot donuts.
+  - Icelandic Fish and Chips - delicious fish and chips. Pick a ton of different dipping sauces and fresh fish varies daily. Highly recommended.
 
   - [Fiskfelagid Fish Company](http://www.fiskfelagid.is/en/)
 
 ### Golden Circle & Surrounding Area
 
-- Gullfoss - Big waterfall!
+- Gullfoss - Big waterfall. The first of MANY.
 
 - Geysir - A natural geysir that shoots water from the ground every 10 mins
 
-- Bruarfoss waterfall - Awesome looking waterfall with electric blue water that may
+- Bruarfoss waterfall - Awesome looking waterfall with electric blue water
 
 - Laugarvatn Fontana Natural steam rooms and geothermal baths. $25 entry
 
-- Pingvellir (“Thingvellir”) Continental plates of Europe and America meet here
+- UNESCO Þingvellir National Park (“Thingvellir”): Continental plates of Europe and America meet here.
 
-- Hike Reykjadalur (45mins) and find some hot pools to swim in – one of the few/ may not be technically open to the public. Many blog posts on how to get here http://www.fontana.is/en/openinghoursandservices (likely skip this given other geothermal baths) unmanaged hotsprings, you can swim wherever you want. Find where the hot water meets the cold water, this is the best temperature
+- Hike Reykjadalur (45mins) and find some hot pools to swim in – one of the few and may not be technically open to the public. [Many blog posts on how to get here](http://www.fontana.is/en/openinghoursandservices). An unmanaged hotsprings, you can swim wherever you want. Find where the hot water meets the cold water, this is the best temperature.
 
-- UNESCO Þingvellir National Park - See Northern Lights. On the way back to Reykjavik
-
-## Day Trip Aside from Golden Circle
+- UNESCO Þingvellir National Park
 
 - Háifoss Waterfall
 
@@ -60,11 +58,9 @@ permalink: /iceland/
 
 - Skogafoss Waterfall Right next to Seljalandsfoss
 
-- Thórsmörk
+- Thórsmörk (requires 4WD): Good long hike: Fimmvörðuháls Pass from Thorsmork to Skógafoss
 
-    - Good long hike: Fimmvörðuháls Pass from Thorsmork to Skógafoss
-
-- Sólheimasandur Beaches w/ abandoned plane - between Skógafoss waterfall and the town of Vik. After driving past Skógafoss going East on Route 1, you’ll cross a bridge with blinking yellow lights and a dirt access road to Sólheimajökull Glacier on the left. The road sign here [PHOTO #1] marks the glacier access road. From this point, keep driving East for about 2 kilometers and keep your eyes open for another dirt road turnoff with a gate on your right [PHOTO #2]. It should be the only opening in the fence after the bridge. If you end up driving over a 2nd bridge, you’ve gone too far.
+- Sólheimasandur Beaches w/ abandoned plane: between Skógafoss waterfall and the town of Vik.
 
 ### Between Vik & Hofn
 
