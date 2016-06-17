@@ -71,7 +71,7 @@ permalink: /iceland/
 
 ### Between Vik & Hofn
 
- - Fjadrargljufur Canyon: short hike and really scenic canyon. About a 20 minute detour off highway 1 on the way to Skaftafell from Vik.
+ - Fjadrargljufur Canyon: short hike and really scenic canyon. About a 20 minute detour off highway 1 on the way to Skaftafell from Vik. Hike is only an hour or two.
 
  - Skaftafell National Park (and Islands)
 
@@ -89,7 +89,7 @@ permalink: /iceland/
 
  - [Fosshotel Vatnajokull](http://www.fosshotel.is/hotels/fosshotel-in-the-south-east/fosshotel-vatnajokull/): newly renovated. Funky service but great location if you're going to explore Vatnajokull area. Close to Hofn.
 
-  - Dinner: [Humarhofnin](http://www.humarhofnin.is/) - hope you like [lobster](https://irs1.4sqi.net/img/general/width960/40093_q7vDbe0iE0iGkMKiY4bOgSrzghPwu1_eUoU74_tCV9o.jpg). Theirs is excellent. <![https://irs1.4sqi.net/img/general/width960/40093_q7vDbe0iE0iGkMKiY4bOgSrzghPwu1_eUoU74_tCV9o.jpg]()
+  - Dinner: [Humarhofnin](http://www.humarhofnin.is/) - hope you like [lobster](https://irs1.4sqi.net/img/general/width960/40093_q7vDbe0iE0iGkMKiY4bOgSrzghPwu1_eUoU74_tCV9o.jpg). Theirs is excellent.
 
 
 
