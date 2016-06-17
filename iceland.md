@@ -6,8 +6,11 @@ permalink: /iceland/
 
 ### Reykjavik
   - [Hotel Kvosin](http://kvosinhotel.is/): super cool apartment style hotels with a mini fridge/kitchen. Very new/clean and in the center of Rekjavik.
+  
   - Hallgrímskirkja church. Super cool architecture. If you want pictures, get there early in the day and you'll have it all to yourself.
+
   - Harpa Concert Hall: beautiful architecture. Walk inside - there are also tours and a restaurant inside.
+
 <!--   - MUSEUM: THE CULTURE HOUSE : Hverfisgata 15, Reykjavik -->
   - [Icelandic Penis Museum](http://phallus.is/en/): This exists and is hilarious/bizarre. It's a quick trip but pretty interesting.
 
@@ -20,7 +23,9 @@ permalink: /iceland/
   - Saegreifinn - The Sea Baron -- super legit, super delicious, make sure you try the bisque, you can't really go wrong with anything. *We didn't go - but friends have been*
 
   - Noodle Station & Ramen Momo if you're looking for ramen/noodles.
+
   - Don's Donuts: late night donut cart. Perfect for the 1am hot donuts.
+
   - Icelandic Fish and Chips - delicious fish and chips. Pick a ton of different dipping sauces and fresh fish varies daily. Highly recommended.
 
   - [Fiskfelagid Fish Company](http://www.fiskfelagid.is/en/)
@@ -65,13 +70,21 @@ permalink: /iceland/
 ### Between Vik & Hofn
 
  - Fjadrargljufur Canyon: short hike and really scenic canyon. About a 20 minute detour off highway 1 on the way to Skaftafell from Vik.
+
  - Skaftafell National Park (and Islands)
+
  - Glacier walk – Skaftafell (http://www.glacierguides.is/equipment-list)
+
  - Eldhraun Lava Field in Skftafell park
+
  - Svartifoss waterfall (or the black waterfall) - easy to get to off of highway 1 (approx 200 meters away). Can walk behind whole waterfall. (Right near glacier walk/park entrance for Skaftafell)
+
   - Food: Gas station right outside Skaftafell has tasty burgers. Just trust me on this one.
+
  - Vatnajökull National Park (Vatnajokulsthjodgardur)
+
  - Jokulsaron Glacier lagoon - THIS IS AN ABSOLUTE MUST. Incredibly goregous. Come back again if you don't see the icebergs floating out to sea.
+
  - [Fosshotel Vatnajokull](http://www.fosshotel.is/hotels/fosshotel-in-the-south-east/fosshotel-vatnajokull/): newly renovated. Funky service but great location if you're going to explore Vatnajokull area. Close to Hofn
 
 
@@ -79,11 +92,17 @@ permalink: /iceland/
 ### Akureyri & North (Diamond Circle)
 
 - Dettifoss: Massive waterfall. Where the beginning of Prometheus was filmed. Be prepared for cold, wind, and snow. But it's awesome.
+
 - Hverir Thermal Fields
+
 - [Myvatn Baths](http://www.myvatnnaturebaths.is/en/lagoon): Better than the Blue Lagoon, even on a cold day.
+
 - Dimmuborgir: Right next to Mývatn, Dimmuborgir is an area filled with dramatic rock formations and caves and often referred to as a gateway to Hell.
+
 - Dinner: Vogafjos Cowshed Cafe in Myvatn.
+
 - Goðafoss Falls at sunset is beautiful
+
 - In Akureyri: [Akureyrarkirkja](www.akirkja.is): (A landmark church)
 
 ### More Stuff: Maybe next time?
