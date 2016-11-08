@@ -63,3 +63,16 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
  - [PlaceIt](https://placeit.net/) - Awesome way to quickly get images for landing page using mockups
  - [GoodUI](http://www.goodui.org/)
  - [Anatomy of a Perfect Landing Page](http://www.formstack.com/the-anatomy-of-a-perfect-landing-page)
+
+#### Landing a Job at a Startup
+- [Compensation @ Startups](https://quip.com/HEB3Ah9dYD6o) - Great resource put together by Homebrew that details how startups should think about compensation. Useful as an employee and as a startup management team.
+
+#### Hiring
+- [How to Find, Vet and Close the Best Product Managers](http://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/) - great resource from First Round Capital on hiring PMs.
+
+####Interesting Sites, Smart People, and Informative Newsletters
+These are the sites, people and newsletters I rely on for great insight and ideas.
+- [Breaking Smart Newsletter](http://breakingsmart.com/)
+- Benedict Evans
+- Stratechery
+- [Azeem Azhar's Weekly Newsletter](http://www.exponentialview.co/newsletter/)
