@@ -73,6 +73,6 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
 ####Interesting Sites, Smart People, and Informative Newsletters
 These are the sites, people and newsletters I rely on for great insight and ideas.
 - [Breaking Smart Newsletter](http://breakingsmart.com/)
-- Benedict Evans
-- Stratechery
+- [Benedict Evans](http://ben-evans.com/)
+- [Stratechery](https://stratechery.com/)
 - [Azeem Azhar's Weekly Newsletter](http://www.exponentialview.co/newsletter/)
