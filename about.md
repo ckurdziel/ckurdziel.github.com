@@ -32,7 +32,7 @@ I love helping teams “level up” to achieve their best level of productivity 
 
 The **psychology behind products excites me**. Humans are complex animals but boiling things down to their simplest elements in the product design process is really enjoyable for me.
 
-**I am extremely organized** and enjoy bringing order to the chaos that commonly occurs in quickly growing companies. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple focused vision of the future.
+**While I enjoy bringing order to the chaos that commonly occurs in quickly growing companies** I believe [Loose Coordination > Tight Synchronization](http://us1.campaign-archive1.com/?u=78cbbb7f2882629a5157fa593&id=6018c6315f). As a result, I look for ways to enable this loose coordination as a means of dealing with complexity. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple focused vision of the future.
 
 
 ## Themes That Excite Me
