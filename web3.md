@@ -5,7 +5,7 @@ permalink: /web3/
 ---
 
 
-Here's a list of some useful Bitcoin and Blockchain related reading that I've found has helped shape my perspective on both technologies. This doc is a WIP.
+Here's a list of some useful “Web 3.0” (Bitcoin, Blockchains, ICOs, etc) related reading that I've found has helped shape my perspective on the quickly evolving space. This doc is a WIP so I’ll add more thoughts to it over time.
 
 #### Start Here
 - [Satoshi's white paper][1]
@@ -13,29 +13,36 @@ Here's a list of some useful Bitcoin and Blockchain related reading that I've fo
 - [Juan Benet talks through IPFS, app-coins, and Web3][3] 
 - [Olaf Carlson-Wee and Aaron Harris talk about Blockchain Investing][4]
 
-#### Protocols
+#### Protocols & The Dynamics of Decentralization
 - [Bitcoin as a "fat" protocol vs. "thin" protocols likes TCP/IP"][5]. Good post from Joel Monegro @ USV. The kicker: "the market cap of the protocol always grows faster than the combined value of the applications built on top, since the success of the application layer drives further speculation at the protocol layer. And again, increasing value at the protocol layer attracts and incents competition at the application layer. Together with a shared data layer, which dramatically lowers the barriers to entry, the end result is a vibrant and competitive ecosystem of applications and the bulk value distributed to a widespread pool of shareholders. This is how tokenized protocols become “fat” and its applications “thin”."
+- [The Next Wave of Computing][6]
 
-#### ICOs
-- 
+#### ICOs & Tokens
+- [On Token Value][7]
+- [Traditional Asset Tokenization][8]
+- [Cryptoeconomics][9]
+- [Crypto Tokens: A Breakthrough in Open Network Design][10]
 
 #### General reading I’ve found helpful
-- [Blockchain application stack][6] and [The Shared Data Layer of the Blockchain][7] 
-- [Blockchain w/o bitcoin][8] 
-- [Bitcoin categories][9] 
-- [Logically centralized but organizationally decentralized][10] 
-- [Where the "chain" piece comes from ][11]
+- [Blockchain application stack][11] and [The Shared Data Layer of the Blockchain][12] 
+- [Blockchain w/o bitcoin][13] 
+- [Bitcoin categories][14] 
+- [Logically centralized but organizationally decentralized][15] 
+- [Where the "chain" piece comes from ][16]
+- [Notation Capital LP Memo re: Blockchain][17]
+- [The State of Cryptocurrency: Mid 2017 edition][18]
+- [A Beginner’s Guide to Tezos][19]
 
 #### Interesting moments in the history of BitCoin
 Read about the following:
 - The block size debate
 - Lightning networks
 - SegWit, SegWit 2x, etc.
-- Sidechains ([1][12])
+- Sidechains ([1][20])
 - Governance in Bitcoin and Open Source
 
 #### People to follow and places to learn more
-- I keep a Twitter list of interesting people in the Web3 space. You can find it [here][13].
+- I keep a Twitter list of interesting people in the Web3 space. You can find it [here][21].
 - **Many projects have great dialogues with their users/developers via Slack groups:** join a few and get familiar with the problems each project is grappling with.
 - **Github activity & commits:** interested in an open source project? Review the commit history and open PRs (or even the code) to get a sense of how active the community is and how much progress has been made.
 
@@ -44,11 +51,19 @@ Read about the following:
 [3]:	[https://www.youtube.com/watch?v=iUVLuXjPAfg]
 [4]:	[https://www.youtube.com/watch?v=9SYVX2wcMVM]
 [5]:	https://www.usv.com/blog/fat-protocols
-[6]:	http://joel.mn/post/103546215249/the-blockchain-application-stack
-[7]:	http://joel.mn/post/104755282493/the-shared-data-layer-of-the-blockchain
-[8]:	https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/
-[9]:	http://cdixon.org/2014/03/13/four-categories-of-bitcoin-inspired-projects/
-[10]:	http://continuations.com/post/105272022635/bitcoin-clarifying-the-foundational-innovation-of
-[11]:	http://thegongshow.tumblr.com/post/93146109030/blockchain-origins
-[12]:	https://techcrunch.com/2014/04/19/bitcoin-2-0-unleash-the-sidechains/
-[13]:	https://twitter.com/ckurdziel/lists/coinznchainz
+[6]:	https://medium.com/@muneeb/the-next-wave-of-computing-743295b4bc73
+[7]:	https://thecontrol.co/on-token-value-e61b10b6175e
+[8]:	https://hackernoon.com/traditional-asset-tokenization-b8a59585a7e0
+[9]:	https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971
+[10]:	https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+[11]:	http://joel.mn/post/103546215249/the-blockchain-application-stack
+[12]:	http://joel.mn/post/104755282493/the-shared-data-layer-of-the-blockchain
+[13]:	https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/
+[14]:	http://cdixon.org/2014/03/13/four-categories-of-bitcoin-inspired-projects/
+[15]:	http://continuations.com/post/105272022635/bitcoin-clarifying-the-foundational-innovation-of
+[16]:	http://thegongshow.tumblr.com/post/93146109030/blockchain-origins
+[17]:	https://medium.com/@NotationCapital/notation-capital-lp-memo-re-blockchain-3140c529d4fa
+[18]:	https://hackernoon.com/the-state-of-cryptocurrency-2017-edition-c774ae5f7d9a
+[19]:	https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f
+[20]:	https://techcrunch.com/2014/04/19/bitcoin-2-0-unleash-the-sidechains/
+[21]:	https://twitter.com/ckurdziel/lists/coinznchainz
