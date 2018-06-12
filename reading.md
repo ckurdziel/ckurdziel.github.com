@@ -18,6 +18,7 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
  - [How to hire a product manager](https://www.kennethnorton.com/essays/productmanager.html)
  - [What distinguishes the top 1% of product managers from the top 10%](http://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)
  - [48 Articles and Books that will Make you a Great Product Manager](https://medium.com/p/aad5babee2f7)
+ - [20 Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
 
 ### Books That Have Changed The Way I Think
 
