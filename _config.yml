@@ -13,15 +13,15 @@ owner:
   email:          chris@chriskurdziel.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        ckurdziel
-  facebook:       christopher.kurdziel
+  facebook:
   github:         ckurdziel
   stackexchange:
   linkedin:       ckurdziel
   instagram:      ckurdziel
   flickr:
-  tumblr:         chriskurdziel
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/115571690879628469024
+  google_plus: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-12256494-2
