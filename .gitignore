@@ -17,6 +17,7 @@ _site
 
 # OS or Editor folders
 .DS_Store
+.Ulysses-favorites.plist
 ._*
 Thumbs.db
 .cache
