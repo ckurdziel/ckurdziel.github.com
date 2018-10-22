@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Peru
 permalink: /peru/
+category: Travel
 
 ---
 
@@ -13,12 +15,12 @@ permalink: /peru/
   - Cicciolina (also good nice dinner place in Cusco)
   - Greens (good lunch place)
   - Bodega 138 (good pizza & beer place in Cusco)
-  - Tons of churches/ruins - you can easily spend a day or two walking around Cusco, though it's a harder than it sounds because of the altitude. 
+  - Tons of churches/ruins - you can easily spend a day or two walking around Cusco, though it's a harder than it sounds because of the altitude.
 
 ### Urubamba/Ollantaytambo/Sacred Valley restuarants/stuff to do:
   - Huacantay in Urubamba - had a great dinner here - got the gnocchi with fresh veggies, chicken and chorizo. it was massive and delicious.
   - Kaia in Urubamba - small mostly veggie oriented place - really good lunch/dinner
-  - Monestario - a pottery place in Urubamba - really cool gifts/stuff to take back for your apartment. 
+  - Monestario - a pottery place in Urubamba - really cool gifts/stuff to take back for your apartment.
   - Sacred Valley Brewing Company - impossible to find (it's near Pachar in between Urubamba and Ollantaytambo so it needs a cab) but really good craft brewery started by some dudes who trained in Oregon.
   - In Ollantaytambo, definitely see the ruins. We also had lunch at a place which was pretty good called Hearts Café.
   - Tons more ruins in the Sacred Valley. We did Moray, Ollantaytambo, Sachsayhuaman, Pisaqa, and a few others. They’re all really cool.

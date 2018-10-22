@@ -1,67 +1,40 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
 title:            ChrisKurdziel.com
-description:      If you wish to make an apple pie from scratch, you must first write a blog post.
-logo:             bio-photo.jpg
-disqus_shortname: chriskurdzielblog
-search:           false
-# Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://chriskurdziel.com
+tagline:          ''
+description:      'If you wish to make an apple pie from scratch, you must first write a blog post about it on the internet.'
+url:              https://chriskurdziel.com
+#baseurl:          '/'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# Owner/author information
-owner:
-  name:           Chris Kurdziel
-  avatar:         bio-photo.jpg
-  email:          chris@chriskurdziel.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        ckurdziel
-  facebook:
-  github:         ckurdziel
-  stackexchange:
-  linkedin:       ckurdziel
-  instagram:      ckurdziel
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus: 
+author:
+  name:           'Chris Kurdziel'
+  url:            https://chriskurdziel.com
 
-# Analytics and webmaster tools stuff goes here
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+disqus:
+  shortname: chriskurdzielblog
+
 google_analytics: UA-12256494-2
-Status: Receiving Data
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-- title: About
-  url: /about/
-- title: Posts
-  url: /archive/
-- title: Reading
-  url: /reading/
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: rouge
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
