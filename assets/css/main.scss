@@ -39,6 +39,6 @@ $sidebar-fg-color: white !default;
 $sidebar-title-color: $green !default;
 $sidebar-link-color: $purple !default;
 $sidebar-text-color: rgba(white, 0.75) !default;
-$sidebar-icon-color: rgba(white, 0.85) !default;
+$sidebar-icon-color: rgba($green, 0.85) !default;
 
 @import "hydeout";
