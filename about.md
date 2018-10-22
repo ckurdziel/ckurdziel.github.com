@@ -1,17 +1,15 @@
 ---
-layout: page
+layout: category
+title: ❚About Me
 permalink: /about/
-title: About Me
 tags: [about, me, chris kurdziel]
-modified: 6-08-2016
 ---
-## About Me
 
-Hi, I'm Chris. I'm a Director of Product @ [VHX][1]/[Vimeo][2].
+Hi, I'm Chris. I'm a Director of Product @ [Vimeo][1] and a Venture Partner at [Joyance Partners][2]/SocialStarts.
 
 Previously, I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leads and the world's best content partners to re-imagine Samsung’s TV platform and SDK.
 
-Previously, I built [Shelby.tv][3] (TechStars NY '11) with some great people. Our team was acquired by Samsung in 2014 to help build the future of TV.
+Before that, I built [Shelby.tv][3] (TechStars NY '11) with some great people. Our team was acquired by Samsung in 2014 to help build the future of TV.
 
 I've been fortunate to learn from some great people along the way, and went to school at [Vanderbilt][4] and [Cornell][5]. I also used to do some [investing][6] and worked in [healthcare][7] for a few years.
 
@@ -47,8 +45,8 @@ I'm really interested in the confluence of many of these themes and their corres
 
 **Efficiency, Productivity and Abstraction.** Modern development is amazing. The rise of devops, APIs, lambda functions, SDKs and containers allow for quick scaling and faster execution on new ideas. Ultimately these are extensions of core software development principles: develop code so it can be readable, reusable and execute quickly. But these principles can be applied to more than just development and they have rippling impacts on the way we work and build things. I’m interested in exploring all these possibilities and implications.
 
-[1]:	http://vhx.tv
-[2]:	http://vimeo.com
+[1]:	http://vimeo.com
+[2]:	http://joyancepartners.com
 [3]:	http://shelby.tv
 [4]:	http://engineering.vanderbilt.edu/
 [5]:	http://www.johnson.cornell.edu/

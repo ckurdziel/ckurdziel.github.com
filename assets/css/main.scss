@@ -1,0 +1,44 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+$gray-1: #ffffff !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #000000 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
+
+$black: #000000 !default;
+$red: #aa172b !default;
+$orange: #d28445 !default;
+$yellow: #f4bf75 !default;
+$green: #00eb6d !default;
+$pink: #FD00E1 !default;
+$teal: #00FFD5 !default;
+$blue: #00FDF1 !default;
+$purple: #E400F7 !default;
+
+$large-font-size: 1.25rem !default;
+
+$body-color: $gray-1 !default;
+$body-muted: $gray-4 !default;
+$body-bg: #black !default;
+$link-color: $pink !default;
+$heading-color: $green !default;
+$code-color: $green !default;
+$strong-color: $green !default;
+
+$root-font-family: 'Play', "Roboto", "Ubuntu", "Helvetica Neue", Arial, sans-serif !default;
+
+$sidebar-width: 28rem !default;
+
+$sidebar-bg-color: #000000 !default;
+$sidebar-fg-color: white !default;
+
+$sidebar-title-color: $green !default;
+$sidebar-link-color: $purple !default;
+$sidebar-text-color: rgba(white, 0.75) !default;
+$sidebar-icon-color: rgba(white, 0.85) !default;
+
+@import "hydeout";

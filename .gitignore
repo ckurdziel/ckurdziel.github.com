@@ -1,2 +1,3 @@
-
-.Ulysses-favorites.plist
+_site
+.sass-cache
+.jekyll-metadata
