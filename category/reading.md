@@ -6,7 +6,7 @@ sidebar_sort_order: 3
 
 Though I've learned a lot through experience, I'm inspired by those that have paved the way. Here's a list of some reading and resources that I find helpful.
 
-### Want to be a Product Manager? Read these.
+#### Want to be a Product Manager? Read these.
  - [Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
  - [The pyramid model & what it means for PM focus](http://blog.kentonkivestu.com/product-focus)
  - [What Is A Product Manager? A Primer For Aspiring Or Junior PMs](https://medium.com/career-pathing/a44f74a6ba59)
@@ -20,7 +20,7 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
  - [48 Articles and Books that will Make you a Great Product Manager](https://medium.com/p/aad5babee2f7)
  - [20 Product Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
 
-### Books That Have Changed The Way I Think
+#### Books That Have Changed The Way I Think
 
  - [The Hard Thing About Hard Things by Ben Horowitz](http://www.amazon.com/gp/product/B00DQ845EA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DQ845EA&linkCode=as2&tag=chriskurdziel-20)
  - [Snow Crash by Neal Stephenson](http://www.amazon.com/gp/product/B000FBJCJE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FBJCJE&linkCode=as2&tag=chriskurdziel-20)

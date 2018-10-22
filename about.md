@@ -16,7 +16,7 @@ I've been fortunate to learn from some great people along the way, and went to s
 I'm a native New Yorker, have lived in 6 states and been to all 50. I'm also a gamer, golfer, guitarist and geek. I love memes, mountains, metal, music, and all sorts of the mayhem associated with this crazy city. But I obviously don't love alliteration.
 
 
-## How & Why I Work
+### How & Why I Work
 
 I'm passionate about building great products, great teams, and great companies.
 
@@ -33,7 +33,7 @@ The **psychology behind products excites me**. Humans are complex animals but bo
 **While I enjoy bringing order to the chaos that commonly occurs in quickly growing companies** I believe [Loose Coordination \> Tight Synchronization][8]. As a result, I look for ways to enable this loose coordination as a means of dealing with complexity. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple, focused vision of the future.
 
 
-## Themes That Excite Me
+### Themes That Excite Me
 
 I'm really interested in the confluence of many of these themes and their corresponding effects on technology, companies, work styles, human interactions, cultures, and civilizations:
 

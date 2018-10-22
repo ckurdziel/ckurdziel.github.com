@@ -1,12 +1,13 @@
 ---
-layout: index
-title: The personal website of Chris Kurdziel
+layout: page
 ---
 
-<p>Hi, I'm Chris. I'm a Director of Product at VHX/Vimeo here in New York and a Venture Partner at <a href="http://joyancepartners.com">Joyance Partners</a>. This is my home on the internet. Here are a few things I have written:</p>
+<p>Hi, I'm Chris. I'm a Director of Product at VHX/Vimeo here in New York and a Venture Partner at Joyance Partners. This is my home on the internet. Here are a few things I have written:</p>
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+Read more about me on <a href="/about">my about page</a>.

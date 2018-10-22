@@ -10,7 +10,7 @@ I've been fortunate enough to travel a bunch over the course of my life. I start
 For each trip I take, I compile suggestions/itineraries from friends who have been there. They're all up on my website/GitHub so you can add your own suggestions to the list.
 
 Here are a few places I've been.
- - United States (all 50 states)
+ - I've been to all 50 US states.
  - [Canada: Banff, Jasper & Yoho National Parks][2]
  - [Chile: San Pedro de Atacama][3]
  - [Chilean Patagonia: Torres del Paine][4]
@@ -19,7 +19,7 @@ Here are a few places I've been.
  - [Italy: Lake Como, Venice & The Dolomites][7]
  - [Amsterdam & The Netherlands][8]
 
-Places On My Travel List:
+A few places I'd like to go:
 
  - Nepal
  - South Africa
