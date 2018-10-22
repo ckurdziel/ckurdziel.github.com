@@ -7,7 +7,7 @@ remote_theme:     fongandrew/hydeout
 title:            ChrisKurdziel.com
 tagline:          ''
 description:      'If you wish to make an apple pie from scratch, you must first write a blog post about it on the internet.'
-url:              https://chriskurdziel.com
+url:              http://chriskurdziel.com
 #baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,7 +17,7 @@ url:              https://chriskurdziel.com
 
 author:
   name:           'Chris Kurdziel'
-  url:            https://chriskurdziel.com
+  url:            http://chriskurdziel.com
 
 paginate:         5
 # paginate_path:    '/page:num'
