@@ -4,8 +4,8 @@ highlighter:      rouge
 remote_theme:     fongandrew/hydeout
 
 # Setup
-title:            ChrisKurdziel.com
-tagline:          ''
+title:            Chris Kurdziel
+tagline:          'The personal blog of Chris Kurdziel'
 description:      'If you wish to make an apple pie from scratch, you must first write a blog post about it on the internet.'
 url:              http://chriskurdziel.com
 #baseurl:          '/'
