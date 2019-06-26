@@ -18,10 +18,12 @@ Here are a few places I've been.
  - [Iceland: Drive the Ring Road][6]
  - [Italy: Lake Como, Venice & The Dolomites][7]
  - [Amsterdam & The Netherlands][8]
+ - Jackson Hole, WY, Grand Teton & Yellowstone National Parks
 
 A few places I'd like to go:
 
  - Nepal
+ - Greenland
  - South Africa
  - Antarctica
  - Svalbard, Norway
