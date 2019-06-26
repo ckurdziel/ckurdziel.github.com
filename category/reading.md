@@ -1,6 +1,6 @@
 ---
 layout: category
-title: ❚Reading
+title: Reading
 sidebar_sort_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: ❚Travel
+title: Travel
 sidebar_sort_order: 3
 
 ---
