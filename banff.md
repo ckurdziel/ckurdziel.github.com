@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Banff, Jasper & Yoho National Parks
 permalink: /banff/
 
 ---
