@@ -26,10 +26,12 @@ article + *, .post-body ~ section {
 .post-title,
 .post-title a {
   color: $heading-color;
+  font-family: "Kung Font", serif;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  font-family: "Kung Font", serif;
 }
 
 // h1-size h2
