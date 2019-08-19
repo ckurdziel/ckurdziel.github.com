@@ -1,0 +1,24 @@
+---
+layout: post
+title: '“No Brown M&Ms”'
+description: ‘What Van Halen’s “No Brown M&M’s” tour rider policy can teach you about building products, raising money, and getting a job.”
+comments: false
+---
+
+## No Brown M&Ms: What Van Halen’s “No Brown M&M’s” tour rider policy can teach you about building products, raising money, and getting a job.
+
+“No brown M&Ms” is an old joke in the music business that originates with Van Halen. Many people know that Van Halen’s tour rider included a line about “no brown M&Ms” in their dressing room. This required staff at the venue to pick through the M&Ms and remove brown ones before the show. I can only assume it was a huge pain in the ass and something that garnered Van Halen something of a reputation among venues. 
+
+But contrary to popular belief, Van Halen didn’t institute this rider policy because they were a bunch of pompous rock musicians (that point is certainly up for debate). Instead, they did it for a different reason: it was the easiest way of figuring out whether or not a venue would abide by the *rest* of the tour rider. You know, the important stuff like making sure stage could support the massive weight of their set (and egos) without collapsing. Ultimately, the lack of brown M&Ms was just an indicator of whether a venue had done their job (and a rather brilliant one at that). 
+
+So how does this apply to startups and technology? 
+
+**It applies to building products.** Debating about whether your users will actually use that password manager integration you’re building into your sign in flow or not? It may not matter - you have a great opportunity to send a signal that users should trust your product when they first sign in and implementing an integration like this could be a great way to signal that, even if not everyone takes advantage of it. Pay attention to little stuff - typos, design issues, etc. - that could send a signal to your users that you’re not building with their best interests in mind. All software is ultimately flawed, but where you choose to invest time, energy, and attention to detail is an important signal to your users about which of their problems you value.
+
+**It applies to raising money.** Investors and founders often pay attention to small signals each group gives them in the process of investing in a company. Sending calendar invites, responsiveness, even that email newsletter you’re writing are all signals that investors pay attention to in to help them form data points about how they might interact with you. Similarly, as a founder you can look at these signals from your investors.
+
+**It applies to getting a job.** The question “how do I get a job as a PM?” Is often met with the advice “go build a product!” Not everyone I know who got their first job in product built a product beforehand - often times they did that for the first time on the job! So then why do people give this advice? It turns out it’s a bit like the brown M&Ms on Van Halen’s tour rider.
+
+People care if you built a product or not because it's an indicator of other things. Can you work with dev/engineering to ship something? Can you talk about design tradeoffs? Can you collect a huge amount of input from customers/users and synthesize it into a coherent thesis about what problem you’re going to solve?
+
+If the answer is yes to these questions other questions and you haven’t built a product, you may have what it takes. So the key is to represent the experience you do have in such a way so that an investor, product manager or recruiter can really quickly with almost no work see that you have the skills necessary to ship things.
