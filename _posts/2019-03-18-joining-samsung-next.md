@@ -7,7 +7,7 @@ comments: false
 
 I’ll cut to the chase. 
 
-##I’m joining Samsung NEXT Ventures to lead our early stage software investments focused on immersive technology, esports and gaming.
+## I’m joining Samsung NEXT Ventures to lead our early stage software investments focused on immersive technology, esports and gaming.
 
 My first taste of the venture capital world came in grad school when I spent time working with Cornell’s [BR Venture Fund] looking at early stage investments. At the time (and probably due to the fact that I wore a blazer and jeans at one point to a pitch meeting) being a VC felt inauthentic to me. Fortunately, I ended up meeting Reece and the rest of the Techstars 2011 class here in NYC and decided my time would be better spent jumping into the trenches of building early stage companies.
 
