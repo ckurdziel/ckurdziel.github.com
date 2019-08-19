@@ -1,3 +1,12 @@
+---
+layout: page
+title: DOTA2
+permalink: /dota2/
+
+---
+
+I like playing DOTA2. Here's a training regimen I recommend (courtesy of the DOTA2 subreddit).
+
 # DOTA2 Cookie Challenge
 
 **Easy:**
