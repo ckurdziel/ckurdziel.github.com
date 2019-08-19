@@ -5,7 +5,7 @@ permalink: /about/
 tags: [about, me, chris kurdziel]
 ---
 
-Hi, I'm Chris. I'm an early stage investor @ [Samsung NEXT Ventures][0] in NYC and an advisor at [Joyance Partners][1]/SocialStarts.
+Hi, I'm Chris. I'm an early stage investor @ [Samsung NEXT Ventures][0] in NYC and an advisor at [Joyance Partners][1]/[SocialStarts](http://socialstarts.com).
 
 Previously, I was a Director of Product @ [Vimeo][2]/VHX. Before that I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leads and the world's best content partners to re-imagine Samsung’s TV platform and SDK.
 
