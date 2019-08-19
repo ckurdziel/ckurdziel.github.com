@@ -13,8 +13,7 @@ Back in 2011, I moved to New York to build [Shelby.tv][3] (TechStars NY '11) wit
 
 I've been fortunate to learn from a supportive bunch of people in tech (most of whom I met on Twitter) and went to school at [Vanderbilt][4] and [Cornell][5]. I also worked in [healthcare][7] for a few years.
 
-I'm a native New Yorker, have lived in 6 states and been to all 50. I'm also a gamer, golfer, guitarist and geek. I love memes, mountains, metal, music, and all sorts of the mayhem associated with this crazy city. But I obviously don't love alliteration.
-
+I'm a native New Yorker, have lived in 6 states and been to all 50. I occasionally play DOTA2, so if you play, hit me up on Twitter for a game!
 
 ### How & Why I Work
 
