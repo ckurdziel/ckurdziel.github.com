@@ -17,23 +17,6 @@ I'm a native New Yorker, have lived in 6 states and been to all 50. I occasional
 
 As an investor, I've led or sourced 5 investments. Not all of these are public information, but as they become public, I will list them here (along with brief writings about them). :)
 
-### How & Why I Work
-
-I love the messiness of early stage companies and products.
-
-**I'm comfortable juggling a lot at once.** As a result, I love leading cross-functional teams tackling complex problems and setting/executing a product vision that empowers the team toward a clear goal.
-
-**I love helping teams “level up”** to achieve their best level of productivity and positive energy. This means celebrating successes, learning from failures and generally reflecting on not just the work that the team is doing, but how and why they are doing that work.
-
-**I’m an introvert (INTJ)** and believe in the "headphone rule." Maker's time is sacred - if someone is in a state of flow or deep work, don't interrupt them and find asychronous ways to communicate.
-
-**“Be human”** is a core value of how I build products and work with teams - human centered design principles are great for building products, but they're also a great way to approach growing a team and thinking about engaging investors.
-
-The **psychology behind products excites me**. Humans are complex animals but boiling things down to their simplest elements in the product design process is really enjoyable for me.
-
-**While I enjoy bringing order to the chaos that commonly occurs in quickly growing companies** I believe [Loose Coordination \> Tight Synchronization][8]. As a result, I look for ways to enable this loose coordination as a means of dealing with complexity. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple, focused vision of the future.
-
-
 ### Themes That Excite Me
 
 I'm really interested in the confluence of many of these themes and their corresponding effects on technology, companies, work styles, human interactions, cultures, and civilizations:
@@ -45,6 +28,20 @@ I'm really interested in the confluence of many of these themes and their corres
 **The evolution of networks.** I've been a fan of early P2P technology and internet protocols since I was a kid. Today, I am excited by technologies like Bitcoin, crypto networks and wireless mesh networks - these are all a signal of where I think the internet is headed over the next few decades. As mobile computing power increases and the infrastructure for these new decentralized technologies matures, I think we'll see a shift in how many of the huge networks on the web are structured (from centralized & distributed to decentralized and distributed).
 
 **Extending the self with code/bots and portable, open standards.** Modern software development is amazing and enabled by a host of developer friendly tools and technologies. The rise of devops, APIs, lambda functions, GraphQL, mobile SDKs and containers allow for quick scaling and faster execution on new ideas. More recently, no-code tools like Airtable, Coda, and Zapier have made it possible for almost anyone to build simple apps (personal CRM, anyone?). As these tools mature even further and users demand more personalization and control of their data, I expect that each of us will want to write  software that goes to work for us (probably without writing code), rather than house our data in inflexible tools and use UIs that have been designed without our specific needs in mind.
+
+### How & Why I Work
+
+I love the messiness of early stage companies and products.
+
+**I love helping teams “level up” and fully relish the emotional journey of building products** to achieve their best level of productivity and positive energy. This means celebrating successes, learning from failures and generally reflecting on not just the work that the team is doing, but how and why they are doing that work.
+
+**I’m an introvert (INTJ)** and believe in the "headphone rule." Maker's time is sacred - if someone is in a state of flow or deep work, don't interrupt them and find asychronous ways to communicate.
+
+**“Be human”** is a core value of how I build products and work with teams - human centered design principles are great for building products, but they're also a great way to approach growing a team and thinking about engaging investors.
+
+The **psychology behind products excites me**. Humans are complex animals but boiling things down to their simplest elements in the product design process is really enjoyable for me.
+
+**While I enjoy bringing order to the chaos that commonly occurs in quickly growing companies** I believe [Loose Coordination \> Tight Synchronization][8]. As a result, I look for ways to enable this loose coordination and clear prioritization as a means of dealing with complexity. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple, focused vision of the future.
 
 [0]:  https://samsungnext.com/ventures/
 [1]:	http://joyancepartners.com
