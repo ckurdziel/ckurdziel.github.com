@@ -7,13 +7,15 @@ tags: [about, me, chris kurdziel]
 
 Hi, I'm Chris. I'm an early stage investor @ [Samsung NEXT Ventures][0] in NYC and an advisor at [Joyance Partners][1]/[SocialStarts](http://socialstarts.com).
 
-Previously, I was a Director of Product @ [Vimeo][2]/VHX. Before that I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leads and the world's best content partners to re-imagine Samsung’s TV platform and SDK.
-
-Back in 2011, I moved to New York to build [Shelby.tv][3] (TechStars NY '11) with some talented people. Our team was acquired by Samsung in 2014 to help build the future of TV.
+Before I became an investor, I was a Director of Product @ [Vimeo][2]/VHX. Before that I managed new product development for Samsung’s NYC R&D lab where I worked with internal product leads and the world's best content partners to re-imagine Samsung’s TV platform and SDK. Back in 2011, I moved to New York to build [Shelby.tv][3] (TechStars NY '11) with some talented people. Our team was acquired by Samsung in 2014 to help build the future of TV.
 
 I've been fortunate to learn from a supportive bunch of people in tech (most of whom I met on Twitter) and went to school at [Vanderbilt][4] and [Cornell][5]. I also worked in [healthcare][7] for a few years.
 
 I'm a native New Yorker, have lived in 6 states and been to all 50. I occasionally play DOTA2, so if you play, hit me up on Twitter for a game!
+
+### Investments
+
+As an investor, I've led or sourced 5 investments. Not all of these are public information, but as they become public, I will list them here (along with brief writings about them). :)
 
 ### How & Why I Work
 
@@ -40,9 +42,9 @@ I'm really interested in the confluence of many of these themes and their corres
 
 **Human-computer interaction.** Steve Jobs is famously attributed to the quote [“a computer is the equivalent of a bicycle for the mind.”][9] IMO, the endgame here is a fusion of computing and the mind. Mobile technology is just one step and we have a long way to go. I've worked on HCI challenges at both Shelby.tv and Samsung.
 
-**The evolution of networks.** Bitcoin, the blockchain, wireless mesh networks are all hot topics these days and they are a signal of where I think the internet is headed over the next decade. As mobile computing power increases and the infrastructure for these new decentralized technologies matures, I think we'll see a shift in how many of the huge networks on the web are structured (from centralized & distributed to decentralized and distributed).
+**The evolution of networks.** I've been a fan of early P2P technology and internet protocols since I was a kid. Today, I am excited by technologies like Bitcoin, crypto networks and wireless mesh networks - these are all a signal of where I think the internet is headed over the next few decades. As mobile computing power increases and the infrastructure for these new decentralized technologies matures, I think we'll see a shift in how many of the huge networks on the web are structured (from centralized & distributed to decentralized and distributed).
 
-**Automation and abstraction.** Modern software development is amazing. The rise of devops, APIs, lambda functions, SDKs and containers allow for quick scaling and faster execution on new ideas. Ultimately these are extensions of core software development principles: develop code so it can be readable, reusable and scalable. But these principles can be applied to more than just development and they have rippling impacts on the way we work and build things.
+**Extending the self with code/bots and portable, open standards.** Modern software development is amazing and enabled by a host of developer friendly tools and technologies. The rise of devops, APIs, lambda functions, GraphQL, mobile SDKs and containers allow for quick scaling and faster execution on new ideas. More recently, no-code tools like Airtable, Coda, and Zapier have made it possible for almost anyone to build simple apps (personal CRM, anyone?). As these tools mature even further and users demand more personalization and control of their data, I expect that each of us will want to write  software that goes to work for us (probably without writing code), rather than house our data in inflexible tools and use UIs that have been designed without our specific needs in mind.
 
 [0]:  https://samsungnext.com/ventures/
 [1]:	http://joyancepartners.com
