@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ‘Thoughts on Stadia’
-description: ‘Thoughts on the launch of Stadia and the state of cloud game streaming.’
+title: Thoughts on Stadia
+description: Thoughts on the launch of Stadia and the state of cloud game streaming.
 comments: false
 --- 
 Today marks the launch of Google’s Stadia. A lot of people have asked me for my thoughts on Stadia’s chances for success, so I figured I would write them down here. Time will tell if I am right or not.
@@ -19,6 +19,6 @@ So if I’m bearish on Stadia, then why do I think cloud streaming i an interest
 
 Ultimately, cloud streaming is also a new distribution mechanism and therefore has the ability to act as a portal to new experiences inside games from anywhere on the internet. For example, it could be leveraged in livestream situations to hop into a game instance with a streamer you’re watching. This has been touted as a part of the Stadia/YouTube integration, but we haven’t seen it in the wild yet and it’s been employed as a pretty sterile way of reinforcing Google’s view of the world.
 
-Ultimately I do believe there is a large scale startup opportunity in the area of cloud streaming, but any successful company probably needs to both nail the content piece of the equation as well as the distribution piece of the equation to deliver something more novel to consumers than just “get the same games you play today but via a different mechanism.” Or simply start by offering a compelling developer tool to people building new experiences (similar to what (Parsec)[https://parsecgaming.com/] does).
+Ultimately I do believe there is a large scale startup opportunity in the area of cloud streaming, but any successful company probably needs to both nail the content piece of the equation as well as the distribution piece of the equation to deliver something more novel to consumers than just “get the same games you play today but via a different mechanism.” Or simply start by offering a compelling tool to game developers building new experiences (similar to what [Parsec](https://parsecgaming.com/) does).
 
 That’s about it for my thoughts today on Stadia and cloud streaming - it will be fun to revisit this post in years to come to see whether I was right or not!
