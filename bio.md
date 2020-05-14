@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Bio
+title: Bio: Chris Kurdziel
 permalink: /bio/
 tags: [bio, me, chris kurdziel]
 ---
-
-# Bio: Chris Kurdziel
 
 Chris Kurdziel is a technology investor and advisor based in NYC. He has spent the better part of his career operating in technology companies from startups to public companies. 
 
