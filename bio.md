@@ -5,6 +5,7 @@ permalink: /bio/
 tags: [bio, me, chris kurdziel]
 ---
 
+
 Chris Kurdziel is a technology investor and advisor based in NYC. He has spent the better part of his career operating in technology companies from startups to public companies. 
 
 As an investor, he has worked with Samsung NEXT Ventures as a Principal and with Joyance Partners & SocialStarts as a Venture Partner to invest in emerging consumer technology and gaming companies.
