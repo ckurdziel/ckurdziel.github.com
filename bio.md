@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio: Chris Kurdziel
+title: About Chris Kurdziel
 permalink: /bio/
 tags: [bio, me, chris kurdziel]
 ---
