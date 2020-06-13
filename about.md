@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 tags: [about, me, chris kurdziel]
 ---
+![Me](images/avatar.gif)
 
 Hi, I'm Chris. I'm an early stage investor and advisor in NYC.
 
