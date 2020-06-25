@@ -4,7 +4,7 @@ title: Chile
 permalink: /chile/
 
 ---
-I went to Chile in November of 2013.
+I traveled to Chile in November of 2013.
 
 ### General
   
