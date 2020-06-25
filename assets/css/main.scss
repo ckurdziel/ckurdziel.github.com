@@ -40,12 +40,12 @@ $root-font-family: 'Play', "Roboto", "Kung Font", "Ubuntu", "Helvetica Neue", Ar
 
 $sidebar-width: 24rem !default;
 
-$sidebar-bg-color: #000000 !default;
+$sidebar-bg-color: #0D0221 !default;
 $sidebar-fg-color: white !default;
 
 $sidebar-title-color: #21ce97 !default;
 $sidebar-link-color: $purple !default;
-$sidebar-text-color: rgba(white, 0.75) !default;
+$sidebar-text-color: rgba(#d0b7ff, 0.75) !default;
 $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
 
 @import "hydeout";
