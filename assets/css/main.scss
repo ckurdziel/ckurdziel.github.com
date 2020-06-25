@@ -24,16 +24,17 @@ $pink: #FD00E1 !default;
 $teal: #00FFD5 !default;
 $blue: #00FDF1 !default;
 $purple: #E400F7 !default;
+$synth: #4d3f6b !default;
 
 $large-font-size: 1.25rem !default;
 
-$body-color: $gray-1 !default;
+$body-color: #d0b7ff !default;
 $body-muted: $gray-4 !default;
-$body-bg: #black !default;
+$body-bg: #0D0221 !default;
 $link-color: $pink !default;
-$heading-color: $green !default;
-$code-color: $green !default;
-$strong-color: $green !default;
+$heading-color: #2de2e6 !default;
+$code-color: #21ce97 !default;
+$strong-color: #2de2e6 !default;
 
 $root-font-family: 'Play', "Roboto", "Kung Font", "Ubuntu", "Helvetica Neue", Arial, sans-serif !default;
 
@@ -42,9 +43,9 @@ $sidebar-width: 24rem !default;
 $sidebar-bg-color: #000000 !default;
 $sidebar-fg-color: white !default;
 
-$sidebar-title-color: $green !default;
+$sidebar-title-color: #21ce97 !default;
 $sidebar-link-color: $purple !default;
 $sidebar-text-color: rgba(white, 0.75) !default;
-$sidebar-icon-color: rgba($green, 0.85) !default;
+$sidebar-icon-color: rgba(#21ce97, 0.85) !default;
 
 @import "hydeout";
