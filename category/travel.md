@@ -1,7 +1,6 @@
 ---
-layout: category
 title: Travel
-sidebar_sort_order: 3
+sidebar_sort_order: 5
 
 ---
 
