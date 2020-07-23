@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Investments
-sidebar_sort_order: 2
+sidebar_sort_order: 1
 ---
 
 As an investor, I've been fortunate to invest in and work with companies that include [Medal.tv](https://medal.tv/), [Eternal](https://eternal.plus/), [Forte](https://www.forte.io/), [The Block](https://www.theblockcrypto.com/), [Supermedium](http://supermedium.com/), [Statespace](https://statespace.gg/), [Dapper Labs](https://www.dapperlabs.com/), and [PlayVS](https://www.playvs.com/).
