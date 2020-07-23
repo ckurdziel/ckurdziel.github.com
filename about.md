@@ -1,6 +1,6 @@
 ---
 layout: category
-title: About Me
+title: About
 permalink: /about/
 tags: [about, me, chris kurdziel]
 ---
