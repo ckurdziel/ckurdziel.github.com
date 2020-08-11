@@ -25,19 +25,20 @@ Here is some of my favorite reading about building products:
 - [How to Find, Vet and Close the Best Product Managers][14]
 
 ### For investors & founders
-- I keep a list of my investment memo templates and other pieces I use in the process of making investments on Github. [You can check them out here][15].  
+- I keep a list of my investment memo templates and other pieces I use in the process of making investments on Github. [You can check them out here][15].
+- Steve Schlafman maintains a great library of founder-related documents [here][16] at [http://www.founderslibrary.org.][17]
 
 ### For those who are interested in how I consume information
 I use Instapaper and Feedbin (both consumed via Reeder on iOS) to source interesting reading from all over the web. My system is relatively straightforward and requires only one app for consumption while pulling info from a variety of newsletters and online sources of interest. I’ll probably write more about how I consume information at a later date, or maybe even publish my OPML here if people are interested in learning more.
 
 ### Here are a few books that have changed the way I think:
 
- - [Snow Crash by Neal Stephenson][16]
- - [The Hard Thing About Hard Things by Ben Horowitz][17]
- - [How to Win Friends and Influence People by Dale Carnegie][18]
- - [Hooked: How to Build Habit Forming Products by Nir Eyal][19]
+ - [Snow Crash by Neal Stephenson][18]
+ - [The Hard Thing About Hard Things by Ben Horowitz][19]
+ - [How to Win Friends and Influence People by Dale Carnegie][20]
+ - [Hooked: How to Build Habit Forming Products by Nir Eyal][21]
 
-I also keep track of what I read using [GoodReads][20].
+I also keep track of what I read using [GoodReads][22].
 
 [1]:	https://github.com/ckurdziel/templates
 [2]:	http://insideintercom.io/product-strategy-means-saying-no/
@@ -54,8 +55,10 @@ I also keep track of what I read using [GoodReads][20].
 [13]:	https://foldingburritos.com/product-prioritization-techniques/
 [14]:	http://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/
 [15]:	https://github.com/ckurdziel/templates
-[16]:	http://www.amazon.com/gp/product/B000FBJCJE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FBJCJE&linkCode=as2&tag=chriskurdziel-20
-[17]:	http://www.amazon.com/gp/product/B00DQ845EA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DQ845EA&linkCode=as2&tag=chriskurdziel-20
-[18]:	http://www.amazon.com/gp/product/B003WEAI4E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003WEAI4E&linkCode=as2&tag=chriskurdziel-20
-[19]:	http://www.amazon.com/gp/product/B00HJ4A43S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HJ4A43S&linkCode=as2&tag=chriskurdziel-20
-[20]:	https://www.goodreads.com/user/show/4012448-chris
+[16]:	http://www.founderslibrary.org
+[17]:	http://www.founderslibrary.org
+[18]:	http://www.amazon.com/gp/product/B000FBJCJE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FBJCJE&linkCode=as2&tag=chriskurdziel-20
+[19]:	http://www.amazon.com/gp/product/B00DQ845EA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DQ845EA&linkCode=as2&tag=chriskurdziel-20
+[20]:	http://www.amazon.com/gp/product/B003WEAI4E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003WEAI4E&linkCode=as2&tag=chriskurdziel-20
+[21]:	http://www.amazon.com/gp/product/B00HJ4A43S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HJ4A43S&linkCode=as2&tag=chriskurdziel-20
+[22]:	https://www.goodreads.com/user/show/4012448-chris
