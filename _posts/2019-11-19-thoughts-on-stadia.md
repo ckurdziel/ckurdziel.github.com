@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Stadia
+title: On Stadia & Cloud Gaming
 description: Thoughts on the launch of Stadia and the state of cloud game streaming.
 comments: false
 --- 
