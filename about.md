@@ -2,6 +2,7 @@
 layout: category
 title: About
 permalink: /about/
+sidebar_sort_order: 1
 tags: [about, me, chris kurdziel]
 ---
 ![Me](images/avatar.gif)

@@ -3,6 +3,8 @@ layout: category
 title: Values
 permalink: /values/
 tags: [about, values, chris kurdziel]
+sidebar\_sort\_order: 3
+
 ---
 
 The goal of this page is not to virtue signal but to be clear about how I like to work and what I value so that it's easier to figure out if we want to work together!
