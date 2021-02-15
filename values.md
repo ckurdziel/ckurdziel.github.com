@@ -3,7 +3,7 @@ layout: category
 title: Values
 permalink: /values/
 tags: [about, values, chris kurdziel]
-sidebar\_sort\_order: 3
+sidebar_sort_order: 3
 
 ---
 

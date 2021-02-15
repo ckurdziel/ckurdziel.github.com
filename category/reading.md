@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Resources
-sidebar\_sort\_order: 4
+title: Reading
+sidebar_sort_order: 4
 ---
 
 Though I've learned a lot through experience, I'm inspired by those that have paved the way. Here's a list of some reading and resources that I have found helpful (including a few things I’ve written to answer common questions I get).

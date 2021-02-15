@@ -5,8 +5,6 @@ permalink: /about/
 sidebar_sort_order: 1
 tags: [about, me, chris kurdziel]
 ---
-![Me](images/avatar.gif)
-
 Hi, I'm Chris. I am an early stage investor and advisor. I'm based in NYC, but I'm most at home on the internet.
 
 As an investor, I was most recently leading gaming and creative technology investments for [Samsung NEXT Ventures][0], Samsung Electronics' early stage venture capital arm, in NYC. I am also a Venture Partner and Advisor to [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about my investments [here][8].
