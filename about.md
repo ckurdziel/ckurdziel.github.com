@@ -15,6 +15,8 @@ I've been fortunate to learn from a supportive bunch of people in tech (most of 
 
 I'm a native New Yorker, have lived in 6 states and been to all 50. I occasionally play DOTA2, so if you play, hit me up on Twitter for a game!
 
+I don't like writing about myself in the third person, but if you need a formal bio of me, you can [find it here](/bio/).
+
 ## Themes
 
 I have found two guiding themes in my career and in investments that naturally catch my eye. If you ever want to talk about these with me, please reach out on Twitter!
