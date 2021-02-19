@@ -26,9 +26,9 @@ Here is some of my favorite reading about building products:
 
 ### For investors & founders
 - I keep a list of my investment memo templates and other pieces I use in the process of making investments on Github. [You can check them out here][15].
-- Steve Schlafman maintains a great library of founder-related documents [here][16] at [http://www.founderslibrary.org.][17]
-- Gunderson Dettmer's [legal doc library](https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#)
-- [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
+- Steve Schlafman maintains a [great library of founder-related documents here](http://www.founderslibrary.org).
+- Gunderson Dettmer's [legal doc library](https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#) is quite useful.
+- [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation) is essential for any employee or founder thinking about their equity compensation.
 
 ### For those who are interested in how I consume information
 I use Instapaper and Feedbin (both consumed via Reeder on iOS) to source interesting reading from all over the web. My system is relatively straightforward and requires only one app for consumption while pulling info from a variety of newsletters and online sources of interest. I’ll probably write more about how I consume information at a later date, or maybe even publish my OPML here if people are interested in learning more.
@@ -50,7 +50,5 @@ I keep track of what I read using [GoodReads][22]. One of my favorite books is [
 [13]:	https://foldingburritos.com/product-prioritization-techniques/
 [14]:	http://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/
 [15]:	https://github.com/ckurdziel/templates
-[16]:	http://www.founderslibrary.org
-[17]:	http://www.founderslibrary.org
 [18]:	http://www.amazon.com/gp/product/B000FBJCJE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FBJCJE&linkCode=as2&tag=chriskurdziel-20
 [22]:	https://www.goodreads.com/user/show/4012448-chris
