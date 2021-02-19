@@ -11,7 +11,7 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
 - Gunderson Dettmer's [legal doc library](https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#) is quite useful.
 - [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation) is essential for any employee or founder thinking about their equity compensation.
 
-### For product managers and aspiring product managers
+### For product managers
 I keep a list of product management templates that include things like product requirements docs, sample user stories and more on Github. [Check them out here][1].
 
 Here is some of my favorite reading about building products:
