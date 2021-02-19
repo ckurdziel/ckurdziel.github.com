@@ -27,8 +27,8 @@ Here is some of my favorite reading about building products:
 ### For investors & founders
 - I keep a list of my investment memo templates and other pieces I use in the process of making investments on Github. [You can check them out here][15].
 - Steve Schlafman maintains a great library of founder-related documents [here][16] at [http://www.founderslibrary.org.][17]
-- Gunderson Dettmer's [legal doc library][https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#]
-- [The Holloway Guide to Equity Compensation][https://www.holloway.com/g/equity-compensation]
+- Gunderson Dettmer's [legal doc library](https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#)
+- [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation)
 
 ### For those who are interested in how I consume information
 I use Instapaper and Feedbin (both consumed via Reeder on iOS) to source interesting reading from all over the web. My system is relatively straightforward and requires only one app for consumption while pulling info from a variety of newsletters and online sources of interest. I’ll probably write more about how I consume information at a later date, or maybe even publish my OPML here if people are interested in learning more.
