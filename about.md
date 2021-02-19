@@ -17,7 +17,7 @@ I'm a native New Yorker, have lived in 6 states and been to all 50. I occasional
 
 I don't like writing about myself in the third person, but if you need a formal bio of me, you can [find it here](/bio/).
 
-## Themes
+## Interests
 
 I have found two guiding themes in my career and in investments that naturally catch my eye. If you ever want to talk about these with me, please reach out on Twitter!
 
@@ -38,6 +38,9 @@ I look forward to an internet that fosters this sense of individual control of o
 As our information and network structures evolve towards being more human-centric, I also believe our computing will evolve in a similar fashion toward the the more immersive and human (desktop toward mobile, 2D websites toward 3D games, voice/audio computing, etc.) I am also bullish on machine learning as a tool to help us achieve "flow states" to be more effective humans.
 
 I am not one of those people who believes that AI will entirely replace humans. Instead, I think humans will use AI and tools to make themselves more creative and allow us to do more of the things we want to do in the time that we have.
+
+### Changing climate
+Beyond the internet, I’m also interested in technology that helps address climate change. I have very little background operating or investing in the industries that are likely to make a positive impact on our ability to deal with the changing climate (industries like space, energy, water, etc.), but I am nonetheless interested in these businesses and the health of our planet. If you are working on something along these lines I'd love to learn from you!
 
 [0]:  https://samsungnext.com/ventures/
 [1]:	http://joyancepartners.com
