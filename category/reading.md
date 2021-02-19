@@ -10,6 +10,7 @@ Though I've learned a lot through experience, I'm inspired by those that have pa
 - Steve Schlafman maintains a [great library of founder-related documents here](http://www.founderslibrary.org).
 - Gunderson Dettmer's [legal doc library](https://www.docracy.com/doc/showalluserdocs?page=1&userId=80#) is quite useful.
 - [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation) is essential for any employee or founder thinking about their equity compensation.
+
 ### For product managers and aspiring product managers
 I keep a list of product management templates that include things like product requirements docs, sample user stories and more on Github. [Check them out here][1].
 
@@ -27,6 +28,7 @@ Here is some of my favorite reading about building products:
  - [48 Articles and Books that will Make you a Great Product Manager][12]
  - [20 Product Prioritization Techniques][13]
 - [How to Find, Vet and Close the Best Product Managers][14]
+
 ### For those who are interested in how I consume information
 I use Instapaper and Feedbin (both consumed via Reeder on iOS) to source interesting reading from all over the web. My system is relatively straightforward and requires only one app for consumption while pulling info from a variety of newsletters and online sources of interest. I’ll probably write more about how I consume information at a later date, or maybe even publish my OPML here if people are interested in learning more.
 
