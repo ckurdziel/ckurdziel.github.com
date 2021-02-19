@@ -1,17 +1,36 @@
 ---
 layout: category
-title: Values
-permalink: /values/
-tags: [about, values, chris kurdziel]
+title: Work With Me
+permalink: /workwithme/
+tags: [about, workwithme, chris kurdziel]
 sidebar_sort_order: 3
 
 ---
 
 The goal of this page is not to virtue signal but to be clear about how I like to work and what I value so that it's easier to figure out if we want to work together!
 
+### Working with me
+Building a company and impactful products is hard. Here are some ways I like to engage with companies:
+
+#### Product
+ - What is your product wedge (your competitive advantage)?
+ - Product strategy (particularly in consumer, creator, video, and SaaS businesses)
+ - How to build a sustainable, user-driven product organization
+ - How to balance the needs of a sales team and other functions as you scale your product and product organization
+#### Fundraising & investor management
+ - What is the fundraising story you are trying to tell prospective investors? My focus is generally on pre-seed through Series A fundraising.
+ - Building a target investor list - who is a fit and why?
+ - How to engage strategic investors and what you can expect of them
+ - After closing your round, how to engage investors and keep them up to date on your progress
+ 
+#### Recruiting & culture
+ - How can you build a culture that is both sustainable and a competitive advantage as you grow
+ - "Culture as a product" you define, set goals around, etc.
+ - Evaluating recruiting candidates and building an interview process (in particular for product management hiring)
+
 ### How I Work
 
-**I worship chaos.** In my career, this manifests in a love for the earliest stages of companies and products. At home, it manifests in a love for my kids. When I was younger, I loved trying to organize and structure as much as was possible to the point of rigidity. I still have a natural inclination towards doing this, but I have developed better systems to embrace and engage with chaos vs. trying to change its underlying nature. For example, I believe [Loose Coordination \> Tight Synchronization][8]. As a result, I look for ways to enable loose coordination and clear prioritization as a means of dealing with complexity and chaos. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple, focused vision of the future.
+**I thrive inside of chaos.** In my career, this manifests in a love for the earliest stages of companies and products. At home, it manifests in a love for my kids. When I was younger, I loved trying to organize and structure as much as was possible to the point of rigidity. I still have a natural inclination towards doing this, but I have developed better systems to embrace and engage with chaos vs. trying to change its underlying nature. For example, I believe [Loose Coordination \> Tight Synchronization][8]. As a result, I look for ways to enable loose coordination and clear prioritization as a means of dealing with complexity and chaos. Sometimes this means "saying no" to distracting projects, sometimes it means juggling new ones, sometimes it means abstracting and distilling similar challenges into one simple, focused vision of the future.
 
 **I love helping others “level up” and fully relish the emotional journey that is building products and a company.** This means celebrating successes, learning from failures, measuring progress along the way and generally reflecting on not just the work that the team is doing, but how and why they are doing that work. Having been a PM at various stages of company, this is something deeply engrained in my ideal product development process. To use a sportsball analogy, you have to love the act of practice, not just love the act of winning.
 

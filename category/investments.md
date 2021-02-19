@@ -8,4 +8,4 @@ As an investor, I've been fortunate to invest in and work with companies that in
 
 I'm excited to invest in founders that have a very strong view on the world they want to live in, are insatiably curious, and approach building a company with a user-first perspective. Often, these founders are people who are technical enough or scrappy enough to build their first prototype themselves and self-aware about where their shortcomings lie (and how to build the right team around them).
 
- When I work with founders, I try to be helpful mostly around product strategy & go-to-market, organizational/product growth, and fundraising.
+ When I work with founders, I try to be helpful mostly around product strategy & go-to-market, organizational/product growth, and fundraising. You can read more about that [here](/values/).
