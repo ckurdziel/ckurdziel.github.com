@@ -9,13 +9,21 @@ sidebar_sort_order: 3
 
 The goal of this page is not to virtue signal but to be clear about how I like to work and what I value so that it's easier to figure out if we want to work together!
 
-### Working with me
-Building a company and impactful products is hard. Here are some ways I like to engage with companies:
+Here are some ways I like to engage with companies and VC funds:
 
+#### For venture funds
+ - Conducting retrospectives on current portfolio & fund strategy in addition to loss analysis on anti-portfolio
+ - For corporate venture funds, what do good strategic investments look like? Are there other ways to achieve these strategic returns besides investment?
+ - Who are the right co-investment partners given fund strategy? What does the competitive landscape of funds look like?
+ - What is primary value proposition to founders taking investment? Is the value proposition differentiated sufficiently?
+ - What is the ideal process for making new/follow on investments? How can the current process be improved?
+ - Scoping new investment thesis & areas of interest, including building a pipeline of companies and taking the thesis to market (via marketing efforts)
+ - Defining comprehensive KPIs to measure fund performance (including things like D&I metrics)
+  
 #### Product
  - What is your product wedge (your competitive advantage)?
  - Product strategy (particularly in consumer, creator, video, and SaaS businesses)
- - How to build a sustainable, user-driven product organization
+ - How to build a sustainable, user-driven product organization (including how to best employ retrospectives)
  - How to balance the needs of a sales team and other functions as you scale your product and product organization
   
 #### Fundraising & investor management
