@@ -7,7 +7,7 @@ sidebar_sort_order: 3
 
 ---
 
-The goal of this page is not to virtue signal but to be clear about how I like to work and what I value so that it's easier to figure out if we want to work together!
+The goal of this page is not to virtue signal but to be clear about how I like to work and what I value so that it's easier to figure out if we want to work together! If you read this page and feel like you want to work with me, please <a href="mailto:chris@primordial.vc">send me an email</a>!
 
 Here are some ways I like to engage with companies and VC funds:
 
