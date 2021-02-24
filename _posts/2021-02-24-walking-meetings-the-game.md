@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Walking Meetings" The Game
+title: Walking meetings in a game
 description: I'd love to see a game-engine native meeting product. Here's why.
 comments: false
 --- 
