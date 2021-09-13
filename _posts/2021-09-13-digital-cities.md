@@ -1,15 +1,10 @@
-
 ---
-
 layout: post
-
 title: Digital Cities
-
 description: How Discord caused me to rethink my relationship to social communities online.
-
 comments: false
-
 ---
+
 Discord has become a pretty major part of my internet life in the past year as I've descended the Web3 rabbit hole and spent less time on feed-based social media sites like Twitter and Instagram. 
 
 With this shift in behavior has come a shift in how I experience consuming social content on the Internet. 
