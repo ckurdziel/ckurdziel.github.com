@@ -36,4 +36,4 @@ So what does all of this look like in the context of crypto and gaming?
 
 To date, projects like Loot and [Dark Forest](https://zkga.me/) seem to embody some of these mod-oriented game characteristics. Both hearken back to the aesthetic of early 1980s video games. Both embody the beginnings of something newly possible in blockchain gaming: composable games. These seem to be the early beginnings of a "modding community" and I would bet that we start to see new gameplay loops emerge within these ecosystems as they mature.
 
-I'll write more about some ideas about what these games might actually evolve into or look like under the hood. But if you're building in these ecosystems, hop into the [Definitely Crypto Discord](https://discord.gg/QtQ4sdNh) with some friends who are doing the same and let's jam on ideas.
+I'll write more about some ideas about what these games might actually evolve into or look like under the hood. If you're building in these ecosystems, send me a note for an invite into the Definitely Crypto Discord where you can join some other folks who are doing the same in jamming on these ideas.
