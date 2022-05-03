@@ -5,21 +5,17 @@ permalink: /about/
 sidebar_sort_order: 1
 tags: [about, me, chris kurdziel]
 ---
-Hi, I'm Chris. I am an early stage investor and advisor. I'm based in NYC, but I'm most at home on the internet.
+Hi, I'm Chris. I am currently a Partner at [Mirana Ventures](https://www.mirana.xyz/) investing at the intersection of crypto and games. I live in the NYC area, but I'm most at home on the internet.
 
-As an investor, I was most recently leading gaming and creative technology investments for [Samsung NEXT Ventures][0], Samsung Electronics' early stage venture capital arm, in NYC. I am also a Venture Partner and Advisor to [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about my investments [here][8].
+Prior to joining Mirana, I led gaming and creative technology investments for [Samsung NEXT Ventures][0], Samsung Electronics' early stage venture capital arm. I am also a Venture Partner and Advisor to [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about some of the companies I have worked with [here][8].
 
-Before I became an investor, I was a Director of Product at [Vimeo][2] & VHX helping video creators monetize and distribute their video online. Before that, I worked with the R&D team at Samsung and some the world's best content partners to re-imagine Samsung’s smart TV platform. My startup origins date back to 2011, when I moved to New York to build [Shelby.tv][3] (TechStars NY '11) with some talented people. Our team was acquired by Samsung in 2014 to help build the future of TV.
-
-I've been fortunate to learn from a supportive bunch of people in tech (most of whom I met on Twitter) and went to school at [Vanderbilt][4] and [Cornell][5]. I also worked in [healthcare][7] for a few years.
-
-I'm a native New Yorker, have lived in 6 states and been to all 50. I occasionally play DOTA2, so if you play, hit me up on Twitter for a game!
+Before I became an investor, I worked to help video creators monetize and distribute their video online at [Vimeo][2] & VHX.tv (acquired by Vimeo). Before that, I worked with the R&D team at Samsung and some the world's best content partners to re-imagine Samsung’s smart TV platform. My startup origins date back to 2011, when I moved to New York to build [Shelby.tv][3] (TechStars NY '11) with some talented people. Our team was acquired by Samsung in 2014 to help build the future of TV.
 
 I don't like writing about myself in the third person, but if you need a formal bio of me, you can [find it here](/bio/).
 
 ## Interests
 
-I have found two guiding themes in my career and in investments that naturally catch my eye. If you ever want to talk about these with me, please reach out on Twitter!
+I have found two guiding themes in my career and in investments. If you ever want to talk about these with me, please reach out on Twitter!
 
 ### Networked creativity
 I grew up on the internet and through it I discovered P2P technology, gaming, my favorite music, some of my best friends, and some really compelling ideas. As I have grown older, I have traced my love of learning and technology back to a belief that access to these networks and communities I found via the internet was instrumental in my own personal growth.
@@ -38,9 +34,6 @@ I look forward to an internet that fosters this sense of individual control of o
 As our information and network structures evolve towards being more human-centric, I also believe our computing will evolve in a similar fashion toward the the more immersive and human (desktop toward mobile, 2D websites toward 3D games, voice/audio computing, etc.) I am also bullish on machine learning as a tool to help us achieve "flow states" to be more effective humans.
 
 I am not one of those people who believes that AI will entirely replace humans. Instead, I think humans will use AI and tools to make themselves more creative and allow us to do more of the things we want to do in the time that we have.
-
-### Changing climate
-Beyond the internet, I’m also interested in technology that helps address climate change. I have very little background operating or investing in the industries that are likely to make a positive impact on our ability to deal with the changing climate (industries like space, energy, water, etc.), but I am nonetheless interested in these businesses and the health of our planet. If you are working on something along these lines I'd love to learn from you!
 
 [0]:  https://samsungnext.com/ventures/
 [1]:	http://joyancepartners.com
