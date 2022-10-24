@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walking meetings in a game
+title: Virtual Meetings Are Missing Something
 description: I'd love to see a game-engine native meeting product. Here's why.
 comments: false
 --- 
