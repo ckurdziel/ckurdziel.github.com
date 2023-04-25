@@ -5,9 +5,9 @@ permalink: /about/
 sidebar_sort_order: 1
 tags: [about, me, chris kurdziel]
 ---
-Hi, I'm Chris. I am currently focused on investing and building in consumer/creator facing web3/crypto products. I live in the NYC area, but I'm most at home on the internet.
+Hi, I'm Chris. I am currently focused on investing and building in consumer/creator facing web3 products. I live in the NYC area, but I'm most at home on the internet.
 
-Previously, I led investments in gaming, crypto and creative technology at places like [Mirana Ventures](https://www.mirana.xyz/), [Samsung NEXT Ventures][0], [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about some of the companies I have invested in and worked with as a VC [here][8].
+As an investor, I have led investments in gaming, crypto and creative technology at places like [Mirana Ventures](https://www.mirana.xyz/), [Samsung NEXT Ventures][0], [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about some of the companies I have invested in and worked with [here][8].
 
 Before I became an investor, I worked to help video creators monetize and distribute their video online at [Vimeo][2] & VHX.tv (acquired by Vimeo). Before that, I worked with the R&D team at Samsung and some the world's best content partners to re-imagine Samsung’s smart TV platform. My startup origins date back to 2011, when I moved to New York to build [Shelby.tv][3] (TechStars NY '11) with some talented people. Our team was acquired by Samsung in 2014 to help build the future of TV.
 
