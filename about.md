@@ -5,7 +5,7 @@ permalink: /about/
 sidebar_sort_order: 1
 tags: [about, me, chris kurdziel]
 ---
-Hi, I'm Chris. I am currently focused on investing and building in consumer/creator facing web3 products. I live in the NYC area, but I'm most at home on the internet.
+Hi, I'm Chris. I am currently focused on investing and building in consumer/creator facing web3 products. I live in the NYC area, but am also at home on the internet.
 
 As an investor, I have led investments in gaming, crypto and creative technology at places like [Mirana Ventures](https://www.mirana.xyz/), [Samsung NEXT Ventures][0], [Joyance Partners][1] & [SocialStarts](http://socialstarts.com). You can read more about some of the companies I have invested in and worked with [here][8].
 
@@ -15,25 +15,15 @@ I don't like writing about myself in the third person, but if you need a formal 
 
 ## Interests
 
-I have found two guiding themes in my career and in investments. If you ever want to talk about these with me, please reach out on Twitter!
+I grew up on the internet and through it I discovered P2P technology, gaming, my favorite music, some of my best friends, and more. As I have grown older, I have traced my love of learning and technology back to a belief that access to these free, open networks and communities I found via the internet was instrumental in my own personal growth.
 
-### Networked creativity
-I grew up on the internet and through it I discovered P2P technology, gaming, my favorite music, some of my best friends, and some really compelling ideas. As I have grown older, I have traced my love of learning and technology back to a belief that access to these networks and communities I found via the internet was instrumental in my own personal growth.
+I am excited by technologies like Bitcoin, crypto networks and P2P networks. As infrastructure for these new decentralized technologies matures, I think we'll see a shift in how many of the huge networks on the web are structured, governed, and owned. Coupled with 3D game engines and other creative application-layer technology, I think we're going to see an explosion in the creative potential of the world.
 
-My work at Shelby.tv was focused primarily on video discovery as a means of addressing this larger theme of helping people discover new things through video networks. My investment in Eternal stems from a similar place of wanting to see intimate, fun communities on the Internet that unlock peoples' ability to just be themselves.
+Steve Jobs is famously attributed to the quote [“a computer is the equivalent of a bicycle for the mind.”][9] I love this quote and it gets to another reason I love technology - the best technology enhances and deepens the human experience instead of detracting from it. The last 10 years of technology development put an emphasis on growing abstract KPIs more than thoughtfully integrating technology into human lives.
 
-I am excited by technologies like Bitcoin, crypto networks and P2P wireless mesh networks - these are all a signal of where I think the internet is headed over the next few decades. As mobile computing power increases and the infrastructure for these new decentralized technologies matures, I think we'll see a shift in how many of the huge networks on the web are structured, governed, and even owned. Coupled with 3D game engines and other creative application-layer technology, I think we're going to see an explosion in the creative potential of the world.
+Modern software development is amazing and enabled by a host of developer friendly tools and technologies, many of them open source. As these tools mature even further I expect that each of us will want to write software that goes to work for us.
 
-### Human-centered computing
-Steve Jobs is famously attributed to the quote [“a computer is the equivalent of a bicycle for the mind.”][9] I love this quote and it gets to another reason I love technology - the best technology enhances and deepens the human experience instead of detracting from it.
-
-Modern software development is amazing and enabled by a host of developer friendly tools and technologies. The rise of devops, APIs, lambda functions, GraphQL, mobile SDKs and containers allow for quick scaling and faster execution on new ideas. More recently, no-code tools like Airtable, Coda, and Zapier have made it possible for almost anyone to build simple apps (personal CRM, anyone?). As these tools mature even further and users see power of having more personalization and control of their data, I expect that each of us will want to write software that goes to work for us (probably without writing code), rather than house our data in inflexible tools and use UIs that have been designed for scale and without our specific needs in mind.
-
-I look forward to an internet that fosters this sense of individual control of our data and computing resources rather than putting our data and compute experience fully in control of a few large companies.
-
-As our information and network structures evolve towards being more human-centric, I also believe our computing will evolve in a similar fashion toward the the more immersive and human (desktop toward mobile, 2D websites toward 3D games, voice/audio computing, etc.) I am also bullish on machine learning as a tool to help us achieve "flow states" to be more effective humans.
-
-I am not one of those people who believes that AI will entirely replace humans. Instead, I think humans will use AI and tools to make themselves more creative and allow us to do more of the things we want to do in the time that we have.
+I am excited about [rewilding the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/) to a place that respects individuality, creativity and fosters tight knit human connection.
 
 [0]:  https://samsungnext.com/ventures/
 [1]:	http://joyancepartners.com
