@@ -5,10 +5,10 @@ tags:
   - posts
 author:
   - "[[Me]]"
-url: chriskurdziel.com/unplug
+url: chriskurdziel.com/waystounplug
 created:
   "{ date }": 
-published: 
+published: 2024-09-01
 topics: 
 status: Published
 layout: 
