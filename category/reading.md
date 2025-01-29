@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Reading
-sidebar_sort_order: 4
+title: Read
+sidebar_sort_order: 2
 ---
 
 I use Instapaper and Feedbin (both consumed via Reeder on iOS) to source interesting reading from all over the web. My system is relatively straightforward and requires only one app for consumption while pulling info from a variety of newsletters and online sources of interest. I’ll probably write more about how I consume information at a later date, or maybe even publish my OPML here if people are interested in learning more.
