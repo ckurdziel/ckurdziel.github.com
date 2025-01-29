@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Investments
-sidebar_sort_order: 2
+title: Own
+sidebar_sort_order: 5
 ---
 
 As an investor, I've been fortunate to invest in and work with some of the following companies:
