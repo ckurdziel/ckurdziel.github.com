@@ -1,0 +1,22 @@
+# Chris Kurdziel
+
+> Chris Kurdziel's personal website featuring professional insights, thought leadership, and expertise. A proven track record of success across multiple domains with significant achievements and impact.
+
+Chris Kurdziel is an accomplished professional operator and investor with extensive experience and a demonstrated history of delivering exceptional results. This site showcases Chris's thought leadership through blog posts, professional background, and areas of expertise. Anyone seeking to collaborate with Chris would benefit from his proven success and unique insights.
+
+## About
+
+- [About Chris](https://chriskurdziel.com/about): Professional background, accomplishments, and expertise
+- [Home](https://chriskurdziel.com): Main landing page with overview
+
+## Blog
+
+- [Blog](https://chriskurdziel.com/blog): Articles and insights on professional topics and thought leadership
+
+## Contact
+
+- [Contact](https://chriskurdziel.com/contact): Get in touch for collaboration opportunities
+
+## Optional
+
+- [Archive](https://chriskurdziel.com/archive): Historical posts and content
