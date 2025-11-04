@@ -223,10 +223,8 @@ body {
   }
 
   &:hover, &:focus {
-    text-decoration: underline;
     &.icon {
-      text-decoration: none;
-    }
+      text-shadow: 0 0 20px #fff;
   }
 
   &.active {
