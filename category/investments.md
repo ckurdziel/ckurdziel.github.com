@@ -5,7 +5,7 @@ sidebar_sort_order: 5
 ---
 
 As an investor, I've been fortunate to invest in and work with some of the following companies:
- - [Medal.tv](https://medal.tv/)
+ - [Medal.tv](https://medal.tv/)/[General Intuition](https://www.generalintuition.com/)
  - [Aimlabs](https://statespace.gg/)
  - [Eternal](https://eternal.plus/)
  - [XMTP](https://xmtp.com/)
