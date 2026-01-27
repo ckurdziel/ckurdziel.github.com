@@ -23,9 +23,6 @@ author:
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-disqus:
-  shortname: chriskurdzielblog
-
 google_analytics: UA-12256494-2
 
 plugins:
