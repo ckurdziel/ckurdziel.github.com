@@ -1,22 +1,28 @@
 <div id="sidebar">
-  <header>
-    <img src="/images/avatar-small.gif">
+  <div class="sidebar-title">
+    <img class="sidebar-avatar" src="{{ site.baseurl }}/images/avatar-small.gif" alt="avatar">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ site.baseurl }}/">
-        {% unless page.url == "/" %}
-          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
-        {% endunless %}
-        {{ site.title }}
-      </a>
+      <a href="{{ site.baseurl }}/">$ chris-kurdziel<span class="cursor">_</span></a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
-  </header>
-  {% include sidebar-nav-links.html %}
+  </div>
 
-  {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %}
+  <nav id="sidebar-nav-links">
+    {% if site.sidebar_home_link %}
+      <a class="home-link {% if page.url == '/' %} active{% endif %}"
+          href="{{ site.baseurl }}/">[home]</a>
+    {% endif %}
+    {% include page-links.html %}
+    {% include category-links.html %}
+  </nav>
 
-  {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
+  <nav id="sidebar-icon-links">
+    <a href="https://github.com/ckurdziel/">[github]</a>
+    <a href="https://twitter.com/ckurdziel/">[twitter]</a>
+    <a href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">[rss]</a>
+  </nav>
+
+  <div class="sidebar-hint">
+    <span>↑↓/jk navigate</span>
+    <span>⏎ open</span>
+  </div>
 </div>
