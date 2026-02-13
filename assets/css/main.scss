@@ -101,7 +101,7 @@ body {
   flex-direction: column !important;
   padding: 1.25rem 1rem;
   text-align: left !important;
-  background: #0f0326;
+  background: $body-bg;
   border-right: none;
   overflow-y: auto;
   font-family: "Fira Code", monospace !important;
@@ -311,6 +311,12 @@ body {
 @media (max-width: 48.99rem) {
   body {
     flex-direction: column !important;
+    overflow: auto;
+  }
+
+  .container {
+    height: auto;
+    overflow: visible;
   }
 
   #sidebar {
