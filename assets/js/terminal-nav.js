@@ -1,8 +1,10 @@
 (function () {
   "use strict";
 
-  var items = [];
-  var currentIndex = 0;
+  // Two panes: sidebar (left) and content (right)
+  var panes = { sidebar: [], content: [] };
+  var activePane = "sidebar";
+  var indices = { sidebar: -1, content: -1 };
 
   function isExternal(href) {
     if (!href) return false;
@@ -15,81 +17,117 @@
   }
 
   function init() {
+    // Sidebar pane: nav links + icon links
+    panes.sidebar = [];
     var navLinks = document.getElementById("sidebar-nav-links");
     var iconLinks = document.getElementById("sidebar-icon-links");
 
-    items = [];
-
-    // Collect nav links
     if (navLinks) {
       var navAnchors = navLinks.querySelectorAll("a");
       for (var i = 0; i < navAnchors.length; i++) {
-        navAnchors[i].setAttribute("data-nav-item", "");
-        items.push(navAnchors[i]);
+        panes.sidebar.push(navAnchors[i]);
       }
     }
-
-    // Collect external/icon links
     if (iconLinks) {
       var iconAnchors = iconLinks.querySelectorAll("a");
       for (var j = 0; j < iconAnchors.length; j++) {
-        iconAnchors[j].setAttribute("data-nav-item", "");
-        items.push(iconAnchors[j]);
+        panes.sidebar.push(iconAnchors[j]);
       }
     }
 
-    if (items.length === 0) return;
+    // Content pane: post list links
+    panes.content = [];
+    var postList = document.querySelector(".post-list");
+    if (postList) {
+      var postAnchors = postList.querySelectorAll("li > article > a, li > article a:first-of-type");
+      for (var k = 0; k < postAnchors.length; k++) {
+        panes.content.push(postAnchors[k]);
+      }
+    }
 
-    // Set initial index to active page, or -1 (no highlight)
-    currentIndex = -1;
-    for (var k = 0; k < items.length; k++) {
-      if (items[k].classList.contains("active")) {
-        currentIndex = k;
+    // Set sidebar initial index to active page, or -1
+    indices.sidebar = -1;
+    for (var m = 0; m < panes.sidebar.length; m++) {
+      if (panes.sidebar[m].classList.contains("active")) {
+        indices.sidebar = m;
         break;
       }
     }
 
-    if (currentIndex >= 0) {
+    indices.content = -1;
+
+    // Start on sidebar if there's an active item, otherwise no highlight
+    if (indices.sidebar >= 0) {
+      activePane = "sidebar";
       updateHighlight();
     }
+
     document.addEventListener("keydown", onKeyDown);
   }
 
-  function updateHighlight() {
-    for (var i = 0; i < items.length; i++) {
-      items[i].classList.remove("highlighted");
+  function clearAllHighlights() {
+    var all = panes.sidebar.concat(panes.content);
+    for (var i = 0; i < all.length; i++) {
+      all[i].classList.remove("highlighted");
     }
-    if (items[currentIndex]) {
-      items[currentIndex].classList.add("highlighted");
-      items[currentIndex].scrollIntoView({ block: "nearest" });
+  }
+
+  function updateHighlight() {
+    clearAllHighlights();
+    var items = panes[activePane];
+    var idx = indices[activePane];
+    if (idx >= 0 && items[idx]) {
+      items[idx].classList.add("highlighted");
+      items[idx].scrollIntoView({ block: "nearest" });
     }
   }
 
   function onKeyDown(e) {
-    // Don't capture when typing in inputs
     var tag = document.activeElement && document.activeElement.tagName;
     if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
 
     var key = e.key;
+    var items = panes[activePane];
 
     if (key === "ArrowDown" || key === "j") {
       e.preventDefault();
-      if (currentIndex < 0) {
-        currentIndex = 0;
+      if (items.length === 0) return;
+      if (indices[activePane] < 0) {
+        indices[activePane] = 0;
       } else {
-        currentIndex = (currentIndex + 1) % items.length;
+        indices[activePane] = (indices[activePane] + 1) % items.length;
       }
       updateHighlight();
+
     } else if (key === "ArrowUp" || key === "k") {
       e.preventDefault();
-      if (currentIndex < 0) {
-        currentIndex = items.length - 1;
+      if (items.length === 0) return;
+      if (indices[activePane] < 0) {
+        indices[activePane] = items.length - 1;
       } else {
-        currentIndex = (currentIndex - 1 + items.length) % items.length;
+        indices[activePane] = (indices[activePane] - 1 + items.length) % items.length;
       }
       updateHighlight();
+
+    } else if (key === "ArrowRight" || key === "l") {
+      if (panes.content.length > 0 && activePane === "sidebar") {
+        e.preventDefault();
+        activePane = "content";
+        if (indices.content < 0) indices.content = 0;
+        updateHighlight();
+      }
+
+    } else if (key === "ArrowLeft" || key === "h") {
+      if (activePane === "content") {
+        e.preventDefault();
+        activePane = "sidebar";
+        if (indices.sidebar < 0) indices.sidebar = 0;
+        updateHighlight();
+      }
+
     } else if (key === "Enter") {
-      var href = items[currentIndex] && items[currentIndex].getAttribute("href");
+      var idx = indices[activePane];
+      var href = items[idx] && items[idx].getAttribute("href");
       if (href) {
         e.preventDefault();
         if (isExternal(href)) {
@@ -101,7 +139,6 @@
     }
   }
 
-  // Run on DOM ready
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
   } else {

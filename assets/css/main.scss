@@ -309,6 +309,10 @@ body {
 
 // --- Mobile: stacked layout (< 49rem) ---
 @media (max-width: 48.99rem) {
+  html {
+    font-size: 14px;
+  }
+
   body {
     flex-direction: column !important;
     overflow: auto;
@@ -480,6 +484,22 @@ a {
 
   &:hover {
     text-shadow: 0 0 8px rgba($pink, 0.6), 0 0 16px rgba($pink, 0.3);
+  }
+}
+
+// --- Content pane: post list keyboard highlighting ---
+.post-list {
+  a.highlighted {
+    background: rgba($heading-color, 0.12);
+    color: #fff;
+    text-shadow: 0 0 6px rgba($heading-color, 0.3);
+    outline: none;
+
+    &::before {
+      content: "> ";
+      color: $heading-color;
+      font-weight: 400;
+    }
   }
 }
 
