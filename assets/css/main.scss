@@ -56,6 +56,84 @@ $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
   50% { opacity: 0; }
 }
 
+@keyframes glitch {
+  0%, 100% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  3% {
+    clip-path: inset(30% 0 40% 0);
+    transform: translate(-2px, 0);
+  }
+  6% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  45% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  47% {
+    clip-path: inset(60% 0 10% 0);
+    transform: translate(2px, 0);
+  }
+  48% {
+    clip-path: inset(15% 0 70% 0);
+    transform: translate(-1px, 0);
+  }
+  50% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+}
+
+@keyframes glitch-hard {
+  0% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  8% {
+    clip-path: inset(20% 0 40% 0);
+    transform: translate(-4px, 0);
+  }
+  16% {
+    clip-path: inset(65% 0 5% 0);
+    transform: translate(5px, 0);
+  }
+  24% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  32% {
+    clip-path: inset(5% 0 70% 0);
+    transform: translate(-3px, 0);
+  }
+  40% {
+    clip-path: inset(40% 0 20% 0);
+    transform: translate(4px, 0);
+  }
+  50% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  60% {
+    clip-path: inset(70% 0 10% 0);
+    transform: translate(-5px, 0);
+  }
+  68% {
+    clip-path: inset(10% 0 55% 0);
+    transform: translate(3px, 0);
+  }
+  76% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+  100% {
+    clip-path: inset(0);
+    transform: translate(0);
+  }
+}
+
 .cursor {
   animation: blink 1s step-end infinite;
   color: $heading-color;
@@ -116,15 +194,83 @@ body {
     display: none !important;
   }
 
-  // --- Avatar gif (ASCII / pixelated terminal look) ---
+  // --- Avatar rendered as ASCII art ---
+  .sidebar-avatar-wrap {
+    display: block;
+    width: 100%;
+    margin: 0 auto 0.6rem;
+    position: relative;
+    cursor: pointer;
+
+    &:hover {
+      .ascii-avatar {
+        opacity: 0;
+      }
+
+      .sidebar-avatar {
+        opacity: 1 !important;
+        &.glitching {
+          animation: glitch 0.2s steps(1);
+        }
+        &.glitching-hard {
+          animation: glitch-hard 0.4s steps(1);
+        }
+      }
+    }
+  }
+
   .sidebar-avatar {
     display: block !important;
-    width: 4.5rem;
-    height: 4.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     border-radius: 0;
     border: none;
-    margin: 0 auto 0.6rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    object-fit: contain;
     image-rendering: auto;
+  }
+
+  // IDKFA pixelated mode — replaces ASCII with chunky pixels
+  .pixel-avatar {
+    display: none;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+  }
+
+  .sidebar-avatar-wrap.pixelated {
+    .ascii-avatar { visibility: hidden; }
+    .sidebar-avatar { display: none !important; }
+    .pixel-avatar {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  .ascii-avatar {
+    display: block;
+    font-family: "Fira Code", monospace !important;
+    font-size: 3px;
+    line-height: 1.05;
+    letter-spacing: 0.05em;
+    color: $heading-color;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    white-space: pre;
+    overflow: hidden;
+    transition: opacity 0.3s ease;
   }
 
   // Neutralize theme extras
@@ -448,7 +594,7 @@ code {
   font-family: "Fira Code", monospace;
 }
 
-pre {
+pre:not(.ascii-avatar) {
   border: 1px dashed rgba($heading-color, 0.3);
   position: relative;
   padding-top: 2rem;

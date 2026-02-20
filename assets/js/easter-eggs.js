@@ -9,6 +9,20 @@
       loop: true
     },
     {
+      name: "guile",
+      keys: ["ArrowLeft", "ArrowRight", "a"],
+      audio: "/assets/audio/Guile-Theme.mp3",
+      sfx: "/assets/audio/guile-sonic-boom.mp3",
+      loop: true
+    },
+    {
+      name: "guile",
+      keys: ["ArrowLeft", "ArrowRight", "b"],
+      audio: "/assets/audio/Guile-Theme.mp3",
+      sfx: "/assets/audio/guile-sonic-boom.mp3",
+      loop: true
+    },
+    {
       name: "konami",
       keys: [
         "ArrowUp", "ArrowUp",
@@ -24,6 +38,7 @@
 
   var buffers = [];
   var activeAudio = null;
+  var activeName = null;
 
   for (var i = 0; i < sequences.length; i++) {
     buffers.push(0);
@@ -58,12 +73,13 @@
   }
 
   function trigger(seq) {
-    // If this looping sequence is already playing, stop it
-    if (seq.loop && activeAudio && seq._playing) {
+    // If a looping sequence with the same name is already playing, stop it
+    if (seq.loop && activeAudio && activeName === seq.name) {
       activeAudio.pause();
       activeAudio.currentTime = 0;
       activeAudio = null;
-      seq._playing = false;
+      activeName = null;
+      document.dispatchEvent(new CustomEvent("easter-egg", { detail: { name: seq.name, playing: false } }));
       return;
     }
 
@@ -78,19 +94,25 @@
     audio.loop = seq.loop;
     audio.volume = 0.5;
     activeAudio = audio;
-    seq._playing = true;
+    activeName = seq.name;
 
     audio.addEventListener("ended", function () {
-      if (!seq.loop) {
-        activeAudio = null;
-        seq._playing = false;
-      }
+      if (!seq.loop) { activeAudio = null; activeName = null; }
     });
 
-    audio.play().catch(function () {
-      seq._playing = false;
-      activeAudio = null;
-    });
+    // Play optional sound effect before the main audio
+    if (seq.sfx) {
+      var sfx = new Audio(seq.sfx);
+      sfx.volume = 0.6;
+      sfx.play().catch(function () {});
+      sfx.addEventListener("ended", function () {
+        audio.play().catch(function () { activeAudio = null; activeName = null; });
+      });
+    } else {
+      audio.play().catch(function () { activeAudio = null; activeName = null; });
+    }
+
+    document.dispatchEvent(new CustomEvent("easter-egg", { detail: { name: seq.name, playing: true } }));
   }
 
   document.addEventListener("keydown", onKeyDown);

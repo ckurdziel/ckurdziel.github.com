@@ -79,6 +79,7 @@
     if (idx >= 0 && items[idx]) {
       items[idx].classList.add("highlighted");
       items[idx].scrollIntoView({ block: "nearest" });
+      items[idx].dispatchEvent(new CustomEvent("nav-highlight", { bubbles: true }));
     }
   }
 
