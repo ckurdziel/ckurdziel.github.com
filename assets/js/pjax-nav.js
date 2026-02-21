@@ -6,7 +6,10 @@
     if (a.target === "_blank") return false;
     try {
       var url = new URL(a.href, window.location.origin);
-      return url.origin === window.location.origin;
+      if (url.origin !== window.location.origin) return false;
+      // Don't intercept non-HTML resources
+      if (/\.(xml|json|pdf|zip|gz|tar)$/.test(url.pathname)) return false;
+      return true;
     } catch (e) {
       return false;
     }
