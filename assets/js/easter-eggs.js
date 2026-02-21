@@ -23,6 +23,20 @@
       loop: true
     },
     {
+      name: "metroid",
+      keys: ["j", "u", "s", "t", "i", "n", "b", "a", "i", "l", "e", "y"],
+      audio: "/assets/audio/kraid.mp3",
+      sfx: "/assets/audio/metroid.mp3",
+      loop: true
+    },
+    {
+      name: "warcraft",
+      keys: ["i", "t", " ", "i", "s", " ", "a", " ", "g", "o", "o", "d", " ", "d", "a", "y", " ", "t", "o", " ", "d", "i", "e"],
+      audio: "/assets/audio/orc2.mp3",
+      sfx: "/assets/audio/zugzug.wav",
+      loop: true
+    },
+    {
       name: "konami",
       keys: [
         "ArrowUp", "ArrowUp",
@@ -62,7 +76,16 @@
         buffers[i]++;
         if (buffers[i] === seq.keys.length) {
           buffers[i] = 0;
-          trigger(seq);
+          // Suppress if a longer sequence is >50% complete
+          var dominated = false;
+          for (var j = 0; j < sequences.length; j++) {
+            if (j !== i && sequences[j].keys.length > seq.keys.length &&
+                buffers[j] / sequences[j].keys.length > 0.5) {
+              dominated = true;
+              break;
+            }
+          }
+          if (!dominated) trigger(seq);
         }
       } else if (key === seq.keys[0]) {
         buffers[i] = 1;
@@ -116,4 +139,70 @@
   }
 
   document.addEventListener("keydown", onKeyDown);
+
+  var themeMap = {
+    idkfa: "theme-doom",
+    guile: "theme-guile",
+    metroid: "theme-metroid",
+    warcraft: "theme-warcraft",
+    konami: "theme-konami"
+  };
+
+  var themeNames = {
+    "theme-doom": "DOOM",
+    "theme-guile": "GUILE",
+    "theme-metroid": "METROID",
+    "theme-warcraft": "WARCRAFT",
+    "theme-konami": "KONAMI"
+  };
+
+  var indicator = document.createElement("span");
+  indicator.className = "theme-indicator";
+  indicator.style.display = "none";
+  indicator.title = "click to clear theme";
+  var hintBar = document.querySelector(".sidebar-hint");
+  if (hintBar) hintBar.appendChild(indicator);
+
+  function updateIndicator(cls) {
+    if (!cls) {
+      indicator.style.display = "none";
+      indicator.textContent = "";
+    } else {
+      indicator.style.display = "";
+      indicator.textContent = themeNames[cls] || cls;
+    }
+  }
+
+  indicator.addEventListener("click", function () {
+    Object.keys(themeMap).forEach(function (k) {
+      document.body.classList.remove(themeMap[k]);
+    });
+    localStorage.removeItem("easter-egg-theme");
+    updateIndicator(null);
+  });
+
+  // Restore saved theme on page load
+  var savedTheme = localStorage.getItem("easter-egg-theme");
+  if (savedTheme) {
+    document.body.classList.add(savedTheme);
+    updateIndicator(savedTheme);
+  }
+
+  document.addEventListener("easter-egg", function (e) {
+    var cls = themeMap[e.detail.name];
+    if (!cls) return;
+    // Remove all theme classes first
+    Object.keys(themeMap).forEach(function (k) {
+      document.body.classList.remove(themeMap[k]);
+    });
+    // Add theme if activating, save to localStorage
+    if (e.detail.playing) {
+      document.body.classList.add(cls);
+      localStorage.setItem("easter-egg-theme", cls);
+      updateIndicator(cls);
+    } else {
+      localStorage.removeItem("easter-egg-theme");
+      updateIndicator(null);
+    }
+  });
 })();

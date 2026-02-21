@@ -128,17 +128,56 @@
 
     } else if (key === "Enter") {
       var idx = indices[activePane];
-      var href = items[idx] && items[idx].getAttribute("href");
-      if (href) {
+      if (items[idx]) {
         e.preventDefault();
-        if (isExternal(href)) {
-          window.open(href, "_blank", "noopener");
-        } else {
-          window.location.href = href;
-        }
+        items[idx].click();
       }
     }
   }
+
+  window.reinitTerminalNav = function () {
+    // Re-scan panes but don't re-add the keydown listener
+    panes.sidebar = [];
+    panes.content = [];
+
+    var navLinks = document.getElementById("sidebar-nav-links");
+    var iconLinks = document.getElementById("sidebar-icon-links");
+
+    if (navLinks) {
+      var navAnchors = navLinks.querySelectorAll("a");
+      for (var i = 0; i < navAnchors.length; i++) {
+        panes.sidebar.push(navAnchors[i]);
+      }
+    }
+    if (iconLinks) {
+      var iconAnchors = iconLinks.querySelectorAll("a");
+      for (var j = 0; j < iconAnchors.length; j++) {
+        panes.sidebar.push(iconAnchors[j]);
+      }
+    }
+
+    var postList = document.querySelector(".post-list");
+    if (postList) {
+      var postAnchors = postList.querySelectorAll("li > article > a, li > article a:first-of-type");
+      for (var k = 0; k < postAnchors.length; k++) {
+        panes.content.push(postAnchors[k]);
+      }
+    }
+
+    indices.sidebar = -1;
+    for (var m = 0; m < panes.sidebar.length; m++) {
+      if (panes.sidebar[m].classList.contains("active")) {
+        indices.sidebar = m;
+        break;
+      }
+    }
+    indices.content = -1;
+
+    if (indices.sidebar >= 0) {
+      activePane = "sidebar";
+      updateHighlight();
+    }
+  };
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);

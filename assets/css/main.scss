@@ -44,7 +44,36 @@ $sidebar-link-color: $pink !default;
 $sidebar-text-color: rgba(#d0b7ff, 0.75) !default;
 $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
 
+:root {
+  --bg: #0D0221;
+  --accent: #21ce97;
+  --link: #FD00E1;
+  --text: #d0b7ff;
+  --glow: #FD00E1;
+  --scanline: rgba(0, 0, 0, 0.08);
+  --scanline-size: 4px;
+  --border-glow: rgba(253, 0, 225, 0.3);
+}
+
 @import "hydeout";
+
+// --- Hydeout compiled-style overrides (use CSS custom properties) ---
+body {
+  color: var(--text);
+  background: var(--bg);
+  opacity: 0;
+
+  &.crt-on {
+    animation: crt-on 0.4s ease-out forwards;
+  }
+}
+a { color: var(--link); }
+h1,h2,h3,h4,h5,h6 { color: var(--accent); }
+strong { color: var(--accent); }
+code { color: var(--accent); }
+.content { background: var(--bg); color: var(--text); }
+.container { background: var(--bg); color: var(--text); }
+.pagination > a { background: var(--bg); }
 
 // ==========================================================================
 // TERMINAL TUI SPLIT-VIEW OVERRIDES
@@ -84,6 +113,39 @@ $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
   50% {
     clip-path: inset(0);
     transform: translate(0);
+  }
+}
+
+@keyframes doom-skull {
+  0%, 50% { background-image: url('/images/M_SKULL1.png'); }
+  50.01%, 100% { background-image: url('/images/M_SKULL2.png'); }
+}
+
+@keyframes crt-on {
+  0% {
+    opacity: 1;
+    transform: scaleY(0.005);
+    filter: brightness(10);
+  }
+  40% {
+    transform: scaleY(0.005);
+    filter: brightness(10);
+  }
+  50% {
+    transform: scaleY(1.1);
+    filter: brightness(3);
+  }
+  65% {
+    transform: scaleY(1);
+    filter: brightness(1.5);
+  }
+  80% {
+    filter: brightness(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scaleY(1);
+    filter: brightness(1);
   }
 }
 
@@ -136,7 +198,7 @@ $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
 
 .cursor {
   animation: blink 1s step-end infinite;
-  color: $heading-color;
+  color: var(--accent);
 }
 
 // --- CRT scanline overlay ---
@@ -152,9 +214,9 @@ body::after {
   background: repeating-linear-gradient(
     to bottom,
     transparent,
-    transparent 2px,
-    rgba(0, 0, 0, 0.08) 2px,
-    rgba(0, 0, 0, 0.08) 4px
+    transparent calc(var(--scanline-size) / 2),
+    var(--scanline) calc(var(--scanline-size) / 2),
+    var(--scanline) var(--scanline-size)
   );
 }
 
@@ -179,7 +241,7 @@ body {
   flex-direction: column !important;
   padding: 1.25rem 1rem;
   text-align: left !important;
-  background: $body-bg;
+  background: var(--bg);
   border-right: none;
   overflow-y: auto;
   font-family: "Fira Code", monospace !important;
@@ -235,6 +297,30 @@ body {
     image-rendering: auto;
   }
 
+  // IDKFA doom mode — animated skull cursor from doom menu sprites
+  body.doom-mode & {
+    #sidebar-nav-links a,
+    #sidebar-icon-links a {
+      &.active::before {
+        content: "  ";
+        background: none;
+        animation: none;
+      }
+      &.highlighted::before {
+        content: "";
+        display: inline-block;
+        width: 12px;
+        height: 14px;
+        background: url('/images/M_SKULL1.png') no-repeat center / contain;
+        animation: doom-skull 0.5s steps(1) infinite;
+        vertical-align: middle;
+        margin-right: 3px;
+        image-rendering: pixelated;
+        image-rendering: -moz-crisp-edges;
+      }
+    }
+  }
+
   // IDKFA pixelated mode — replaces ASCII with chunky pixels
   .pixel-avatar {
     display: none;
@@ -262,7 +348,7 @@ body {
     font-size: 3px;
     line-height: 1.05;
     letter-spacing: 0.05em;
-    color: $heading-color;
+    color: var(--accent);
     background: transparent;
     border: none;
     padding: 0;
@@ -292,7 +378,7 @@ body {
       line-height: 1.4;
 
       a {
-        color: $heading-color;
+        color: var(--accent);
         font-weight: 400;
         text-decoration: none;
       }
@@ -303,7 +389,7 @@ body {
   .sidebar-section-label {
     font-size: 0.65rem;
     font-weight: 400;
-    color: rgba($heading-color, 0.45);
+    color: #{"color-mix(in srgb, var(--accent) 45%, transparent)"};
     text-transform: lowercase;
     letter-spacing: 0.08em;
     margin: 1rem 0 0.4rem;
@@ -314,11 +400,11 @@ body {
 
     &::before {
       content: "───";
-      color: rgba($heading-color, 0.25);
+      color: #{"color-mix(in srgb, var(--accent) 25%, transparent)"};
     }
     &::after {
       content: "──────";
-      color: rgba($heading-color, 0.25);
+      color: #{"color-mix(in srgb, var(--accent) 25%, transparent)"};
       flex: 1;
       overflow: hidden;
     }
@@ -336,7 +422,7 @@ body {
       padding: 0.3rem 0.5rem;
       font-size: 0.78rem;
       font-weight: 400;
-      color: $sidebar-link-color;
+      color: var(--link);
       text-decoration: none;
       border-left: 2px solid transparent;
       line-height: 1.5;
@@ -350,35 +436,35 @@ body {
 
       // Active page
       &.active {
-        color: $heading-color;
-        border-left-color: $heading-color;
+        color: var(--accent);
+        border-left-color: var(--accent);
 
         &::before {
           content: "> ";
-          color: $heading-color;
+          color: var(--accent);
         }
       }
 
       // Keyboard highlight
       &.highlighted {
-        background: rgba($heading-color, 0.12);
+        background: #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
         color: #fff;
-        border-left-color: rgba($heading-color, 0.6);
+        border-left-color: #{"color-mix(in srgb, var(--accent) 60%, transparent)"};
 
         &::before {
           content: "> ";
-          color: $heading-color;
+          color: var(--accent);
         }
       }
 
       // Both active + highlighted
       &.active.highlighted {
-        background: rgba($heading-color, 0.18);
-        border-left-color: $heading-color;
+        background: #{"color-mix(in srgb, var(--accent) 18%, transparent)"};
+        border-left-color: var(--accent);
       }
 
       &:hover {
-        background: rgba($heading-color, 0.08);
+        background: #{"color-mix(in srgb, var(--accent) 8%, transparent)"};
       }
     }
   }
@@ -395,7 +481,7 @@ body {
       padding: 0.3rem 0.5rem;
       font-size: 0.78rem;
       font-weight: 400;
-      color: $sidebar-link-color;
+      color: var(--link);
       text-decoration: none;
       border-left: 2px solid transparent;
       line-height: 1.5;
@@ -408,18 +494,18 @@ body {
       }
 
       &.highlighted {
-        background: rgba($heading-color, 0.12);
+        background: #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
         color: #fff;
-        border-left-color: rgba($heading-color, 0.6);
+        border-left-color: #{"color-mix(in srgb, var(--accent) 60%, transparent)"};
 
         &::before {
           content: "> ";
-          color: $heading-color;
+          color: var(--accent);
         }
       }
 
       &:hover {
-        background: rgba($heading-color, 0.08);
+        background: #{"color-mix(in srgb, var(--accent) 8%, transparent)"};
       }
     }
   }
@@ -430,11 +516,30 @@ body {
     padding-top: 0.75rem;
     font-size: 0.6rem;
     font-weight: 400;
-    color: rgba($heading-color, 0.35);
+    color: #{"color-mix(in srgb, var(--accent) 35%, transparent)"};
     display: flex;
     gap: 0.75rem;
-    border-top: 1px solid rgba($heading-color, 0.12);
+    border-top: 1px solid #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
     letter-spacing: 0.02em;
+  }
+
+  .theme-indicator {
+    margin-left: auto;
+    color: var(--accent);
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+
+    &::before {
+      content: "[";
+    }
+    &::after {
+      content: "]";
+    }
+
+    &:hover {
+      opacity: 1;
+    }
   }
 }
 
@@ -475,7 +580,8 @@ body {
     min-width: 100%;
     height: auto !important;
     border-right: none;
-    border-bottom: 1px solid rgba($heading-color, 0.3);
+    box-shadow: none;
+    border-bottom: 1px solid var(--border-glow);
     padding: 0.75rem 1rem;
 
     .sidebar-title {
@@ -503,12 +609,12 @@ body {
         }
 
         &.active {
-          border-bottom-color: $heading-color;
+          border-bottom-color: var(--accent);
         }
 
         &.highlighted {
-          border-bottom-color: rgba($heading-color, 0.6);
-          background: rgba($heading-color, 0.12);
+          border-bottom-color: #{"color-mix(in srgb, var(--accent) 60%, transparent)"};
+          background: #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
         }
       }
     }
@@ -530,8 +636,8 @@ body {
         }
 
         &.highlighted {
-          border-bottom-color: rgba($heading-color, 0.6);
-          background: rgba($heading-color, 0.12);
+          border-bottom-color: #{"color-mix(in srgb, var(--accent) 60%, transparent)"};
+          background: #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
         }
       }
     }
@@ -582,7 +688,7 @@ article h1:first-of-type {
 
   &::before {
     content: "# ";
-    color: $heading-color;
+    color: var(--accent);
     opacity: 0.5;
   }
 }
@@ -595,7 +701,7 @@ code {
 }
 
 pre:not(.ascii-avatar) {
-  border: 1px dashed rgba($heading-color, 0.3);
+  border: 1px dashed #{"color-mix(in srgb, var(--accent) 30%, transparent)"};
   position: relative;
   padding-top: 2rem;
 
@@ -608,11 +714,19 @@ pre:not(.ascii-avatar) {
     right: 0;
     padding: 0.25rem 0.75rem;
     font-size: 0.7rem;
-    color: $heading-color;
+    color: var(--accent);
     opacity: 0.5;
-    border-bottom: 1px dashed rgba($heading-color, 0.2);
+    border-bottom: 1px dashed #{"color-mix(in srgb, var(--accent) 20%, transparent)"};
     letter-spacing: 0.1em;
   }
+}
+
+// --- Post dates: follow theme colors ---
+.post-meta {
+  color: color-mix(in srgb, var(--text) 70%, transparent);
+}
+.posts-list li small {
+  color: color-mix(in srgb, var(--text) 55%, transparent);
 }
 
 // --- Post body ---
@@ -629,21 +743,21 @@ a {
   transition: text-shadow 0.2s ease, color 0.2s ease;
 
   &:hover {
-    text-shadow: 0 0 8px rgba($pink, 0.6), 0 0 16px rgba($pink, 0.3);
+    text-shadow: 0 0 8px #{"color-mix(in srgb, var(--glow) 60%, transparent)"}, 0 0 16px #{"color-mix(in srgb, var(--glow) 30%, transparent)"};
   }
 }
 
 // --- Content pane: post list keyboard highlighting ---
 .post-list {
   a.highlighted {
-    background: rgba($heading-color, 0.12);
+    background: #{"color-mix(in srgb, var(--accent) 12%, transparent)"};
     color: #fff;
-    text-shadow: 0 0 6px rgba($heading-color, 0.3);
+    text-shadow: 0 0 6px #{"color-mix(in srgb, var(--accent) 30%, transparent)"};
     outline: none;
 
     &::before {
       content: "> ";
-      color: $heading-color;
+      color: var(--accent);
       font-weight: 400;
     }
   }
@@ -660,14 +774,78 @@ a {
   a.pagination-older {
     &::before {
       content: "[ ";
-      color: $heading-color;
+      color: var(--accent);
       opacity: 0.5;
     }
     &::after {
       content: " ]";
-      color: $heading-color;
+      color: var(--accent);
       opacity: 0.5;
     }
   }
+}
+
+// ==========================================================================
+// EASTER EGG THEME CLASSES
+// ==========================================================================
+
+// Doom — hellfire reds, ember glow
+body.theme-doom {
+  --bg: #0E0000;
+  --accent: #FF4400;
+  --link: #FF8800;
+  --text: #C4956A;
+  --glow: #FF4400;
+  --scanline: rgba(255, 50, 0, 0.05);
+  --scanline-size: 4px;
+  --border-glow: rgba(255, 68, 0, 0.4);
+}
+
+// Street Fighter (Guile) — olive military terminal, khaki gold
+body.theme-guile {
+  --bg: #0A1208;
+  --accent: #5EA832;
+  --link: #E8C840;
+  --text: #A8B898;
+  --glow: #E8C840;
+  --scanline: rgba(94, 168, 50, 0.04);
+  --scanline-size: 4px;
+  --border-glow: rgba(94, 168, 50, 0.3);
+}
+
+// Metroid — green phosphor CRT monitor, Samus orange accents
+body.theme-metroid {
+  --bg: #000A00;
+  --accent: #00FF41;
+  --link: #FF6600;
+  --text: #66BB66;
+  --glow: #00FF41;
+  --scanline: rgba(0, 255, 65, 0.06);
+  --scanline-size: 3px;
+  --border-glow: rgba(0, 255, 65, 0.35);
+}
+
+// Warcraft — rich gold on parchment, Horde green links
+body.theme-warcraft {
+  --bg: #0F0A02;
+  --accent: #FFD700;
+  --link: #4CBF2A;
+  --text: #D4B896;
+  --glow: #FFD700;
+  --scanline: rgba(255, 200, 0, 0.03);
+  --scanline-size: 5px;
+  --border-glow: rgba(255, 215, 0, 0.3);
+}
+
+// Konami — chunky NES CRT, saturated red + blue
+body.theme-konami {
+  --bg: #000018;
+  --accent: #FF0040;
+  --link: #5588FF;
+  --text: #D0D8FF;
+  --glow: #FF0040;
+  --scanline: rgba(100, 100, 255, 0.06);
+  --scanline-size: 6px;
+  --border-glow: rgba(255, 0, 64, 0.35);
 }
 

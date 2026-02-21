@@ -173,6 +173,7 @@
       var patchCtx = patch.getContext('2d');
 
       var frameIndex = 0;
+      var crtFired = false;
 
       function renderFrame(frame) {
         compCtx.clearRect(0, 0, gif.width, gif.height);
@@ -190,6 +191,44 @@
         pixelCtx.clearRect(0, 0, pixelCanvas.width, pixelCanvas.height);
         pixelCtx.drawImage(comp, 0, 0, pixelCanvas.width, pixelCanvas.height);
 
+        // Apply doom color palette when in IDKFA mode
+        if (doomMode) {
+          var pd = pixelCtx.getImageData(0, 0, pixelCanvas.width, pixelCanvas.height);
+          var px = pd.data;
+          for (var pi = 0; pi < px.length; pi += 4) {
+            if (px[pi + 3] < 30) continue;
+            var br = (px[pi] * 0.299 + px[pi + 1] * 0.587 + px[pi + 2] * 0.114) / 255;
+            var r, g, b;
+            if (br < 0.3) {
+              // Deep shadow: near-black blue (#060D2E) → dark navy (#0D1B6B)
+              var t = br / 0.3;
+              r = 6 + t * (13 - 6) | 0;
+              g = 13 + t * (27 - 13) | 0;
+              b = 46 + t * (107 - 46) | 0;
+            } else if (br < 0.55) {
+              // Mid blue: dark navy (#0D1B6B) → steel blue (#2A4A9A)
+              var t = (br - 0.3) / 0.25;
+              r = 13 + t * (42 - 13) | 0;
+              g = 27 + t * (74 - 27) | 0;
+              b = 107 + t * (154 - 107) | 0;
+            } else if (br < 0.7) {
+              // Transition: steel blue (#2A4A9A) → doom red-orange (#C04010)
+              var t = (br - 0.55) / 0.15;
+              r = 42 + t * (192 - 42) | 0;
+              g = 74 + t * (64 - 74) | 0;
+              b = 154 + t * (16 - 154) | 0;
+            } else {
+              // Fire: doom orange (#C04010) → doom gold (#F5A623)
+              var t = (br - 0.7) / 0.3;
+              r = 192 + t * (245 - 192) | 0;
+              g = 64 + t * (166 - 64) | 0;
+              b = 16 + t * (35 - 16) | 0;
+            }
+            px[pi] = r; px[pi + 1] = g; px[pi + 2] = b;
+          }
+          pixelCtx.putImageData(pd, 0, 0);
+        }
+
         // ASCII sampling
         sampleCtx.clearRect(0, 0, COLS, ROWS);
         sampleCtx.drawImage(comp, 0, 0, COLS, ROWS);
@@ -206,6 +245,11 @@
           text += '\n';
         }
         pre.textContent = text;
+
+        if (!crtFired) {
+          crtFired = true;
+          document.body.classList.add('crt-on');
+        }
       }
 
       function tick() {
@@ -220,8 +264,19 @@
 
       // ── IDKFA easter egg ─────────────────────────────────────────
 
+      var doomMode = false;
+
       document.addEventListener('easter-egg', function (e) {
-        if (e.detail.name === 'idkfa') wrap.classList.toggle('pixelated', e.detail.playing);
+        if (e.detail.name === 'idkfa') {
+          doomMode = e.detail.playing;
+          wrap.classList.toggle('pixelated', doomMode);
+          document.body.classList.toggle('doom-mode', doomMode);
+        } else if (e.detail.playing) {
+          // Another theme activated — clear doom pixel mode
+          doomMode = false;
+          wrap.classList.remove('pixelated');
+          document.body.classList.remove('doom-mode');
+        }
       });
 
       // ── Avatar hover glitch ──────────────────────────────────────
