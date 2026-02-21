@@ -5,7 +5,7 @@
 
 $sidebar-width: 13rem;
 
-@import "reset", "typography", "code", "syntax", "posts";
+@import "reset", "typography", "code", "syntax", "posts", "command-palette";
 
 :root {
   --bg: #0D0221;
@@ -110,6 +110,31 @@ a {
     transform: scaleY(1);
     filter: brightness(1);
   }
+}
+
+// --- CRT boot text ("MAIN SCREEN TURN ON") ---
+.crt-boot-text {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10001;
+  font-family: "Fira Code", monospace;
+  font-size: 1.4rem;
+  letter-spacing: 0.15em;
+  color: var(--accent);
+  text-shadow: 0 0 8px var(--accent), 0 0 20px var(--accent);
+  pointer-events: none;
+  white-space: nowrap;
+  animation: crt-boot-text 0.4s ease-out forwards, glitch-hard 0.4s steps(1);
+}
+
+@keyframes crt-boot-text {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
 }
 
 @keyframes glitch-hard {

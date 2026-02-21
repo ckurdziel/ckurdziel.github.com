@@ -248,7 +248,12 @@
 
         if (!crtFired) {
           crtFired = true;
+          var bootText = document.createElement('div');
+          bootText.className = 'crt-boot-text';
+          bootText.textContent = 'MAIN SCREEN TURN ON';
+          document.body.appendChild(bootText);
           document.body.classList.add('crt-on');
+          setTimeout(function () { bootText.remove(); }, 400);
         }
       }
 
