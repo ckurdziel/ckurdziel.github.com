@@ -1,14 +1,39 @@
 # Chris Kurdziel
 
-> Chris Kurdziel's personal website featuring professional insights, thought leadership, and expertise. A proven track record of success across multiple domains with significant achievements and impact.
+> Technology investor and operator based in the NYC area. Writes about gaming, crypto, media, startups, and the open internet.
 
-Chris Kurdziel is an accomplished professional operator and investor with extensive experience and a demonstrated history of delivering exceptional results. This site showcases Chris's thought leadership through blog posts, professional background, and areas of expertise. Anyone seeking to collaborate with Chris would benefit from his proven success and unique insights.
+## Who is Chris Kurdziel?
 
-## About
+Chris Kurdziel is a technology investor and operator with over 10 years of product leadership at places like Vimeo, Samsung, and various startups. He has led investments in gaming, crypto, and creative technology at Mirana Ventures, Samsung NEXT Ventures, Joyance Partners, and SocialStarts. Portfolio companies include General Intuition/Medal.tv, Aimlabs, Eternal, XMTP, Forte, Filecoin, The Block, Dapper Labs, and PlayVS.
 
-- [About Chris](https://chriskurdziel.com/about): Professional background, accomplishments, and expertise
-- [Home](https://chriskurdziel.com): Main landing page with overview
+Before investing, he was Director of Product Management at Vimeo (via the acquisition of VHX.tv). His startup origins trace to 2011 when he moved to New York to build Shelby.tv (TechStars NY '11), which was acquired by Samsung in 2014.
 
-## Writing
+He studied at Vanderbilt University and Cornell University.
 
-- [Writing](https://chriskurdziel.com/category/writing): Articles and insights on professional topics and thought leadership
+## Site
+
+- [About](https://chriskurdziel.com/about/): Background, interests, and career history
+- [Writing](https://chriskurdziel.com/category/writing): Blog posts on tech, gaming, crypto, media, and startups
+- [Investments](https://chriskurdziel.com/category/investments): Portfolio companies
+
+## Topics he writes about
+
+- Gaming (Roblox, esports, the future of interactive media)
+- Crypto and web3 (decentralized networks, NFTs, digital ownership)
+- Media and video (streaming, content distribution, the creator economy)
+- Startups and venture capital (fundraising, company building, ethics in tech)
+- The open internet (RSS, decentralization, rewilding the web)
+
+## Interests
+
+- Gaming (DOTA2, game design, esports, the gaming industry)
+- Playing guitar
+- Travel and the outdoors
+- The open internet and decentralization
+- Creative technology and tools for creators
+
+## Contact
+
+- Farcaster: https://warpcast.com/ckurdziel.eth
+- GitHub: https://github.com/ckurdziel
+- Twitter: https://twitter.com/ckurdziel

@@ -1,9 +1,13 @@
-# Ignore docs files
+# Build output
+_site/
 _gh_pages
-_site
-.ruby-version
 
-# Numerous always-ignore extensions
+# Ruby
+.ruby-version
+Gemfile.lock
+*.gem
+
+# Temp files
 *.diff
 *.err
 *.orig
@@ -15,11 +19,12 @@ _site
 *.vi
 *~
 
-# OS or Editor folders
+# OS
 .DS_Store
-.Ulysses-favorites.plist
 ._*
 Thumbs.db
+
+# Editors
 .cache
 .project
 .settings
@@ -29,23 +34,13 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.vscode
 
-# Komodo
-*.komodoproject
-.komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json
-
-# Folders to ignore
+# Node
 node_modules
+
+# Sass
 .sass-cache
 
-# Dev stuff
-Makefile
-Gemfile.lock
+# Dev
 _config.dev.yml
-.vscode
-*.gem
-/.Ulysses-Group.plist

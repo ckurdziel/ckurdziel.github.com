@@ -1,5 +1,9 @@
 <div class="post-meta">
   <span class="post-date">{{ include.post.date | date_to_string }}</span>
+  {% assign words = include.post.content | number_of_words %}
+  {% assign mins = words | divided_by: 200 %}
+  {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
+  <span class="post-reading-time">&bull; {{ mins }} min read</span>
   <span class="post-categories">
     {% for category in include.post.categories %}
       &bull;
