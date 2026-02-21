@@ -157,9 +157,12 @@
   sampleCanvas.width = COLS; sampleCanvas.height = ROWS;
   var sampleCtx = sampleCanvas.getContext('2d', { willReadFrequently: true });
 
-  fetch(img.src)
+  var avatarUrl = img.getAttribute('data-src') || img.src;
+  fetch(avatarUrl)
     .then(function (r) { return r.arrayBuffer(); })
     .then(function (buff) {
+      // Set the <img> src from the same fetched data (single network request)
+      img.src = URL.createObjectURL(new Blob([buff]));
       var gif = decodeGIF(buff);
       if (!gif || !gif.frames.length) return;
 
