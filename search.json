@@ -1,0 +1,56 @@
+---
+layout: null
+---
+[
+  {% assign items = "" | split: "" %}
+  {% for post in site.posts %}
+    {% capture item %}{
+      "title": {{ post.title | jsonify }},
+      "description": {{ post.excerpt | strip_html | truncate: 160 | jsonify }},
+      "url": "{{ post.url }}",
+      "date": "{{ post.date | date: '%Y-%m-%d' }}",
+      "type": "post"
+    }{% endcapture %}
+    {% assign items = items | push: item %}
+  {% endfor %}
+  {% for page in site.pages %}
+    {% unless page.url contains '/feed' or page.url == '/feed.xml' or page.url == '/feed.json' or page.url == '/robots.txt' or page.url == '/search.json' or page.url == '/sitemap.xml' or page.url == '/assets/' or page.url contains '/assets/' or page.url == '/llms.txt' %}
+      {% if page.title %}
+        {% capture item %}{
+          "title": {{ page.title | jsonify }},
+          "description": {{ page.description | default: "" | jsonify }},
+          "url": "{{ page.url }}",
+          "date": "",
+          "type": "page"
+        }{% endcapture %}
+        {% assign items = items | push: item %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% capture gh %}{
+    "title": "GitHub",
+    "description": "Code repositories and open source projects",
+    "url": "https://github.com/ckurdziel/",
+    "date": "",
+    "type": "link"
+  }{% endcapture %}
+  {% assign items = items | push: gh %}
+  {% capture tw %}{
+    "title": "Twitter",
+    "description": "Tweets and threads",
+    "url": "https://twitter.com/ckurdziel/",
+    "date": "",
+    "type": "link"
+  }{% endcapture %}
+  {% assign items = items | push: tw %}
+  {% capture rss %}{
+    "title": "RSS Feed",
+    "description": "Subscribe via RSS or Atom feed",
+    "url": "/{{ site.feed.path | default: 'feed.xml' }}",
+    "date": "",
+    "type": "link"
+  }{% endcapture %}
+  {% assign items = items | push: rss %}
+  {% for item in items %}{{ item }}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
