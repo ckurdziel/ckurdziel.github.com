@@ -229,6 +229,44 @@
           pixelCtx.putImageData(pd, 0, 0);
         }
 
+        // Apply nebula color palette when in Blood Incantation mode
+        if (bloodMode) {
+          var pd2 = pixelCtx.getImageData(0, 0, pixelCanvas.width, pixelCanvas.height);
+          var px2 = pd2.data;
+          for (var pi2 = 0; pi2 < px2.length; pi2 += 4) {
+            if (px2[pi2 + 3] < 30) continue;
+            var br2 = (px2[pi2] * 0.299 + px2[pi2 + 1] * 0.587 + px2[pi2 + 2] * 0.114) / 255;
+            var r2, g2, b2;
+            if (br2 < 0.25) {
+              // Void black-blue: #08061A → #1A0A3E
+              var t2 = br2 / 0.25;
+              r2 = 8 + t2 * (26 - 8) | 0;
+              g2 = 6 + t2 * (10 - 6) | 0;
+              b2 = 26 + t2 * (62 - 26) | 0;
+            } else if (br2 < 0.5) {
+              // Deep purple: #1A0A3E → #6B1FA0
+              var t2 = (br2 - 0.25) / 0.25;
+              r2 = 26 + t2 * (107 - 26) | 0;
+              g2 = 10 + t2 * (31 - 10) | 0;
+              b2 = 62 + t2 * (160 - 62) | 0;
+            } else if (br2 < 0.7) {
+              // Nebula magenta: #6B1FA0 → #FF2975
+              var t2 = (br2 - 0.5) / 0.2;
+              r2 = 107 + t2 * (255 - 107) | 0;
+              g2 = 31 + t2 * (41 - 31) | 0;
+              b2 = 160 + t2 * (117 - 160) | 0;
+            } else {
+              // Cosmic hot white/cyan: #FF2975 → #E0C0FF
+              var t2 = (br2 - 0.7) / 0.3;
+              r2 = 255 + t2 * (224 - 255) | 0;
+              g2 = 41 + t2 * (192 - 41) | 0;
+              b2 = 117 + t2 * (255 - 117) | 0;
+            }
+            px2[pi2] = r2; px2[pi2 + 1] = g2; px2[pi2 + 2] = b2;
+          }
+          pixelCtx.putImageData(pd2, 0, 0);
+        }
+
         // ASCII sampling
         sampleCtx.clearRect(0, 0, COLS, ROWS);
         sampleCtx.drawImage(comp, 0, 0, COLS, ROWS);
@@ -270,19 +308,289 @@
       // ── IDKFA easter egg ─────────────────────────────────────────
 
       var doomMode = false;
+      var bloodMode = false;
+      var DEFAULT_CHARS = '@%#*+=-:,. ';
+      var BLOOD_CHARS = '\u2588\u2593\u2592\u2591\u00B7 ';
+      var corruptedElements = [];
+
+      function createStarfield() {
+        var el = document.createElement('div');
+        el.className = 'starfield';
+
+        // Layer 1: ~80 small stars, slow drift
+        var layer1 = document.createElement('div');
+        layer1.className = 'star-layer star-layer-1';
+        var shadows1 = [];
+        for (var s = 0; s < 80; s++) {
+          var x = Math.random() * 100;
+          var y = Math.random() * 200;
+          var opacity = 0.4 + Math.random() * 0.6;
+          shadows1.push(x + 'vw ' + y + 'vh 0 0 rgba(255,255,255,' + opacity.toFixed(2) + ')');
+        }
+        layer1.style.boxShadow = shadows1.join(',');
+        el.appendChild(layer1);
+
+        // Layer 2: ~30 larger stars, slightly faster, purple/pink tint
+        var layer2 = document.createElement('div');
+        layer2.className = 'star-layer star-layer-2';
+        var shadows2 = [];
+        var tints = [
+          [200, 160, 255],
+          [255, 41, 117],
+          [176, 68, 255],
+          [255, 255, 255]
+        ];
+        for (var s2 = 0; s2 < 30; s2++) {
+          var x2 = Math.random() * 100;
+          var y2 = Math.random() * 200;
+          var tint = tints[Math.floor(Math.random() * tints.length)];
+          var opacity2 = 0.5 + Math.random() * 0.5;
+          var size = (1 + Math.random()).toFixed(1);
+          shadows2.push(x2 + 'vw ' + y2 + 'vh 0 ' + size + 'px rgba(' + tint[0] + ',' + tint[1] + ',' + tint[2] + ',' + opacity2.toFixed(2) + ')');
+        }
+        layer2.style.boxShadow = shadows2.join(',');
+        el.appendChild(layer2);
+
+        document.body.appendChild(el);
+      }
+
+      function removeStarfield() {
+        var sf = document.querySelector('.starfield');
+        if (sf) sf.remove();
+      }
+
+      // Zalgo-style corruption characters
+      var ZALGO_UP = ['\u0300','\u0301','\u0302','\u0303','\u0304','\u0305','\u0306','\u0307','\u0308','\u030B','\u030C','\u030D','\u030E','\u030F','\u0310','\u0311','\u0312'];
+      var ZALGO_MID = ['\u0315','\u031B','\u0334','\u0335','\u0336','\u0337','\u0338'];
+      var ZALGO_DOWN = ['\u0316','\u0317','\u0318','\u0319','\u031C','\u031D','\u031E','\u031F','\u0320','\u0321','\u0322','\u0323','\u0324','\u0325','\u0326','\u0327','\u0328'];
+
+      // Eldritch word substitutions — ~8% chance per word
+      var ELDRITCH_SUBS = {
+        'the': 'T\u0336H\u0335E', 'and': '\u2227ND', 'this': 'TH\u0338\u00CDS',
+        'that': 'TH\u0336\u00C6T', 'with': 'W\u0335\u012ATH', 'from': 'FR\u0336\u00D8M',
+        'have': 'H\u0338\u00C6VE', 'are': '\u00C6RE', 'was': 'W\u0336\u00C6S',
+        'been': 'B\u0335\u0190EN', 'will': 'W\u0338\u012ALL', 'into': '\u012ANT\u00D8',
+        'time': 'T\u0336\u012AME', 'here': 'H\u0335\u018ERE', 'they': 'TH\u0336\u018EY',
+        'about': '\u00C6B\u00D8UT', 'just': 'J\u0335\u00DCST', 'not': 'N\u0336\u00D8T',
+        'you': 'Y\u0335\u00D8U', 'all': '\u00C6LL', 'can': 'C\u0336\u00C6N',
+        'more': 'M\u0338\u00D8RE', 'some': 'S\u0335\u00D8ME', 'what': 'WH\u0336\u00C6T'
+      };
+      var ELDRITCH_KEYS = Object.keys(ELDRITCH_SUBS);
+
+      function corruptText(text) {
+        // First pass: eldritch word substitutions
+        var words = text.split(/(\s+)/);
+        for (var w = 0; w < words.length; w++) {
+          var lower = words[w].toLowerCase();
+          if (ELDRITCH_SUBS[lower] && Math.random() < 0.08) {
+            words[w] = ELDRITCH_SUBS[lower];
+          }
+        }
+        text = words.join('');
+
+        // Second pass: zalgo corruption on individual characters
+        var out = '';
+        for (var i = 0; i < text.length; i++) {
+          var ch = text[i];
+          if (ch === ' ' || ch === '\n') { out += ch; continue; }
+          out += ch;
+          if (Math.random() < 0.3) {
+            var count = 1 + Math.floor(Math.random() * 3);
+            for (var j = 0; j < count; j++) {
+              var pool = [ZALGO_UP, ZALGO_MID, ZALGO_DOWN][Math.floor(Math.random() * 3)];
+              out += pool[Math.floor(Math.random() * pool.length)];
+            }
+          }
+        }
+        return out;
+      }
+
+      // ── Letter flicker — randomly flicker text elements ──────────
+      var flickerRunning = false;
+      var flickerTimeout = null;
+
+      function startFlicker() {
+        if (flickerRunning) return;
+        flickerRunning = true;
+        var allSelectors = SIDEBAR_SELECTORS + ', ' + CONTENT_SELECTORS;
+
+        function doFlicker() {
+          if (!flickerRunning) return;
+          var els = document.querySelectorAll(allSelectors);
+          if (!els.length) { flickerTimeout = setTimeout(doFlicker, 1000); return; }
+
+          // Flicker 1-3 elements at once
+          var count = 1 + Math.floor(Math.random() * 3);
+          for (var f = 0; f < count; f++) {
+            var el = els[Math.floor(Math.random() * els.length)];
+            // Force animation restart: remove, reflow, re-add
+            el.classList.remove('flicker');
+            void el.offsetWidth;
+            el.classList.add('flicker');
+            (function (target) {
+              setTimeout(function () { target.classList.remove('flicker'); }, 200);
+            })(el);
+          }
+
+          flickerTimeout = setTimeout(doFlicker, 800 + Math.random() * 2000);
+        }
+        doFlicker();
+      }
+
+      function stopFlicker() {
+        flickerRunning = false;
+        if (flickerTimeout) { clearTimeout(flickerTimeout); flickerTimeout = null; }
+      }
+
+      // ── "OPEN THE STARGATE" transmission flash ─────────────────
+      var stargateInterval = null;
+
+      function startStargateTransmissions() {
+        if (stargateInterval) return;
+        function scheduleNext() {
+          stargateInterval = setTimeout(function () {
+            if (!bloodMode) return;
+            var container = document.createElement('div');
+            container.className = 'stargate-transmission';
+
+            var staticLayer = document.createElement('div');
+            staticLayer.className = 'stargate-static';
+            container.appendChild(staticLayer);
+
+            var text = document.createElement('div');
+            text.className = 'stargate-text';
+            text.textContent = 'OPEN THE STARGATE';
+            container.appendChild(text);
+
+            document.body.appendChild(container);
+            setTimeout(function () { container.remove(); }, 750);
+            scheduleNext();
+          }, 15000 + Math.random() * 30000);
+        }
+        scheduleNext();
+      }
+
+      function stopStargateTransmissions() {
+        if (stargateInterval) { clearTimeout(stargateInterval); stargateInterval = null; }
+        var existing = document.querySelector('.stargate-transmission');
+        if (existing) existing.remove();
+      }
+
+      function corruptNodes(selector) {
+        var els = document.querySelectorAll(selector);
+        for (var i = 0; i < els.length; i++) {
+          var el = els[i];
+          for (var j = 0; j < el.childNodes.length; j++) {
+            var node = el.childNodes[j];
+            if (node.nodeType === 3 && node.textContent.trim()) {
+              corruptedElements.push({ node: node, original: node.textContent });
+              node.textContent = corruptText(node.textContent);
+            }
+          }
+        }
+      }
+
+      var SIDEBAR_SELECTORS = '.site-title a, #sidebar-nav-links a span, #sidebar-icon-links a span, .sidebar-section-label';
+      var CONTENT_SELECTORS = '.post-title, .page-title, .post-list a, .posts-list a, .post-body p, .post-body li, .post-body h2, .post-body h3, .post-meta, .content h1, .content h2, .content h3, .content p, .content li';
+
+      function applyTextCorruption() {
+        corruptNodes(SIDEBAR_SELECTORS + ', ' + CONTENT_SELECTORS);
+      }
+
+      function applyContentCorruption() {
+        corruptNodes(CONTENT_SELECTORS);
+      }
+
+      function removeTextCorruption() {
+        for (var i = 0; i < corruptedElements.length; i++) {
+          corruptedElements[i].node.textContent = corruptedElements[i].original;
+        }
+        corruptedElements = [];
+      }
+
+      // Re-corrupt content after PJAX navigation swaps the container
+      document.addEventListener('pjax:swap', function () {
+        if (bloodMode) {
+          // Remove stale content refs (sidebar ones are still valid)
+          var kept = [];
+          for (var i = 0; i < corruptedElements.length; i++) {
+            if (document.body.contains(corruptedElements[i].node)) {
+              kept.push(corruptedElements[i]);
+            }
+          }
+          corruptedElements = kept;
+          applyContentCorruption();
+        }
+      });
 
       document.addEventListener('easter-egg', function (e) {
         if (e.detail.name === 'idkfa') {
           doomMode = e.detail.playing;
           wrap.classList.toggle('pixelated', doomMode);
           document.body.classList.toggle('doom-mode', doomMode);
+          // Clear blood mode if doom activates
+          if (doomMode && bloodMode) {
+            bloodMode = false;
+            CHARS = DEFAULT_CHARS;
+            removeStarfield();
+            removeTextCorruption();
+            stopFlicker();
+            stopStargateTransmissions();
+          }
+        } else if (e.detail.name === 'blood') {
+          bloodMode = e.detail.playing;
+          CHARS = bloodMode ? BLOOD_CHARS : DEFAULT_CHARS;
+          wrap.classList.toggle('pixelated', bloodMode);
+          if (bloodMode) {
+            createStarfield();
+            applyTextCorruption();
+            startFlicker();
+            startStargateTransmissions();
+          } else {
+            removeStarfield();
+            removeTextCorruption();
+            stopFlicker();
+            stopStargateTransmissions();
+          }
+          // Clear doom mode if blood activates
+          if (bloodMode && doomMode) {
+            doomMode = false;
+            document.body.classList.remove('doom-mode');
+          }
         } else if (e.detail.playing) {
-          // Another theme activated — clear doom pixel mode
-          doomMode = false;
-          wrap.classList.remove('pixelated');
-          document.body.classList.remove('doom-mode');
+          // Another theme activated — clear special modes
+          if (doomMode) {
+            doomMode = false;
+            wrap.classList.remove('pixelated');
+            document.body.classList.remove('doom-mode');
+          }
+          if (bloodMode) {
+            bloodMode = false;
+            CHARS = DEFAULT_CHARS;
+            wrap.classList.remove('pixelated');
+            removeStarfield();
+            removeTextCorruption();
+            stopFlicker();
+            stopStargateTransmissions();
+          }
         }
       });
+
+      // Restore blood/doom effects from saved theme (event fires before this listener exists)
+      var savedTheme = localStorage.getItem('easter-egg-theme');
+      if (savedTheme === 'theme-blood') {
+        bloodMode = true;
+        CHARS = BLOOD_CHARS;
+        wrap.classList.add('pixelated');
+        createStarfield();
+        applyTextCorruption();
+        startFlicker();
+        startStargateTransmissions();
+      } else if (savedTheme === 'theme-doom') {
+        doomMode = true;
+        wrap.classList.add('pixelated');
+        document.body.classList.add('doom-mode');
+      }
 
       // ── Avatar hover glitch ──────────────────────────────────────
 

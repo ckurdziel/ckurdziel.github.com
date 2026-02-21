@@ -42,6 +42,9 @@
       window.reinitTerminalNav();
     }
 
+    // Notify listeners that content was swapped (e.g. for text corruption re-apply)
+    document.dispatchEvent(new Event("pjax:swap"));
+
     return true;
   }
 

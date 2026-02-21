@@ -813,3 +813,191 @@ body.theme-konami {
   --border-glow: rgba(255, 0, 64, 0.35);
 }
 
+// Blood Incantation — cosmic death metal, nebula purples + hot magenta
+body.theme-blood {
+  --bg: transparent;
+  --accent: #B044FF;
+  --link: #FF2975;
+  --text: #C8A0E8;
+  --glow: #B044FF;
+  --scanline: rgba(176, 68, 255, 0.05);
+  --scanline-size: 3px;
+  --border-glow: rgba(176, 68, 255, 0.35);
+}
+
+html:has(body.theme-blood) {
+  background: #06020F;
+}
+
+// Disable scanlines in blood theme (causes browser rendering issues)
+body.theme-blood::after {
+  display: none;
+}
+
+// Starfield container — JS injects .starfield div with star layers
+body.theme-blood .starfield {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+body.theme-blood #sidebar,
+body.theme-blood .container {
+  position: relative;
+  z-index: 2;
+}
+
+body.theme-blood .starfield .star-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 200%;
+}
+
+body.theme-blood .starfield .star-layer-1 {
+  animation: starfield-drift 120s linear infinite;
+}
+
+body.theme-blood .starfield .star-layer-2 {
+  animation: starfield-drift 80s linear infinite;
+}
+
+@keyframes starfield-drift {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+
+// Link hover destabilization — color shifts through spectrum before settling
+body.theme-blood a:hover {
+  animation: link-destabilize 0.4s steps(1) forwards;
+}
+
+@keyframes link-destabilize {
+  0%   { color: #FF2975; }
+  15%  { color: #B044FF; }
+  30%  { color: #00FFE0; }
+  45%  { color: #FF6B00; }
+  60%  { color: #E0C0FF; }
+  75%  { color: #FF2975; }
+  100% { color: #FF2975; text-shadow: 0 0 8px rgba(255, 41, 117, 0.6), 0 0 20px rgba(176, 68, 255, 0.3); }
+}
+
+// Letter flicker — applied by JS to random elements
+@keyframes letter-flicker {
+  0%   { opacity: 1; }
+  15%  { opacity: 0; }
+  25%  { opacity: 0.7; }
+  35%  { opacity: 0; }
+  50%  { opacity: 1; }
+  65%  { opacity: 0.15; }
+  80%  { opacity: 0.9; }
+  100% { opacity: 1; }
+}
+
+body.theme-blood .flicker {
+  animation: letter-flicker 0.2s steps(1) 1;
+}
+
+// "OPEN THE STARGATE" — channel-change interruption
+.stargate-transmission {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+// Static noise layer
+.stargate-static {
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(200, 160, 255, 0.03) 2px,
+    rgba(200, 160, 255, 0.03) 4px
+  );
+  opacity: 0;
+  animation: static-burst 0.75s steps(1) forwards;
+}
+
+// The message itself
+.stargate-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Fira Code", monospace;
+  font-size: 1.3rem;
+  letter-spacing: 0.3em;
+  color: #FFD700;
+  text-shadow: 0 0 10px #FFD700, 0 0 40px rgba(255, 215, 0, 0.7), 0 0 80px rgba(255, 180, 0, 0.3);
+  background: #06020F;
+  opacity: 0;
+  animation: channel-cut 0.75s steps(1) forwards;
+
+  &::before {
+    content: "// INCOMING TRANSMISSION";
+    font-size: 0.55rem;
+    letter-spacing: 0.12em;
+    color: #B044FF;
+    text-shadow: 0 0 6px rgba(176, 68, 255, 0.5);
+    opacity: 0.6;
+    margin-bottom: 0.8rem;
+  }
+
+  &::after {
+    content: "▮";
+    font-size: 0.7rem;
+    color: #FFD700;
+    opacity: 0.5;
+    margin-top: 0.6rem;
+    animation: blink 0.5s step-end infinite;
+  }
+}
+
+// Hard cuts: static → black → message → tear → static → gone
+@keyframes channel-cut {
+  0%    { opacity: 0; }
+  // Static burst
+  5%    { opacity: 0; }
+  // Hard snap to message
+  6%    { opacity: 1; transform: translateX(-3px); }
+  8%    { transform: translateX(2px); }
+  10%   { transform: translateX(0); }
+  // Hold message
+  70%   { opacity: 1; transform: translateX(0); }
+  // Tear out
+  72%   { transform: translateX(6px) skewX(-2deg); }
+  74%   { transform: translateX(-8px) skewX(3deg); }
+  76%   { transform: translateX(4px); opacity: 1; }
+  78%   { opacity: 0; }
+  100%  { opacity: 0; }
+}
+
+@keyframes static-burst {
+  0%    { opacity: 0; background-color: transparent; }
+  // Pre-static: screen tears before message
+  1%    { opacity: 1; background-color: rgba(200, 160, 255, 0.15); }
+  2%    { background-color: rgba(255, 255, 255, 0.6); }
+  3%    { background-color: rgba(176, 68, 255, 0.2); }
+  4%    { background-color: rgba(255, 255, 255, 0.4); }
+  5%    { background-color: rgba(6, 2, 15, 0.1); }
+  6%    { opacity: 0; }
+  // Post-tear static
+  72%   { opacity: 0; }
+  73%   { opacity: 1; background-color: rgba(255, 255, 255, 0.5); }
+  74%   { background-color: rgba(176, 68, 255, 0.3); }
+  75%   { background-color: rgba(255, 255, 255, 0.6); }
+  76%   { background-color: rgba(6, 2, 15, 0.2); }
+  78%   { background-color: rgba(255, 255, 255, 0.3); }
+  80%   { opacity: 0; }
+  100%  { opacity: 0; }
+}
+
