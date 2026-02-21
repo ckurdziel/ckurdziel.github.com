@@ -2,11 +2,11 @@
 
 ## Easter Eggs
 - [x] Blood Incantation easter egg (death metal theme)
-- [ ] Stargate reference easter egg (SGC terminal theme)
+- [x] ~~Stargate reference easter egg~~ — covered by starspawn theme
 
 ## Features
 - [x] "Main screen turn on" text during CRT boot animation (disappears once content loads)
-- [ ] Sitemap via `jekyll-sitemap` plugin
+- [x] Sitemap via `jekyll-sitemap` plugin
 - [ ] Improve 404 page — terminal-style `command not found` with suggestions
 
 ## Performance

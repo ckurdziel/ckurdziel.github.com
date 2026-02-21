@@ -3,6 +3,7 @@ layout: page
 title: About Chris Kurdziel
 permalink: /bio/
 tags: [bio, me, chris kurdziel]
+sitemap: false
 ---
 
 

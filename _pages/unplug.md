@@ -6,6 +6,7 @@ tags:
 author:
   - "[[Me]]"
 permalink: /unplug/
+sitemap: false
 created:
   "{ date }": 
 published: 2024-09-01

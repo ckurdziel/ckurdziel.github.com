@@ -27,6 +27,13 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-gist
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "_pages/travel"
+    values:
+      sitemap: false
 
 # Sidebar link settings
 sidebar_home_link:  true

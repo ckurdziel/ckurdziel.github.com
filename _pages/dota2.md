@@ -2,6 +2,7 @@
 layout: page
 title: DOTA2
 permalink: /dota2/
+sitemap: false
 
 ---
 

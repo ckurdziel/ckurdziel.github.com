@@ -2,6 +2,7 @@
 layout: page
 title: Web 3 Reading List
 permalink: /web3/
+sitemap: false
 ---
 
 
