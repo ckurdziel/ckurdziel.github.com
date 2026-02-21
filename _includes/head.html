@@ -18,7 +18,7 @@
   <!-- Open Graph -->
   {% assign og_title = page.title | default: site.title %}
   {% assign og_description = page.excerpt | default: site.description | strip_html | truncate: 200 %}
-  {% assign og_image = page.image | default: "/images/avatar-small.gif" | prepend: site.url %}
+  {% assign og_image = page.image | default: "/images/og-default.png" | prepend: site.url %}
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
   <meta property="og:title" content="{{ og_title }}" />
   <meta property="og:description" content="{{ og_description }}" />
