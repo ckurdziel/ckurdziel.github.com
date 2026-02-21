@@ -3,46 +3,9 @@
 # only main files contain this front matter, not partials.
 ---
 
-$gray-1: #ffffff !default;
-$gray-2: #e5e5e5 !default;
-$gray-3: #ccc !default;
-$gray-4: #d0b7ff !default;
-$gray-5: #515151 !default;
-$gray-6: #313131 !default;
+$sidebar-width: 13rem;
 
-$black: #000000 !default;
-$red: #aa172b !default;
-$orange: #d28445 !default;
-$yellow: #f4bf75 !default;
-$green: #00eb6d !default;
-$pink: #FD00E1 !default;
-$teal: #00FFD5 !default;
-$blue: #00FDF1 !default;
-$purple: #E400F7 !default;
-
-$large-font-size: 16px !default;
-
-$body-color: #d0b7ff !default;
-$body-muted: $gray-4 !default;
-$body-bg: #0D0221 !default;
-$link-color: $pink !default;
-$heading-color: #21ce97 !default;
-$code-color: #21ce97 !default;
-$strong-color: #21ce97 !default;
-
-$root-font-family: "Fira Code", monospace !default;
-$root-font-size: 12px !default;
-$root-font-weight: 400;
-
-$sidebar-width: 13rem !default;
-
-$sidebar-bg-color: #0D0221 !default;
-$sidebar-fg-color: #d0b7ff !default;
-
-$sidebar-title-color: #21ce97 !default;
-$sidebar-link-color: $pink !default;
-$sidebar-text-color: rgba(#d0b7ff, 0.75) !default;
-$sidebar-icon-color: rgba(#21ce97, 0.85) !default;
+@import "reset", "typography", "code", "syntax", "posts";
 
 :root {
   --bg: #0D0221;
@@ -55,25 +18,25 @@ $sidebar-icon-color: rgba(#21ce97, 0.85) !default;
   --border-glow: rgba(253, 0, 225, 0.3);
 }
 
-@import "hydeout";
-
-// --- Hydeout compiled-style overrides (use CSS custom properties) ---
 body {
   color: var(--text);
   background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
   opacity: 0;
 
   &.crt-on {
     animation: crt-on 0.4s ease-out forwards;
   }
 }
-a { color: var(--link); }
-h1,h2,h3,h4,h5,h6 { color: var(--accent); }
-strong { color: var(--accent); }
-code { color: var(--accent); }
+a {
+  color: var(--link);
+  text-decoration: none;
+}
 .content { background: var(--bg); color: var(--text); }
 .container { background: var(--bg); color: var(--text); }
-.pagination > a { background: var(--bg); }
 
 // ==========================================================================
 // TERMINAL TUI SPLIT-VIEW OVERRIDES
@@ -246,7 +209,6 @@ body {
   overflow-y: auto;
   font-family: "Fira Code", monospace !important;
 
-  // Force monospace on everything — override theme's "Kung Font" serif
   &, *, .site-title, #sidebar-nav-links, #sidebar-icon-links {
     font-family: "Fira Code", monospace !important;
   }
@@ -654,7 +616,6 @@ body {
   }
 }
 
-// --- Force monospace everywhere — kill all Kung Font ---
 h1, h2, h3, h4, h5, h6,
 .site-title,
 .post-title,

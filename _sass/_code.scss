@@ -1,0 +1,55 @@
+// Code
+//
+// Inline and block-level code snippets.
+
+code,
+pre {
+  font-family: "Fira Code", monospace;
+}
+
+code {
+  padding: .25em .5em;
+  font-size: 85%;
+  color: var(--accent);
+  background-color: transparent;
+  border-radius: 3px;
+}
+
+pre {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+
+// Rouge / Pygments highlight blocks
+.highlight {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  background-color: transparent;
+  border-radius: 0;
+
+  pre {
+    margin-bottom: 0;
+    overflow-x: auto;
+  }
+
+  .lineno {
+    display: inline-block;
+    padding-right: .75rem;
+    padding-left: .25rem;
+    color: #999;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+  }
+}

@@ -9,14 +9,6 @@ Chris Kurdziel is an accomplished professional operator and investor with extens
 - [About Chris](https://chriskurdziel.com/about): Professional background, accomplishments, and expertise
 - [Home](https://chriskurdziel.com): Main landing page with overview
 
-## Blog
+## Writing
 
-- [Blog](https://chriskurdziel.com/blog): Articles and insights on professional topics and thought leadership
-
-## Contact
-
-- [Contact](https://chriskurdziel.com/contact): Get in touch for collaboration opportunities
-
-## Optional
-
-- [Archive](https://chriskurdziel.com/archive): Historical posts and content
+- [Writing](https://chriskurdziel.com/category/writing): Articles and insights on professional topics and thought leadership

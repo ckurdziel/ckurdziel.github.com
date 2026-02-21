@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Chris Kurdziel
@@ -22,6 +21,9 @@ author:
 #paginate:         0
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+
+include:
+  - _pages
 
 plugins:
   - jekyll-feed

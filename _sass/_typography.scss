@@ -1,0 +1,87 @@
+// Typography
+//
+// Headings, body text, lists, and other typographic elements.
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--accent);
+  text-rendering: optimizeLegibility;
+}
+
+h1 { font-size: 2rem; }
+
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: var(--accent);
+}
+
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt { font-weight: bold; }
+dd { margin-bottom: .5rem; }
+
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: color-mix(in srgb, var(--text) 70%, transparent);
+  border-left: .25rem solid var(--accent);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Footnotes
+a[href^="#fn:"],
+a[href^="#fnref:"] {
+  display: inline-block;
+  margin-left: .1rem;
+  font-weight: bold;
+}
+
+.footnotes {
+  margin-top: 2rem;
+  font-size: 85%;
+}
+
+// Lead text
+.lead {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+// SVG icons
+a svg, .icon svg { height: 1em; }
+a svg { fill: var(--link); }
+.icon { vertical-align: middle; }
