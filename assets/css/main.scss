@@ -724,28 +724,6 @@ a {
   }
 }
 
-// --- Pagination: bracket buttons ---
-.pagination {
-  a,
-  .page-number {
-    font-family: "Fira Code", monospace;
-  }
-
-  a.pagination-newer,
-  a.pagination-older {
-    &::before {
-      content: "[ ";
-      color: var(--accent);
-      opacity: 0.5;
-    }
-    &::after {
-      content: " ]";
-      color: var(--accent);
-      opacity: 0.5;
-    }
-  }
-}
-
 // ==========================================================================
 // EASTER EGG THEME CLASSES
 // ==========================================================================

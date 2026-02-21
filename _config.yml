@@ -18,17 +18,12 @@ author:
   name:           'Chris Kurdziel'
   url:            https://chriskurdziel.com
 
-#paginate:         0
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
-
 include:
   - _pages
 
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
 
 # Sidebar link settings
 sidebar_home_link:  true
