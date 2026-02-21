@@ -15,6 +15,22 @@
   </title>
 
 
+  <!-- Open Graph -->
+  {% assign og_title = page.title | default: site.title %}
+  {% assign og_description = page.excerpt | default: site.description | strip_html | truncate: 200 %}
+  {% assign og_image = page.image | default: "/images/avatar-small.gif" | prepend: site.url %}
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+  <meta property="og:title" content="{{ og_title }}" />
+  <meta property="og:description" content="{{ og_description }}" />
+  <meta property="og:url" content="{{ page.url | prepend: site.url }}" />
+  <meta property="og:image" content="{{ og_image }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ og_title }}" />
+  <meta name="twitter:description" content="{{ og_description }}" />
+  <meta name="twitter:image" content="{{ og_image }}" />
+  <meta name="description" content="{{ og_description }}" />
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
 
