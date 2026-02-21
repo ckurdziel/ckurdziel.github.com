@@ -1,0 +1,9 @@
+---
+layout: post
+title: Developing a Creative Voice
+---
+Back in 2006 or so when I first got my hands on Guitar Hero, I remember thinking that the game was one of the coolest and most innovative video games I had ever played.  Fast forward to 2010 and [Rock Band 3’s upcoming guitar controller](http://xboxfreedom.com/fender-squier-meet-the-ultimate-rock-band-3-controller/) is continuing to push the envelope of the gaming landscape.  Aside from the awesome technology that is likely behind this thing, I can’t help but wonder whether the hyper-realistic new controller is breeding a generation of homogeneous guitarists that play the instrument with the same approach.
+
+One of the most fun things about learning to play guitar for me was trying to figure out how to give my guitar a “voice" like I heard on many of my favorite albums.  Frankly, I’m *still* working on that.  So many of rock’s innovative guitarists ([Hendrix](http://en.wikipedia.org/wiki/Jimi_Hendrix), [Gilmour](http://en.wikipedia.org/wiki/David_Gilmour), etc.) relied on their ear to develop a sense of style.  With Guitar Hero, Rock Band, YouTube, and the plethora of tabs available on the internet, it’s easier than ever to learn how to play like your idols.  While that is a component of learning the instrument and developing one’s own voice, I think that overexposure to these channels can deprive one of the instinct and musical sense that are required to really master the instrument.  Just like blind people often develop stronger senses of hearing, musicians need to isolate themselves from their influences every so often in order to strengthen their own musical senses.
+
+Games like Rock Band 3 can be great fun and a fantastic tool for generating interest in music.  But there’s no substitute for a real instrument and the work, creativity, and practice that come along with giving it your own voice.

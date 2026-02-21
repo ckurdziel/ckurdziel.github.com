@@ -1,0 +1,17 @@
+---
+layout: post
+title: Implicit Graphs and Social Recommendations
+---
+Yesterday I had the chance to attend a fantastic event over at Union Square Venture’s new office about social discovery and the implicit social graph.  The event was hosted by a panel of experts from startups that are on the cutting edge of using these types of graphs to make recommendations ([Eric Friedman](https://twitter.com/#!/ericfriedman) from Foursquare, [Ro Gupta](https://twitter.com/#!/ro_gupta) from Disqus, Marc Leibowitz from StumbleUpon, [Shaival Shah](https://twitter.com/#!/shaival) from Hunch, and [Mark Coatney](https://twitter.com/#!/mcoatney) from Tumblr)
+
+The panel was largely conversational in nature and the discussion sparked a host of interesting questions about the way that explicit actions (such as a Foursquare checkin) can lead to implicit recommendations (the Foursquare Explore feature, for example).
+
+A few interesting points from the discussion:
+
+- With each explicit input added to a pool of data, the implicit output often becomes stronger.  For example, as I check into more venues on Foursquare, I give the service a better and better idea of what kinds of places might be relevant to me.
+- It’s very easy to quickly pigeonhole taste or intent based on a user’s explicit action, but this often leads to big issues.  Eric Friedman brought up a great example: if I only check in to Italian restaurants on Foursquare, does that mean that I only eat Italian food, that I use Foursquare as a database of my Italian restaurants, or that by chance I’ve just been on an Italian streak lately and would rather see different recommendations in the future?  Subtle distinctions, but non-trivial problems to solve for the end user.
+- There is a certain amount of noise associated with explicit connections that are shared by large numbers of people.  For example, if you like the Jonas Brothers and a million other people also like the Jonas Brothers, implying that we have a bunch in common on other fronts because of our mutual Jonas-love is less relevant than if we were both fans of a more obscure band (any [Decrepit Birth](http://www.youtube.com/watch?v=B-Qnr1gOdpU) fans out there?).
+- Implicit recommendations in services such as Pandora need to be carefully managed.  For example, if Pandora simply provided you with an implicit stream of music based on aggregated psychographic variables (all the artists you like and listen to), they would ignore the fact that you’re often in different moods.  They solve this problem by having the user create channels of different artists so that recommendations are driven by a general mood or theme and each individual channel is driven by psychographic variables.
+- Metadata can be a powerful tool when it comes to building implied social graphs. Pandora’s [Music Genome Project](http://en.wikipedia.org/wiki/Music_Genome_Project) is a great example of how this data can be used to generate implicit recommendations.
+
+Figuring out how to provide useful social discovery is a difficult problem to solve, so I’m going to be thinking about this one a whole bunch more.  Share some thoughts in the comments below and let’s get some disqussion started!

@@ -80,8 +80,3 @@ a[href^="#fnref:"] {
   font-size: 1rem;
   font-weight: 300;
 }
-
-// SVG icons
-a svg, .icon svg { height: 1em; }
-a svg { fill: var(--link); }
-.icon { vertical-align: middle; }

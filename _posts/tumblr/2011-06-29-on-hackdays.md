@@ -1,0 +1,15 @@
+---
+layout: post
+title: On Hackdays
+---
+I spent a good portion of this past weekend hanging out at [Game Hack Day NYC](http://gamehackday.org/). ***Big thanks to [John Britton](http://www.johndbritton.com/) and [Adrian Ryan](https://twitter.com/#!/adrianmryan) @ General Assembly for organizing a really fun way to spend the weekend.*** It was a great event that made me think a lot about what hack days are all about and how these types of events are essential to the ecosystem of any growing startup community.
+
+At their core, hack days are about celebrating creativity, education, and exploration in their most raw forms. It’s awesome to see first time hackers and veterans alike explore interesting ideas and then present them in front of their peers (regardless of outcome).  This weekend was no exception.  I had a blast checking out the various hardware and software hacks during the judging on Sunday.  For a full rundown of the hacks, check out the [Game Hack Day Wiki](http://wiki.gamehackday.org/nyc11/show/HomePage).
+
+I think it might be easy for a lot of non-engineering oriented people to dismiss programming and hacking as an uncreative, dry, and monotonous form of expression.  To those people: come check out the demos at the next hack day in your area and I think you’ll be surprised at how amazingly creative many of the hacks are.  Had I been exposed to events like this during my undergraduate days in computer science, I would been far more amped about pursuing a career as an engineer.
+
+Need an example? [Myles Recny](http://mkrecny.com), a cohort of mine at Shelby.tv (and a self proclaimed cyborg from the future), created a mashup of Twitter and Tetris called ***Twetris*** ([available on his github repo](http://github.com/mkrecny/twetris)) that landed him third place at the hack day.  Twetris plays the same as Tetris with one caveat - the user signs in with his/her Twitter account and each block that drops onto the playing field signifies a random group of other Twitter users that have actually been followed on Twitter.  In order to unfollow these people on Twitter, you have to clear rows of blocks just as in regular Tetris.  Sounds like a losing battle, but it’s a whole lot of fun and adds an amazing sense of urgency to the game.  Give it a try, and you just might end up with a bunch more Twitter followers (Myles contends that about *30% of followed users end up following back*).
+
+<iframe frameborder="0" height="281" src="http://player.vimeo.com/video/25688545?title=0&byline=0&portrait=0" width="500"></iframe>
+
+At the end of the day (had to throw in a consulting phrase for posterity…), hack days are becoming increasingly popular in New York and I’m really excited to be helping plan one for later this fall.  While I’m not quite ready to let the cat completely out of the bag, check out [hackday.tv](http://hackday.tv) for a taste of what’s to come.  If you have awesome ideas for something you’d like to see in a hack day event, shoot me an [email](mailto://internzero@shelby.tv).
