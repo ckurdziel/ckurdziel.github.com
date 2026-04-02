@@ -2,8 +2,11 @@
 layout: post
 title: Move Fast and Make Things
 description: What practicing guitar with a metronome taught me about AI and shipping fast.
+image: /images/move-fast-and-make-things.jpg
 comments: false
 ---
+
+![Move Fast and Make Things](/images/move-fast-and-make-things.jpg)
 
 My Twitter feed these days is mostly full of people talking about how fast they shipped some new thing with AI. Built this in a weekend. Vibe-coded my MVP in three hours. 100x engineers shipping PRs all day. Yes, the AI tools really are that good and they're exciting. I'm beyond excited about a future where I can build anything I can think of.
 
