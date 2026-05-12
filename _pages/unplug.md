@@ -31,6 +31,8 @@ In my work with [New Canaan Unplugged](https://www.newcanaanunplugged.org/), I a
 - Use iOS "Focus modes" to hide distracting apps, widgets from your view and change notification settings for specific activities as needed.
 
 ### Browser Level Settings & Extensions
+See also: [Taming YouTube](/2026/05/12/taming-youtube) — a deeper walkthrough of the YouTube settings and extensions below.
+
 - Use an Ad Blocker like UBlock Origin to block ads (including video ads on Youtube)
 - Disable WebRTC
 - Clickbait Remover for Youtube will replace clickbail thumbnails with actual thumbnails from the Youtube video.
