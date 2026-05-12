@@ -11,6 +11,14 @@ But out of the box, YouTube is also a slot machine. Shorts, autoplay, a homepage
 
 A few friends with kids have asked me what I do to make YouTube tolerable in our house. The short version: I treat YouTube the way I'd treat a TV with a hundred channels and a bored producer. I turn off the parts that are designed to hijack attention, and I keep the parts that let me (or my kid) go looking for something specific. Here's the setup.
 
+## Use YouTube on desktop only
+
+This is the first and most underrated rule. I don't have the YouTube app on my phone. If I want to watch something, I have to go to a computer and open a browser. That tiny bit of friction changes everything — YouTube stops being something you reach for in line at the grocery store and becomes something you sit down to use, like a book or a TV.
+
+It also makes every other tip in this post possible. The extensions and ad blockers below are desktop-only. Mobile YouTube is a walled-off experience that Google controls end to end, and they're not going to let you remove Shorts or strip the clickbait thumbnails. If you want YouTube to feel like a tool instead of a feed, the browser on a real computer is where that's actually achievable.
+
+For kids, the same logic doubles. A TV or a family computer is a shared, visible space. A phone is a private one. The setting itself shapes the behavior.
+
 ## Turn off the parts designed to be addictive
 
 Most of YouTube's addictive surface is opt-out, not opt-in. Walk through the settings once and a lot of the noise goes away.
