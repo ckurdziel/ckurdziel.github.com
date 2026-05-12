@@ -29,7 +29,7 @@ Delete the YouTube app from your phone. Use YouTube in a browser, on a computer.
 ## Add two extensions
 
 - **[Unhook](https://unhook.app/)** — hide the homepage feed, sidebar recommendations, Shorts, end-screen suggestions, and comments. I hide everything except subscriptions and search.
-- **[Clickbait Remover for YouTube](https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)** — replaces engineered thumbnails with the first frame of the video.
+- **[Clickbait Remover for YouTube](https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)** — replaces engineered thumbnails with the first frame of the video and normalizes ALL-CAPS titles to sentence case.
 
 ## Make subscriptions the front door
 
