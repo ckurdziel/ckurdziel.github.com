@@ -19,7 +19,6 @@ Most of YouTube's addictive surface is opt-out, not opt-in. Walk through the set
 - **Pause watch history.** Settings → Your data in YouTube → YouTube Watch History → Pause. The homepage and recommendations get dramatically quieter, because the algorithm has less to work with. You can still subscribe to channels and watch them directly.
 - **Hide Shorts.** Shorts are TikTok grafted onto YouTube and they're the most addictive surface on the site. On the web you can collapse the Shorts shelf; on mobile you can hide it from the home feed in settings. Better, use an extension (below) to remove it entirely.
 - **Use Restricted Mode and a Supervised Account for kids.** Not perfect, but it filters a meaningful amount of junk and gives you a content rating to work from.
-- **Use YouTube Kids only for the youngest kids, and graduate off of it.** It's a walled garden full of its own weird incentives. Once a kid is old enough to search for what they want, regular YouTube with the settings above is usually a better learning environment than YouTube Kids.
 
 ## Install an ad blocker
 
